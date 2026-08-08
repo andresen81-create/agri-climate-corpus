@@ -373,7 +373,7 @@
  },
  "CI|cocoa|2026/27|production|-10|down": {
   "id": "j036",
-  "corroboration_count": 1
+  "corroboration_count": 2
  },
  "IN|rice|kharif 2026|planted_area|11.47|down": {
   "id": "j037",
@@ -605,11 +605,11 @@
  },
  "TR|winter_wheat|2026|na|None|up": {
   "id": "a034",
-  "corroboration_count": 1
+  "corroboration_count": 2
  },
  "DE|mixed_grains|2026|na|None|down": {
   "id": "a035",
-  "corroboration_count": 1
+  "corroboration_count": 2
  },
  "US|mixed_grains|2026|na|None|down": {
   "id": "a036",
@@ -617,6 +617,86 @@
  },
  "GB|mixed_grains|2026 harvest|harvested_area|54|up": {
   "id": "a037",
+  "corroboration_count": 1
+ },
+ "EU|maize|2026/27|production|51.9|down": {
+  "id": "w001",
+  "corroboration_count": 1
+ },
+ "EU|barley|2026/27|production|51.1|down": {
+  "id": "w002",
+  "corroboration_count": 1
+ },
+ "FR|oilseed_rape|2026/27|futures_price|438.99|down": {
+  "id": "w003",
+  "corroboration_count": 1
+ },
+ "CA|oilseed_rape|2026/27|na|None|up": {
+  "id": "w004",
+  "corroboration_count": 1
+ },
+ "US|soybean|2026|na|None|up": {
+  "id": "w005",
+  "corroboration_count": 1
+ },
+ "GB|spring_barley|2026 harvest|yield|5.3|down": {
+  "id": "w006",
+  "corroboration_count": 1
+ },
+ "GB|oats|2026 harvest|yield|4.9|down": {
+  "id": "w007",
+  "corroboration_count": 1
+ },
+ "HU|mixed_grains|2026|na|None|down": {
+  "id": "w008",
+  "corroboration_count": 1
+ },
+ "IT|maize|2026|na|None|down": {
+  "id": "w009",
+  "corroboration_count": 1
+ },
+ "IT|mixed_grains|2026|na|None|down": {
+  "id": "w010",
+  "corroboration_count": 1
+ },
+ "PL|mixed_grains|2026|na|None|down": {
+  "id": "w011",
+  "corroboration_count": 1
+ },
+ "ES|winter_wheat|2026|na|None|down": {
+  "id": "w012",
+  "corroboration_count": 1
+ },
+ "US|soybean|2026|condition_good_excellent|63|down": {
+  "id": "w013",
+  "corroboration_count": 1
+ },
+ "US|maize|2026|condition_good_excellent|-13|down": {
+  "id": "w014",
+  "corroboration_count": 1
+ },
+ "US|spring_wheat|2026|condition_good_excellent|12|up": {
+  "id": "w015",
+  "corroboration_count": 1
+ },
+ "US|winter_wheat|2026/27|harvested_area|86|up": {
+  "id": "w016",
+  "corroboration_count": 1
+ },
+ "GH|cocoa|2026/27|production|16|down": {
+  "id": "w017",
+  "corroboration_count": 1
+ },
+ "BR|coffee|2026/27|rainfall_mm|0|down": {
+  "id": "w018",
+  "corroboration_count": 1
+ },
+ "BR|coffee|2026/27|harvested_area|58.3|down": {
+  "id": "w019",
+  "corroboration_count": 1
+ },
+ "BR|coffee|2026/27|futures_price|-3.04|down": {
+  "id": "w020",
   "corroboration_count": 1
  }
 }

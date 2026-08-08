@@ -771,8 +771,8 @@
     "claim_id": "a021"
    }
   ],
-  "label": null,
-  "chartable": false
+  "label": "AHDB Arable Market Report — France maize, condition good or excellent",
+  "chartable": true
  },
  "FR|france|maize|condition_good_excellent|ESM Magazine": {
   "country": "FR",
@@ -997,8 +997,8 @@
     "claim_id": "j025"
    }
   ],
-  "label": null,
-  "chartable": false
+  "label": "Environment Agency — England reservoir storage",
+  "chartable": true
  },
  "GB|england|oilseed_rape|condition_good_excellent|FarmingUK": {
   "country": "GB",
@@ -1925,8 +1925,8 @@
     "claim_id": "j015"
    }
   ],
-  "label": null,
-  "chartable": false
+  "label": "USDA NASS — US Great Plains winter wheat production",
+  "chartable": true
  },
  "US|hard red winter belt|winter_wheat|production|USDA ERS": {
   "country": "US",
@@ -2049,8 +2049,8 @@
     "claim_id": "a028"
    }
   ],
-  "label": null,
-  "chartable": false
+  "label": "DTN — US Northern Plains spring wheat, condition good or excellent",
+  "chartable": true
  },
  "US|northern plains|spring_wheat|damaged_area|ADM Investor Services": {
   "country": "US",
@@ -2200,6 +2200,227 @@
     "event_date": "2026-07",
     "metric_value": 0.57,
     "claim_id": "j047"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "EU|eu-27|maize|production|AHDB": {
+  "country": "EU",
+  "region": "eu-27",
+  "crop": "maize",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-07-30",
+    "metric_value": 51.9,
+    "claim_id": "w001"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "EU|eu-27|barley|production|AHDB": {
+  "country": "EU",
+  "region": "eu-27",
+  "crop": "barley",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-07-30",
+    "metric_value": 51.1,
+    "claim_id": "w002"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "FR|paris (euronext)|oilseed_rape|futures_price|AHDB": {
+  "country": "FR",
+  "region": "paris (euronext)",
+  "crop": "oilseed_rape",
+  "metric_name": "futures_price",
+  "metric_unit": "£/tonne",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-07-31",
+    "metric_value": 438.99,
+    "claim_id": "w003"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|spring_barley|yield|AHDB": {
+  "country": "GB",
+  "region": "united kingdom",
+  "crop": "spring_barley",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-07-27",
+    "metric_value": 5.3,
+    "claim_id": "w006"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|oats|yield|AHDB": {
+  "country": "GB",
+  "region": "united kingdom",
+  "crop": "oats",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-07-27",
+    "metric_value": 4.9,
+    "claim_id": "w007"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|midwest / corn belt|soybean|condition_good_excellent|DTN": {
+  "country": "US",
+  "region": "midwest / corn belt",
+  "crop": "soybean",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "% of crop",
+  "publisher": "DTN/Progressive Farmer",
+  "readings": [
+   {
+    "event_date": "2026-08-02",
+    "metric_value": 63,
+    "claim_id": "w013"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|north dakota|maize|condition_good_excellent|DTN": {
+  "country": "US",
+  "region": "north dakota",
+  "crop": "maize",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "percentage point change on week",
+  "publisher": "DTN/Progressive Farmer",
+  "readings": [
+   {
+    "event_date": "2026-08-02",
+    "metric_value": -13,
+    "claim_id": "w014"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|montana|spring_wheat|condition_good_excellent|DTN": {
+  "country": "US",
+  "region": "montana",
+  "crop": "spring_wheat",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "percentage point change on week",
+  "publisher": "DTN/Progressive Farmer",
+  "readings": [
+   {
+    "event_date": "2026-08-02",
+    "metric_value": 12,
+    "claim_id": "w015"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states|winter_wheat|harvested_area|DTN": {
+  "country": "US",
+  "region": "united states",
+  "crop": "winter_wheat",
+  "metric_name": "harvested_area",
+  "metric_unit": "% complete",
+  "publisher": "DTN/Progressive Farmer",
+  "readings": [
+   {
+    "event_date": "2026-08-02",
+    "metric_value": 86,
+    "claim_id": "w016"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GH|western and western north regions|cocoa|production|Reuters": {
+  "country": "GH",
+  "region": "western and western north regions",
+  "crop": "cocoa",
+  "metric_name": "production",
+  "metric_unit": "% decline",
+  "publisher": "Reuters",
+  "readings": [
+   {
+    "event_date": "2026-07-31",
+    "metric_value": 16,
+    "claim_id": "w017"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|minas gerais|coffee|rainfall_mm|Barchart": {
+  "country": "BR",
+  "region": "minas gerais",
+  "crop": "coffee",
+  "metric_name": "rainfall_mm",
+  "metric_unit": "mm in the week",
+  "publisher": "Barchart",
+  "readings": [
+   {
+    "event_date": "2026-08-02",
+    "metric_value": 0,
+    "claim_id": "w018"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|minas gerais|coffee|harvested_area|Barchart": {
+  "country": "BR",
+  "region": "minas gerais",
+  "crop": "coffee",
+  "metric_name": "harvested_area",
+  "metric_unit": "% complete",
+  "publisher": "Barchart",
+  "readings": [
+   {
+    "event_date": "2026-07-24",
+    "metric_value": 58.3,
+    "claim_id": "w019"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|ice arabica (global benchmark)|coffee|futures_price|Barchart": {
+  "country": "BR",
+  "region": "ice arabica (global benchmark)",
+  "crop": "coffee",
+  "metric_name": "futures_price",
+  "metric_unit": "% change on the day",
+  "publisher": "Barchart",
+  "readings": [
+   {
+    "event_date": "2026-08-03",
+    "metric_value": -3.04,
+    "claim_id": "w020"
    }
   ],
   "label": null,

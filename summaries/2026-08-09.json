@@ -1,0 +1,29 @@
+{
+ "date": "2026-08-09",
+ "row_count": 20,
+ "headline": "Europe's heat-and-drought season hardened into official numbers: the European Commission cut EU maize to 51.9 Mt from 59.9 Mt a month earlier and JRC MARS logged premature ripening, storm lodging and severe Hungarian drought, while Ghana's COCOBOD put next season's cocoa crop down at least 16%.",
+ "key_points": [
+  "The European Commission's 30 July balance sheet cut EU 2026/27 maize production to 51.9 Mt from 59.9 Mt in June — an 8 Mt revision that lifts the EU's maize import requirement by 5.0 Mt to 24.0 Mt — with barley also cut to 51.1 Mt.",
+  "JRC MARS's July bulletin adds the ground-level detail behind the EU cuts: premature maturity and early harvesting across south-western Germany, Austria, Slovakia and Czechia; severe drought worst in Hungary; heat stress at maize flowering in northern Italy; and storm, downburst and hail lodging in northern Italy, Slovenia, Croatia and Germany.",
+  "AHDB's first 2026 UK harvest report extends the poor-cereals picture to the minor crops: spring barley at 5.3 t/ha and oats at 4.9 t/ha, both below their ten-year averages, alongside the already-recorded 6.8 t/ha wheat.",
+  "Ghana's COCOBOD told Reuters output will fall at least 16% in 2026/27, citing likely El Nino conditions and excessive May-June rain alongside disease and illegal mining; Ivory Coast is still expected down more than 10%, corroborating the existing July row.",
+  "POSITIVE counterweight this week: Montana spring wheat jumped 12 points in good-to-excellent, US winter wheat harvest hit 86% complete, Canadian Prairie canola conditions stayed favourable, and Turkiye's cool wet spring produced record winter crop yields — enough to push Paris rapeseed futures down 6.7% to £438.99/t."
+ ],
+ "notable_numbers": [
+  {"label": "EU maize production 2026/27", "value": "51.9 Mt", "note": "European Commission, cut from 59.9 Mt in June; import need +5.0 Mt to 24.0 Mt"},
+  {"label": "EU barley production 2026/27", "value": "51.1 Mt", "note": "revised lower in the same 30 July balance sheet"},
+  {"label": "Ghana cocoa 2026/27", "value": "-16%", "note": "COCOBOD; El Nino and excess May-June rain among several cited drivers"},
+  {"label": "UK spring barley yield", "value": "5.3 t/ha", "note": "AHDB harvest report 1, vs 5.7 t/ha ten-year average, only 8% cut"},
+  {"label": "UK oat yield", "value": "4.9 t/ha", "note": "bottom of the ten-year range of 4.9-5.9 t/ha"},
+  {"label": "North Dakota corn condition", "value": "-13 pts", "note": "largest single-state weekly decline in the 2 August USDA report"},
+  {"label": "Montana spring wheat condition", "value": "+12 pts", "note": "POSITIVE: reversal after July dryness in the Northern Plains"},
+  {"label": "Minas Gerais rainfall", "value": "0 mm", "note": "Somar Meteorologia, week ended 2 August, in Brazil's biggest coffee region"},
+  {"label": "Paris rapeseed Nov-26", "value": "£438.99/t", "note": "-6.7% on the week on improving North American crop prospects"}
+ ],
+ "what_changed": "no prior summary available",
+ "conflicts": [
+  {"ids": ["a031", "w020"], "note": "Both published 2026-08-03 and both attribute the move to weather, in opposite directions: Czapp reports Brazilian coffee futures UP at 331 while Barchart reports September ICE arabica (KCU26) DOWN 3.04% because dryness in Minas Gerais should accelerate the harvest. Different contracts and units; not reconciled, both rows kept."},
+  {"ids": ["c014", "c015"], "note": "Pre-existing and still open: AHDB's own outputs give 64% and 58% good-to-excellent for GB winter wheat on the same day, 2026-06-29. The series stays chartable:false on both the flag and the missing label."},
+  {"ids": ["a022", "j006"], "note": "France maize 2026 production: RFI (2026-08-08) says 9 Mt, COCERAL via World Grain (2026-07-10) says 9.4 Mt. Close but not identical; the gap is a month of further deterioration rather than a contradiction, recorded here so it is not read as one figure."}
+ ]
+}
