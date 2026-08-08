@@ -1,0 +1,2208 @@
+{
+ "AU|australia|mixed_grains|production|ABARES": {
+  "country": "AU",
+  "region": "Australia (national)",
+  "crop": "mixed_grains",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "ABARES",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 54.5,
+    "claim_id": "c008"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "AU|australia|oilseed_rape|production|Grain Central": {
+  "country": "AU",
+  "region": "Australia (national)",
+  "crop": "oilseed_rape",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "Grain Central",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 6.2,
+    "claim_id": "c010"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "AU|australia|wheat|production|ABARES": {
+  "country": "AU",
+  "region": "Australia; northern NSW and southern Queensland worst affected",
+  "crop": "wheat",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "ABARES",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 26.7,
+    "claim_id": "c009"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "AU|new south wales|mixed_grains|production|ABARES": {
+  "country": "AU",
+  "region": "New South Wales",
+  "crop": "mixed_grains",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "ABARES",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 11.7,
+    "claim_id": "c012"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "AU|queensland|barley|spot_price|Grain Central": {
+  "country": "AU",
+  "region": "Queensland, NSW, Victoria, SA",
+  "crop": "barley",
+  "metric_name": "spot_price",
+  "metric_unit": "AUD/tonne",
+  "publisher": "Grain Central",
+  "readings": [
+   {
+    "event_date": "2026-07-23",
+    "metric_value": 400,
+    "claim_id": "j049"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "AU|queensland|mixed_grains|production|ABARES": {
+  "country": "AU",
+  "region": "Queensland",
+  "crop": "mixed_grains",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "ABARES",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 2.4,
+    "claim_id": "c011"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "AU|western australia|mixed_grains|production|ABARES": {
+  "country": "AU",
+  "region": "Western Australia",
+  "crop": "mixed_grains",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "ABARES",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 21.5,
+    "claim_id": "c013"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "AU|western australia|mixed_grains|production|GIWA": {
+  "country": "AU",
+  "region": "Western Australia",
+  "crop": "mixed_grains",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "GIWA",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 22.7,
+    "claim_id": "j048"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BD|chattogram|rice|damaged_area|The Daily Star": {
+  "country": "BD",
+  "region": "Chattogram, Noakhali, Cumilla, Barishal",
+  "crop": "rice",
+  "metric_name": "damaged_area",
+  "metric_unit": "hectares",
+  "publisher": "The Daily Star",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 24138,
+    "claim_id": "j046"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BD|north-eastern haor|rice|damaged_area|GEOGLAM Crop Monitor": {
+  "country": "BD",
+  "region": "North-eastern haor (low-lying) region",
+  "crop": "rice",
+  "metric_name": "damaged_area",
+  "metric_unit": "hectares (upper bound of 49,000-52,575 range)",
+  "publisher": "GEOGLAM Crop Monitor",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 52575,
+    "claim_id": "c051"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BE|nw europe|potato|planted_area|NEPG": {
+  "country": "BE",
+  "region": "NW Europe (BE, NL, FR, DE)",
+  "crop": "potato",
+  "metric_name": "planted_area",
+  "metric_unit": "hectares",
+  "publisher": "NEPG",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 536900,
+    "claim_id": "j031"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|brazil|coffee|production|Sucden Financial": {
+  "country": "BR",
+  "region": "Brazil",
+  "crop": "coffee",
+  "metric_name": "production",
+  "metric_unit": "million 60kg bags (range 76-77m)",
+  "publisher": "Sucden Financial",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 77,
+    "claim_id": "c039"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|brazil|mixed_grains|production|CONAB": {
+  "country": "BR",
+  "region": "Brazil (national); ideal conditions in Rio Grande do Sul",
+  "crop": "mixed_grains",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "CONAB",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 358.6,
+    "claim_id": "c037"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|maranhão|rice|yield|CONAB": {
+  "country": "BR",
+  "region": "Maranhão",
+  "crop": "rice",
+  "metric_name": "yield",
+  "metric_unit": "kg/ha",
+  "publisher": "CONAB",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 2295,
+    "claim_id": "c035"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|mato grosso|soybean|production|CONAB": {
+  "country": "BR",
+  "region": "Mato Grosso; Goiás, Minas Gerais, Piauí",
+  "crop": "soybean",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "CONAB",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 180.6,
+    "claim_id": "j033"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|minas gerais|coffee|futures_price|Czapp": {
+  "country": "BR",
+  "region": "Minas Gerais",
+  "crop": "coffee",
+  "metric_name": "futures_price",
+  "metric_unit": "US cents/lb",
+  "publisher": "Czapp (Czarnikow)",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 331,
+    "claim_id": "a031"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|minas gerais|coffee|production|Bloomberg": {
+  "country": "BR",
+  "region": "Minas Gerais, Espírito Santo, Rondônia",
+  "crop": "coffee",
+  "metric_name": "production",
+  "metric_unit": "%",
+  "publisher": "Bloomberg",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": -17.5,
+    "claim_id": "j034"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|minas gerais|coffee|rainfall_pct_normal|Barchart": {
+  "country": "BR",
+  "region": "Minas Gerais",
+  "crop": "coffee",
+  "metric_name": "rainfall_pct_normal",
+  "metric_unit": "% of normal",
+  "publisher": "Barchart",
+  "readings": [
+   {
+    "event_date": "2026-06-28",
+    "metric_value": 1956,
+    "claim_id": "c038"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|piauí|rice|planted_area|CONAB": {
+  "country": "BR",
+  "region": "Piauí (south-east of the state)",
+  "crop": "rice",
+  "metric_name": "planted_area",
+  "metric_unit": "%",
+  "publisher": "CONAB",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": -9,
+    "claim_id": "c036"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|southern minas gerais|coffee|futures_price|CocoaIntel": {
+  "country": "BR",
+  "region": "Southern Minas Gerais, Mogiana, Paraná",
+  "crop": "coffee",
+  "metric_name": "futures_price",
+  "metric_unit": "% daily move",
+  "publisher": "CocoaIntel",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 16,
+    "claim_id": "j056"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|são paulo and western minas gerais|orange|production|Citrus Industry Magazine": {
+  "country": "BR",
+  "region": "São Paulo and western Minas Gerais",
+  "crop": "orange",
+  "metric_name": "production",
+  "metric_unit": "million boxes",
+  "publisher": "Citrus Industry Magazine",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 255.2,
+    "claim_id": "c040"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "CH|global|cocoa|revenue|ConfectioneryNews": {
+  "country": "CH",
+  "region": "Global",
+  "crop": "cocoa",
+  "metric_name": "revenue",
+  "metric_unit": "% organic growth",
+  "publisher": "ConfectioneryNews",
+  "readings": [
+   {
+    "event_date": "2026-07-21",
+    "metric_value": 4.3,
+    "claim_id": "j053"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "CH|west africa|cocoa|spot_price|Barry Callebaut": {
+  "country": "CH",
+  "region": "West Africa, Ecuador",
+  "crop": "cocoa",
+  "metric_name": "spot_price",
+  "metric_unit": "%",
+  "publisher": "Barry Callebaut",
+  "readings": [
+   {
+    "event_date": "2026-07-09",
+    "metric_value": -47,
+    "claim_id": "j052"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "CI|côte d'ivoire and ghana|cocoa|production|Ecofin Agency": {
+  "country": "CI",
+  "region": "Côte d'Ivoire and Ghana",
+  "crop": "cocoa",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "Ecofin Agency",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 1.75,
+    "claim_id": "j035"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "CI|côte d'ivoire|cocoa|export_volume|CNBC Africa": {
+  "country": "CI",
+  "region": "Côte d'Ivoire",
+  "crop": "cocoa",
+  "metric_name": "export_volume",
+  "metric_unit": "tonnes",
+  "publisher": "CNBC Africa (Reuters)",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 1000000,
+    "claim_id": "c042"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "CI|côte d'ivoire|cocoa|production|Reuters via CNBC Africa": {
+  "country": "CI",
+  "region": "Côte d'Ivoire",
+  "crop": "cocoa",
+  "metric_name": "production",
+  "metric_unit": "%",
+  "publisher": "Reuters via CNBC Africa",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": -10,
+    "claim_id": "j036"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "CI|west africa|cocoa|futures_price|CocoaIntel": {
+  "country": "CI",
+  "region": "West Africa (Côte d'Ivoire, Ghana)",
+  "crop": "cocoa",
+  "metric_name": "futures_price",
+  "metric_unit": "%",
+  "publisher": "CocoaIntel",
+  "readings": [
+   {
+    "event_date": "2026-06-24",
+    "metric_value": 6.89,
+    "claim_id": "c041"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "CN|china wheat belt|wheat|damaged_area|Frontier Agriculture": {
+  "country": "CN",
+  "region": "China wheat belt",
+  "crop": "wheat",
+  "metric_name": "damaged_area",
+  "metric_unit": "million tonnes (range 4.8-10)",
+  "publisher": "Frontier Agriculture",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 10,
+    "claim_id": "c055"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "DE|germany|winter_wheat|production|Deutscher Raiffeisenverband": {
+  "country": "DE",
+  "region": "Germany",
+  "crop": "winter_wheat",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "Deutscher Raiffeisenverband",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 22.57,
+    "claim_id": "j014"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "DE|global|mixed_grains|cost|Munich Re": {
+  "country": "DE",
+  "region": "Global",
+  "crop": "mixed_grains",
+  "metric_name": "cost",
+  "metric_unit": "USD billion",
+  "publisher": "Munich Re",
+  "readings": [
+   {
+    "event_date": "2026-07-30",
+    "metric_value": 44,
+    "claim_id": "j055"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "DE|southern germany|sugar|production|Cropli": {
+  "country": "DE",
+  "region": "Southern Germany",
+  "crop": "sugar",
+  "metric_name": "production",
+  "metric_unit": "%",
+  "publisher": "Cropli",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": -33,
+    "claim_id": "a025"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "ES|castile and león|potato|yield|Potato News Today": {
+  "country": "ES",
+  "region": "Castile and León, Spain (knock-on risk in FR, DE, BE, NL, PL)",
+  "crop": "potato",
+  "metric_name": "yield",
+  "metric_unit": "% (range 10-15%)",
+  "publisher": "Potato News Today",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 10,
+    "claim_id": "c025"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "ET|eastern amhara|sorghum|yield|GEOGLAM Crop Monitor": {
+  "country": "ET",
+  "region": "Eastern Amhara, Tigray, north-eastern Oromia",
+  "crop": "sorghum",
+  "metric_name": "yield",
+  "metric_unit": "% vs normal (localised deficits over 10-15%)",
+  "publisher": "GEOGLAM Crop Monitor",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": -2,
+    "claim_id": "c048"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "EU|eu-27 + uk|maize|production|COCERAL": {
+  "country": "EU",
+  "region": "EU-27 + UK",
+  "crop": "maize",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "COCERAL",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 52.7,
+    "claim_id": "j006"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "EU|eu-27 + uk|mixed_grains|production|ECIU": {
+  "country": "EU",
+  "region": "EU-27 + UK",
+  "crop": "mixed_grains",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "ECIU",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": -9,
+    "claim_id": "j004"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "EU|eu-27|maize|yield|European Commission JRC": {
+  "country": "EU",
+  "region": "EU-27",
+  "crop": "maize",
+  "metric_name": "yield",
+  "metric_unit": "%",
+  "publisher": "European Commission JRC (MARS)",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": -6.5,
+    "claim_id": "j001"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "EU|eu-27|mixed_grains|yield|European Commission JRC": {
+  "country": "EU",
+  "region": "EU-27",
+  "crop": "mixed_grains",
+  "metric_name": "yield",
+  "metric_unit": "% vs 5-yr avg",
+  "publisher": "European Commission JRC (MARS)",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": -1,
+    "claim_id": "j002"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "EU|eu-27|wheat|production|AHDB": {
+  "country": "EU",
+  "region": "EU-27",
+  "crop": "wheat",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 126.3,
+    "claim_id": "c022"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "EU|eu-27|wheat|production|COCERAL": {
+  "country": "EU",
+  "region": "EU-27",
+  "crop": "wheat",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "COCERAL",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 140.8,
+    "claim_id": "j007"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "EU|eu-27|wheat|production|Grain Central": {
+  "country": "EU",
+  "region": "EU-27",
+  "crop": "wheat",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "Grain Central",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 124.4,
+    "claim_id": "a024"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "EU|europe|mixed_grains|revenue|ECIU": {
+  "country": "EU",
+  "region": "Europe",
+  "crop": "mixed_grains",
+  "metric_name": "revenue",
+  "metric_unit": "EUR million",
+  "publisher": "ECIU",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": -2000,
+    "claim_id": "j003"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "FR|champagne|grapes_wine|crop_damage_pct|The Drinks Business": {
+  "country": "FR",
+  "region": "Champagne, Chablis, Côte de Beaune, Chassagne, Givry",
+  "crop": "grapes_wine",
+  "metric_name": "crop_damage_pct",
+  "metric_unit": "%",
+  "publisher": "The Drinks Business",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 40,
+    "claim_id": "c030"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "FR|euronext paris|oilseed_rape|futures_price|AHDB": {
+  "country": "FR",
+  "region": "Euronext Paris (EU-wide)",
+  "crop": "oilseed_rape",
+  "metric_name": "futures_price",
+  "metric_unit": "GBP/tonne (+1.1% w/w)",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-06-26",
+    "metric_value": 447.44,
+    "claim_id": "c023"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "FR|france / eu|sugar|production|ESM Magazine": {
+  "country": "FR",
+  "region": "France / EU",
+  "crop": "sugar",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "ESM Magazine",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 14.13,
+    "claim_id": "j013"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "FR|france|maize|condition_good_excellent|AHDB": {
+  "country": "FR",
+  "region": "France",
+  "crop": "maize",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-06-22",
+    "metric_value": 76,
+    "claim_id": "c021"
+   },
+   {
+    "event_date": "2026-07-20",
+    "metric_value": 38,
+    "claim_id": "j008"
+   },
+   {
+    "event_date": "2026-07-27",
+    "metric_value": 34,
+    "claim_id": "a021"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "FR|france|maize|condition_good_excellent|ESM Magazine": {
+  "country": "FR",
+  "region": "France",
+  "crop": "maize",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "ESM Magazine",
+  "readings": [
+   {
+    "event_date": "2026-06-29",
+    "metric_value": 58,
+    "claim_id": "j009"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "FR|france|maize|production|ECIU": {
+  "country": "FR",
+  "region": "France",
+  "crop": "maize",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "ECIU",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": -3.4,
+    "claim_id": "j005"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "FR|france|maize|production|RFI": {
+  "country": "FR",
+  "region": "France",
+  "crop": "maize",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "RFI",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 9,
+    "claim_id": "a022"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "FR|france|maize|production|Reuters": {
+  "country": "FR",
+  "region": "France",
+  "crop": "maize",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "Reuters",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 8.9,
+    "claim_id": "j012"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "FR|france|wheat|production|Reuters": {
+  "country": "FR",
+  "region": "France",
+  "crop": "wheat",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "Reuters / Business Recorder",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 30.8,
+    "claim_id": "j010"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "FR|france|wheat|yield|Reuters": {
+  "country": "FR",
+  "region": "France",
+  "crop": "wheat",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "Reuters / Business Recorder",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 6.67,
+    "claim_id": "j011"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|eastern england|winter_barley|grain_moisture|Farmers Weekly": {
+  "country": "GB",
+  "region": "Eastern England (Norfolk, Suffolk, Cambridgeshire)",
+  "crop": "winter_barley",
+  "metric_name": "grain_moisture",
+  "metric_unit": "%",
+  "publisher": "Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-06-29",
+    "metric_value": 9,
+    "claim_id": "c018"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|elveden estate|winter_barley|yield|Farmers Weekly": {
+  "country": "GB",
+  "region": "Elveden Estate, Norfolk/Suffolk border",
+  "crop": "winter_barley",
+  "metric_name": "yield",
+  "metric_unit": "t/ha (range 6-8.5)",
+  "publisher": "Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-06-29",
+    "metric_value": 8.5,
+    "claim_id": "c019"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|england — cam and ely ouse|spring_barley|reservoir_fill|Environment Agency": {
+  "country": "GB",
+  "region": "England — Cam and Ely Ouse, North West Norfolk, North Norfolk",
+  "crop": "spring_barley",
+  "metric_name": "reservoir_fill",
+  "metric_unit": "%",
+  "publisher": "Environment Agency / Defra",
+  "readings": [
+   {
+    "event_date": "2026-06-26",
+    "metric_value": 55,
+    "claim_id": "c017"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|england|field_veg|spot_price|The Guardian": {
+  "country": "GB",
+  "region": "England",
+  "crop": "field_veg",
+  "metric_name": "spot_price",
+  "metric_unit": "% change",
+  "publisher": "The Guardian",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 60,
+    "claim_id": "a006"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|england|mixed_grains|damaged_area|NFU": {
+  "country": "GB",
+  "region": "England (East Anglia and others)",
+  "crop": "mixed_grains",
+  "metric_name": "damaged_area",
+  "metric_unit": "abstraction restrictions",
+  "publisher": "NFU",
+  "readings": [
+   {
+    "event_date": "2026-07-29",
+    "metric_value": 1506,
+    "claim_id": "j028"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|england|mixed_grains|rainfall_pct_normal|Environment Agency": {
+  "country": "GB",
+  "region": "England",
+  "crop": "mixed_grains",
+  "metric_name": "rainfall_pct_normal",
+  "metric_unit": "% of normal",
+  "publisher": "Environment Agency / Defra",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 7,
+    "claim_id": "j024"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|england|mixed_grains|reservoir_fill|Environment Agency": {
+  "country": "GB",
+  "region": "England",
+  "crop": "mixed_grains",
+  "metric_name": "reservoir_fill",
+  "metric_unit": "%",
+  "publisher": "Environment Agency / Defra",
+  "readings": [
+   {
+    "event_date": "2026-07-21",
+    "metric_value": 75.3,
+    "claim_id": "j026"
+   },
+   {
+    "event_date": "2026-07-30",
+    "metric_value": 72,
+    "claim_id": "j025"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|england|oilseed_rape|condition_good_excellent|FarmingUK": {
+  "country": "GB",
+  "region": "England, especially lighter soils and eastern areas",
+  "crop": "oilseed_rape",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "FarmingUK",
+  "readings": [
+   {
+    "event_date": "2026-06-29",
+    "metric_value": 13,
+    "claim_id": "c016"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|england|potato|reservoir_fill|Grocery Gazette": {
+  "country": "GB",
+  "region": "England",
+  "crop": "potato",
+  "metric_name": "reservoir_fill",
+  "metric_unit": "%",
+  "publisher": "Grocery Gazette",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 75.3,
+    "claim_id": "a007"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|england|potato|spot_price|Grocery Gazette": {
+  "country": "GB",
+  "region": "England",
+  "crop": "potato",
+  "metric_name": "spot_price",
+  "metric_unit": "% change",
+  "publisher": "Grocery Gazette",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 40,
+    "claim_id": "a005"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|england|spring_barley|rainfall_pct_normal|Environment Agency": {
+  "country": "GB",
+  "region": "England",
+  "crop": "spring_barley",
+  "metric_name": "rainfall_pct_normal",
+  "metric_unit": "% of normal",
+  "publisher": "Environment Agency / Defra",
+  "readings": [
+   {
+    "event_date": "2026-07-16",
+    "metric_value": 3,
+    "claim_id": "j027"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|gloucestershire|winter_wheat|yield|Farmers Weekly": {
+  "country": "GB",
+  "region": "Gloucestershire (Staunton)",
+  "crop": "winter_wheat",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 4.8,
+    "claim_id": "a012"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|great britain|dairy|production|AHDB": {
+  "country": "GB",
+  "region": "Great Britain",
+  "crop": "dairy",
+  "metric_name": "production",
+  "metric_unit": "million litres",
+  "publisher": "AHDB (via IndexBox)",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": -18.5,
+    "claim_id": "j030"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|great britain|livestock|yield|FarmingUK": {
+  "country": "GB",
+  "region": "Great Britain",
+  "crop": "livestock",
+  "metric_name": "yield",
+  "metric_unit": "%",
+  "publisher": "FarmingUK / ECIU",
+  "readings": [
+   {
+    "event_date": "2026-07-31",
+    "metric_value": -46,
+    "claim_id": "a015"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|hawk mill farms|oilseed_rape|grain_moisture|Farmers Weekly": {
+  "country": "GB",
+  "region": "Hawk Mill Farms, chalkland between Cambridge and Newmarket",
+  "crop": "oilseed_rape",
+  "metric_name": "grain_moisture",
+  "metric_unit": "%",
+  "publisher": "Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-06-28",
+    "metric_value": 6.5,
+    "claim_id": "c020"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|hertfordshire and essex|wheat|yield|Farmers Weekly": {
+  "country": "GB",
+  "region": "Hertfordshire and Essex",
+  "crop": "wheat",
+  "metric_name": "yield",
+  "metric_unit": "%",
+  "publisher": "Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": -17,
+    "claim_id": "a010"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|lincolnshire|winter_wheat|yield|Farmers Weekly": {
+  "country": "GB",
+  "region": "Lincolnshire (Skegness)",
+  "crop": "winter_wheat",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 12,
+    "claim_id": "a011"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|norfolk|spring_barley|yield|Farmers Weekly": {
+  "country": "GB",
+  "region": "Norfolk",
+  "crop": "spring_barley",
+  "metric_name": "yield",
+  "metric_unit": "%",
+  "publisher": "Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": -30,
+    "claim_id": "a009"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|north yorkshire|oilseed_rape|yield|Farmers Weekly": {
+  "country": "GB",
+  "region": "North Yorkshire",
+  "crop": "oilseed_rape",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 4.7,
+    "claim_id": "a014"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|scottish borders|oilseed_rape|yield|Farmers Weekly": {
+  "country": "GB",
+  "region": "Scottish Borders",
+  "crop": "oilseed_rape",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 5.8,
+    "claim_id": "a013"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|south west england|potato|yield|Farmers Weekly": {
+  "country": "GB",
+  "region": "South West England (Torpoint, Devon)",
+  "crop": "potato",
+  "metric_name": "yield",
+  "metric_unit": "% of normal",
+  "publisher": "Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 82.5,
+    "claim_id": "j029"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|uk|sugar|revenue|Associated British Foods": {
+  "country": "GB",
+  "region": "UK, Spain, southern Africa",
+  "crop": "sugar",
+  "metric_name": "revenue",
+  "metric_unit": "GBP million",
+  "publisher": "Associated British Foods",
+  "readings": [
+   {
+    "event_date": "2026-07-01",
+    "metric_value": -60,
+    "claim_id": "j050"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom / us midwest|wheat|futures_price|AHDB": {
+  "country": "GB",
+  "region": "United Kingdom / US Midwest",
+  "crop": "wheat",
+  "metric_name": "futures_price",
+  "metric_unit": "GBP/tonne (-3.4% w/w)",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-06-05",
+    "metric_value": 180.5,
+    "claim_id": "c024"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|dairy|deliveries|Farmers Weekly": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "dairy",
+  "metric_name": "deliveries",
+  "metric_unit": "million litres",
+  "publisher": "Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": -18.5,
+    "claim_id": "a016"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|mixed_grains|harvested_area|Reuters": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "mixed_grains",
+  "metric_name": "harvested_area",
+  "metric_unit": "% of area",
+  "publisher": "Reuters",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 54,
+    "claim_id": "a037"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|mixed_grains|production|ECIU": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "mixed_grains",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "ECIU",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 19.5,
+    "claim_id": "a001"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|mixed_grains|revenue|Farmers Weekly": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "mixed_grains",
+  "metric_name": "revenue",
+  "metric_unit": "GBP million",
+  "publisher": "Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": -390,
+    "claim_id": "a002"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|oilseed_rape|yield|AHDB": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "oilseed_rape",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "AHDB / Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-07-26",
+    "metric_value": 3.9,
+    "claim_id": "j022"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|oilseed_rape|yield|FarmingUK": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "oilseed_rape",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "FarmingUK",
+  "readings": [
+   {
+    "event_date": "2026-07-27",
+    "metric_value": 3.9,
+    "claim_id": "a004"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|sugar|spot_price|NFU": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "sugar",
+  "metric_name": "spot_price",
+  "metric_unit": "EUR/tonne",
+  "publisher": "NFU",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 560,
+    "claim_id": "a026"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|wheat|futures_price|AHDB": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "wheat",
+  "metric_name": "futures_price",
+  "metric_unit": "GBP/tonne",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-07-31",
+    "metric_value": 196.5,
+    "claim_id": "a020"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|wheat|yield|FarmingUK": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "wheat",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "FarmingUK",
+  "readings": [
+   {
+    "event_date": "2026-07-27",
+    "metric_value": 6.8,
+    "claim_id": "a003"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|winter_barley|yield|AHDB": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "winter_barley",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "AHDB / Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-07-26",
+    "metric_value": 6.8,
+    "claim_id": "j023"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|winter_wheat|condition_good_excellent|AHDB": {
+  "country": "GB",
+  "region": "United Kingdom; England worst affected, lighter soils and eastern England",
+  "crop": "winter_wheat",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-06-29",
+    "metric_value": 64,
+    "claim_id": "c014"
+   },
+   {
+    "event_date": "2026-06-29",
+    "metric_value": 58,
+    "claim_id": "c015"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|winter_wheat|yield|AHDB": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "winter_wheat",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "AHDB / Farmers Weekly",
+  "readings": [
+   {
+    "event_date": "2026-07-26",
+    "metric_value": 6.8,
+    "claim_id": "j021"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "ID|sumatra and kalimantan|palm_oil|rainfall_pct_normal|Palm Oil Magazine": {
+  "country": "ID",
+  "region": "Sumatra and Kalimantan",
+  "crop": "palm_oil",
+  "metric_name": "rainfall_pct_normal",
+  "metric_unit": "% of normal",
+  "publisher": "Palm Oil Magazine",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 86.08,
+    "claim_id": "j041"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IE|ireland|dairy|yield|Agriland": {
+  "country": "IE",
+  "region": "Ireland (Leinster and national)",
+  "crop": "dairy",
+  "metric_name": "yield",
+  "metric_unit": "kg DM/ha",
+  "publisher": "Agriland",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 30,
+    "claim_id": "a019"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IE|south-east ireland / carlow|dairy|soil_moisture|Irish Examiner": {
+  "country": "IE",
+  "region": "South-East Ireland / Carlow",
+  "crop": "dairy",
+  "metric_name": "soil_moisture",
+  "metric_unit": "mm deficit",
+  "publisher": "Irish Examiner",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 100,
+    "claim_id": "a018"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IN|all-india|maize|planted_area|Reuters": {
+  "country": "IN",
+  "region": "All-India",
+  "crop": "maize",
+  "metric_name": "planted_area",
+  "metric_unit": "million hectares",
+  "publisher": "Reuters / Business Recorder",
+  "readings": [
+   {
+    "event_date": "2026-07-24",
+    "metric_value": 7.8,
+    "claim_id": "j039"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IN|all-india|mixed_grains|planted_area|Business Standard": {
+  "country": "IN",
+  "region": "All-India",
+  "crop": "mixed_grains",
+  "metric_name": "planted_area",
+  "metric_unit": "million hectares",
+  "publisher": "Business Standard",
+  "readings": [
+   {
+    "event_date": "2026-06-25",
+    "metric_value": 18.272,
+    "claim_id": "c032"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IN|all-india|mixed_grains|planted_area|Reuters": {
+  "country": "IN",
+  "region": "All-India",
+  "crop": "mixed_grains",
+  "metric_name": "planted_area",
+  "metric_unit": "million hectares",
+  "publisher": "Reuters / Business Recorder",
+  "readings": [
+   {
+    "event_date": "2026-07-24",
+    "metric_value": 78.7,
+    "claim_id": "j038"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IN|all-india|mixed_grains|planted_area|ThePrint": {
+  "country": "IN",
+  "region": "All-India",
+  "crop": "mixed_grains",
+  "metric_name": "planted_area",
+  "metric_unit": "million hectares",
+  "publisher": "ThePrint",
+  "readings": [
+   {
+    "event_date": "2026-07-31",
+    "metric_value": 78.738,
+    "claim_id": "a032"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IN|all-india|mixed_grains|rainfall_pct_normal|Down To Earth": {
+  "country": "IN",
+  "region": "All-India; worst in Central India, Meghalaya, Manipur, Jharkhand, Chhattisgarh",
+  "crop": "mixed_grains",
+  "metric_name": "rainfall_pct_normal",
+  "metric_unit": "% of normal",
+  "publisher": "Down To Earth",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": -40,
+    "claim_id": "c033"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IN|all-india|rice|planted_area|Down To Earth": {
+  "country": "IN",
+  "region": "All-India (Gangetic plains)",
+  "crop": "rice",
+  "metric_name": "planted_area",
+  "metric_unit": "million hectares",
+  "publisher": "Down To Earth",
+  "readings": [
+   {
+    "event_date": "2026-07-10",
+    "metric_value": 11.47,
+    "claim_id": "j037"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IN|india / global sugar|sugar|forecast_rainfall_pct|YN Sugar": {
+  "country": "IN",
+  "region": "India / global sugar",
+  "crop": "sugar",
+  "metric_name": "forecast_rainfall_pct",
+  "metric_unit": "% of LPA",
+  "publisher": "YN Sugar",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 90,
+    "claim_id": "c034"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "KE|western kenya and north rift|maize|rainfall_pct_normal|GEOGLAM Crop Monitor": {
+  "country": "KE",
+  "region": "Western Kenya and North Rift",
+  "crop": "maize",
+  "metric_name": "rainfall_pct_normal",
+  "metric_unit": "% of normal",
+  "publisher": "GEOGLAM Crop Monitor",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 45,
+    "claim_id": "j045"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "LS|lesotho|potato|crop_damage_pct|GEOGLAM Crop Monitor": {
+  "country": "LS",
+  "region": "Lesotho",
+  "crop": "potato",
+  "metric_name": "crop_damage_pct",
+  "metric_unit": "%",
+  "publisher": "GEOGLAM Crop Monitor",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 40,
+    "claim_id": "j043"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "MY|malaysia|palm_oil|production|The Star": {
+  "country": "MY",
+  "region": "Malaysia (Negeri Sembilan, Johor, Pahang, Sabah)",
+  "crop": "palm_oil",
+  "metric_name": "production",
+  "metric_unit": "% y/y",
+  "publisher": "The Star (Malaysia)",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": -3,
+    "claim_id": "j040"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "NL|netherlands|potato|yield|Potato Insights": {
+  "country": "NL",
+  "region": "Netherlands, Belgium, Poland",
+  "crop": "potato",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "Potato Insights",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 43.3,
+    "claim_id": "j032"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "PK|punjab — kot addu|mango|crop_damage_pct|Pakistan Today": {
+  "country": "PK",
+  "region": "Punjab — Kot Addu, Multan, Dera Ghazi Khan, Bahawalpur, Sahiwal, Sargodha",
+  "crop": "mango",
+  "metric_name": "crop_damage_pct",
+  "metric_unit": "%",
+  "publisher": "Pakistan Today",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 40,
+    "claim_id": "c054"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "PL|poland|winter_wheat|production|Grain Central": {
+  "country": "PL",
+  "region": "Poland",
+  "crop": "winter_wheat",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "Grain Central",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 11.6,
+    "claim_id": "a023"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "SO|bay region and major sorghum-producing areas|sorghum|yield|GEOGLAM Crop Monitor": {
+  "country": "SO",
+  "region": "Bay region and major sorghum-producing areas",
+  "crop": "sorghum",
+  "metric_name": "yield",
+  "metric_unit": "% vs normal (some areas exceed this)",
+  "publisher": "GEOGLAM Crop Monitor",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": -40,
+    "claim_id": "c047"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "SO|somalia|livestock|rainfall_pct_normal|FEWS NET": {
+  "country": "SO",
+  "region": "Somalia (Bay, Bakool), SE Ethiopia, central-southern Uganda, Rwanda, N Burundi, coastal Kenya",
+  "crop": "livestock",
+  "metric_name": "rainfall_pct_normal",
+  "metric_unit": "% of normal",
+  "publisher": "FEWS NET",
+  "readings": [
+   {
+    "event_date": "2026-05",
+    "metric_value": 75,
+    "claim_id": "c049"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "SY|syria|wheat|damaged_area|GEOGLAM Crop Monitor": {
+  "country": "SY",
+  "region": "Syria (Euphrates governorates)",
+  "crop": "wheat",
+  "metric_name": "damaged_area",
+  "metric_unit": "% of irrigation systems",
+  "publisher": "GEOGLAM Crop Monitor",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 85,
+    "claim_id": "j044"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "TH|southeast asia|rice|export_price|Finimize": {
+  "country": "TH",
+  "region": "Southeast Asia (Thailand, Vietnam, India)",
+  "crop": "rice",
+  "metric_name": "export_price",
+  "metric_unit": "USD/tonne (range 480-500)",
+  "publisher": "Finimize",
+  "readings": [
+   {
+    "event_date": "2026-06-25",
+    "metric_value": 480,
+    "claim_id": "c056"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|california|rice|temperature_anomaly|USDA ERS": {
+  "country": "US",
+  "region": "California (Sacramento Valley)",
+  "crop": "rice",
+  "metric_name": "temperature_anomaly",
+  "metric_unit": "degrees F above normal",
+  "publisher": "USDA ERS / WAOB",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 5,
+    "claim_id": "c006"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|corn belt and plains|maize|condition_good_excellent|DTN": {
+  "country": "US",
+  "region": "Corn Belt and Plains",
+  "crop": "maize",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "DTN/Progressive Farmer",
+  "readings": [
+   {
+    "event_date": "2026-07-26",
+    "metric_value": 63,
+    "claim_id": "j018"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|corn belt|maize|condition_good_excellent|DTN": {
+  "country": "US",
+  "region": "Corn Belt; Iowa 78% vs Illinois 60%",
+  "crop": "maize",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "DTN/Progressive Farmer",
+  "readings": [
+   {
+    "event_date": "2026-06-28",
+    "metric_value": 67,
+    "claim_id": "c005"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|europe|cocoa|production|Mondelez": {
+  "country": "US",
+  "region": "Europe, West Africa",
+  "crop": "cocoa",
+  "metric_name": "production",
+  "metric_unit": "million tonnes surplus",
+  "publisher": "Mondelez (via Investing.com)",
+  "readings": [
+   {
+    "event_date": "2026-07-28",
+    "metric_value": 0.5,
+    "claim_id": "j054"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|great plains|winter_wheat|abandonment_rate|USDA NASS": {
+  "country": "US",
+  "region": "Great Plains",
+  "crop": "winter_wheat",
+  "metric_name": "abandonment_rate",
+  "metric_unit": "%",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-06-01",
+    "metric_value": 32.1,
+    "claim_id": "c002"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|great plains|winter_wheat|production|USDA NASS": {
+  "country": "US",
+  "region": "Great Plains (Kansas, Oklahoma, Texas, Colorado)",
+  "crop": "winter_wheat",
+  "metric_name": "production",
+  "metric_unit": "million bushels",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-06-01",
+    "metric_value": 1030,
+    "claim_id": "c001"
+   },
+   {
+    "event_date": "2026-07-01",
+    "metric_value": 990,
+    "claim_id": "j015"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|hard red winter belt|winter_wheat|production|USDA ERS": {
+  "country": "US",
+  "region": "Hard Red Winter belt, Great Plains",
+  "crop": "winter_wheat",
+  "metric_name": "production",
+  "metric_unit": "million bushels",
+  "publisher": "USDA ERS / WAOB",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 497,
+    "claim_id": "c003"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|iowa and illinois|maize|yield|Grain Central": {
+  "country": "US",
+  "region": "Iowa and Illinois",
+  "crop": "maize",
+  "metric_name": "yield",
+  "metric_unit": "bu/acre",
+  "publisher": "Grain Central",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 184.8,
+    "claim_id": "a030"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|iowa — washington and monroe counties|maize|rainfall_mm|Iowa State University Extension": {
+  "country": "US",
+  "region": "Iowa — Washington and Monroe Counties",
+  "crop": "maize",
+  "metric_name": "rainfall_mm",
+  "metric_unit": "inches (6+)",
+  "publisher": "Iowa State University Extension",
+  "readings": [
+   {
+    "event_date": "2026-06-11",
+    "metric_value": 6,
+    "claim_id": "c007"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|kansas|winter_wheat|yield|Oklahoma Farm Report": {
+  "country": "US",
+  "region": "Kansas (Sherman, Marshall counties)",
+  "crop": "winter_wheat",
+  "metric_name": "yield",
+  "metric_unit": "bu/acre",
+  "publisher": "Oklahoma Farm Report",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 21,
+    "claim_id": "j020"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|midwest / corn belt|maize|condition_good_excellent|DTN": {
+  "country": "US",
+  "region": "Midwest / Corn Belt",
+  "crop": "maize",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "DTN/Progressive Farmer",
+  "readings": [
+   {
+    "event_date": "2026-08-02",
+    "metric_value": 61,
+    "claim_id": "a027"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|nebraska|winter_wheat|condition_good_excellent|USDA NASS": {
+  "country": "US",
+  "region": "Nebraska",
+  "crop": "winter_wheat",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 93,
+    "claim_id": "j017"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|northern plains|spring_wheat|condition_good_excellent|DTN": {
+  "country": "US",
+  "region": "Northern Plains",
+  "crop": "spring_wheat",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "DTN/Progressive Farmer",
+  "readings": [
+   {
+    "event_date": "2026-07-12",
+    "metric_value": 58,
+    "claim_id": "j019"
+   },
+   {
+    "event_date": "2026-08-02",
+    "metric_value": 55,
+    "claim_id": "a028"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|northern plains|spring_wheat|damaged_area|ADM Investor Services": {
+  "country": "US",
+  "region": "Northern Plains",
+  "crop": "spring_wheat",
+  "metric_name": "damaged_area",
+  "metric_unit": "% of acres in drought",
+  "publisher": "ADM Investor Services",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 58,
+    "claim_id": "a029"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|pacific northwest and europe|potato|cost|Lamb Weston": {
+  "country": "US",
+  "region": "Pacific Northwest and Europe",
+  "crop": "potato",
+  "metric_name": "cost",
+  "metric_unit": "USD million",
+  "publisher": "Lamb Weston",
+  "readings": [
+   {
+    "event_date": "2026-07-24",
+    "metric_value": 33.1,
+    "claim_id": "j051"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states winter wheat belt|winter_wheat|condition_good_excellent|USDA ERS": {
+  "country": "US",
+  "region": "United States winter wheat belt",
+  "crop": "winter_wheat",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "USDA ERS / WAOB",
+  "readings": [
+   {
+    "event_date": "2026-06-07",
+    "metric_value": 25,
+    "claim_id": "c004"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states|winter_wheat|yield|USDA NASS": {
+  "country": "US",
+  "region": "United States",
+  "crop": "winter_wheat",
+  "metric_name": "yield",
+  "metric_unit": "bu/acre",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-07-01",
+    "metric_value": 46.7,
+    "claim_id": "j016"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|virginia|grapes_wine|crop_damage_pct|The Drinks Business": {
+  "country": "US",
+  "region": "Virginia, North Carolina, Finger Lakes NY, SE Pennsylvania, Ohio, Maryland",
+  "crop": "grapes_wine",
+  "metric_name": "crop_damage_pct",
+  "metric_unit": "%",
+  "publisher": "The Drinks Business",
+  "readings": [
+   {
+    "event_date": "2026-04",
+    "metric_value": 90,
+    "claim_id": "c031"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "VN|vietnam|rice|damaged_area|Bloomberg": {
+  "country": "VN",
+  "region": "Vietnam (central region)",
+  "crop": "rice",
+  "metric_name": "damaged_area",
+  "metric_unit": "hectares at risk",
+  "publisher": "Bloomberg",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 350000,
+    "claim_id": "j042"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "ZA|free state and north west provinces|maize|deliveries|IOL Business Report": {
+  "country": "ZA",
+  "region": "Free State and North West provinces",
+  "crop": "maize",
+  "metric_name": "deliveries",
+  "metric_unit": "%",
+  "publisher": "IOL Business Report",
+  "readings": [
+   {
+    "event_date": "2026-06-05",
+    "metric_value": -17,
+    "claim_id": "c044"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "ZA|southern africa — south africa|maize|production|European Commission JRC": {
+  "country": "ZA",
+  "region": "Southern Africa — South Africa, Zambia, Zimbabwe",
+  "crop": "maize",
+  "metric_name": "production",
+  "metric_unit": "%",
+  "publisher": "European Commission JRC (ASAP)",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 10,
+    "claim_id": "c045"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "ZW|zimbabwe|maize|spot_price|FEWS NET": {
+  "country": "ZW",
+  "region": "Zimbabwe (deficit districts)",
+  "crop": "maize",
+  "metric_name": "spot_price",
+  "metric_unit": "USD/kg",
+  "publisher": "FEWS NET",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 0.57,
+    "claim_id": "j047"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ }
+}
