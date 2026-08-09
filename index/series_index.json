@@ -2850,5 +2850,362 @@
   ],
   "label": null,
   "chartable": false
+ },
+ "FR|france|maize|production|USDA Foreign Agricultural Service": {
+  "country": "FR",
+  "region": "France",
+  "crop": "maize",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "USDA Foreign Agricultural Service",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 10.0,
+    "claim_id": "p001"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "FR|france|maize|yield|USDA Foreign Agricultural Service": {
+  "country": "FR",
+  "region": "France",
+  "crop": "maize",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "USDA Foreign Agricultural Service",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 7.63,
+    "claim_id": "p002"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "FR|france|maize|harvested_area|USDA Foreign Agricultural Service": {
+  "country": "FR",
+  "region": "France",
+  "crop": "maize",
+  "metric_name": "harvested_area",
+  "metric_unit": "million hectares",
+  "publisher": "USDA Foreign Agricultural Service",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 1.3,
+    "claim_id": "p003"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "EU|european union|maize|production|USDA Foreign Agricultural Service": {
+  "country": "EU",
+  "region": "European Union",
+  "crop": "maize",
+  "metric_name": "production",
+  "metric_unit": "% vs 5-year average",
+  "publisher": "USDA Foreign Agricultural Service",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": -11,
+    "claim_id": "p004"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "KE|kenya|maize|production|USDA Foreign Agricultural Service": {
+  "country": "KE",
+  "region": "Kenya",
+  "crop": "maize",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "USDA Foreign Agricultural Service",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 3.0,
+    "claim_id": "p005"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "ZA|south africa|maize|production|USDA Foreign Agricultural Service": {
+  "country": "ZA",
+  "region": "South Africa",
+  "crop": "maize",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "USDA Foreign Agricultural Service",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 18.0,
+    "claim_id": "p006"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "ZA|south africa|maize|yield|USDA Foreign Agricultural Service": {
+  "country": "ZA",
+  "region": "South Africa",
+  "crop": "maize",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "USDA Foreign Agricultural Service",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 5.78,
+    "claim_id": "p007"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "AR|argentina|maize|production|USDA Foreign Agricultural Service": {
+  "country": "AR",
+  "region": "Argentina",
+  "crop": "maize",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "USDA Foreign Agricultural Service",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 63.0,
+    "claim_id": "p008"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "PK|punjab and sindh|maize|yield|USDA Foreign Agricultural Service": {
+  "country": "PK",
+  "region": "Punjab and Sindh",
+  "crop": "maize",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "USDA Foreign Agricultural Service",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 5.54,
+    "claim_id": "p009"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "RU|krasnodar and stavropol|wheat|yield|USDA Foreign Agricultural Service": {
+  "country": "RU",
+  "region": "Krasnodar and Stavropol",
+  "crop": "wheat",
+  "metric_name": "yield",
+  "metric_unit": "t/ha",
+  "publisher": "USDA Foreign Agricultural Service",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 3.53,
+    "claim_id": "p010"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|mato grosso and bahia|cotton|yield|USDA Foreign Agricultural Service": {
+  "country": "BR",
+  "region": "Mato Grosso and Bahia",
+  "crop": "cotton",
+  "metric_name": "yield",
+  "metric_unit": "kg/ha",
+  "publisher": "USDA Foreign Agricultural Service",
+  "readings": [
+   {
+    "event_date": "2026-07",
+    "metric_value": 1960,
+    "claim_id": "p011"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "DE|mockern, eastern germany|mixed_grains|temperature_anomaly|Munich Re": {
+  "country": "DE",
+  "region": "Mockern, eastern Germany",
+  "crop": "mixed_grains",
+  "metric_name": "temperature_anomaly",
+  "metric_unit": "C above previous national record",
+  "publisher": "Munich Re",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 0.6,
+    "claim_id": "p012"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "EU|central and western europe|mixed_grains|temperature_anomaly|Munich Re": {
+  "country": "EU",
+  "region": "Central and Western Europe",
+  "crop": "mixed_grains",
+  "metric_name": "temperature_anomaly",
+  "metric_unit": "C warmer than an equivalent event 50 years ago",
+  "publisher": "Munich Re",
+  "readings": [
+   {
+    "event_date": "2026-06",
+    "metric_value": 3.5,
+    "claim_id": "p013"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "CN|central and southern china|mixed_grains|rainfall_mm|Munich Re": {
+  "country": "CN",
+  "region": "Central and southern China",
+  "crop": "mixed_grains",
+  "metric_name": "rainfall_mm",
+  "metric_unit": "mm",
+  "publisher": "Munich Re",
+  "readings": [
+   {
+    "event_date": "2026-05",
+    "metric_value": 400,
+    "claim_id": "p014"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom (shortfall against earlier forecasts)|mixed_grains|production|ECIU": {
+  "country": "GB",
+  "region": "United Kingdom (shortfall against earlier forecasts)",
+  "crop": "mixed_grains",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "ECIU",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": -2.5,
+    "claim_id": "p016"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|england|mixed_grains|rainfall_pct_normal|ECIU": {
+  "country": "GB",
+  "region": "England",
+  "crop": "mixed_grains",
+  "metric_name": "rainfall_pct_normal",
+  "metric_unit": "% of normal",
+  "publisher": "ECIU",
+  "readings": [
+   {
+    "event_date": "2026-04",
+    "metric_value": 38,
+    "claim_id": "p017"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|colorado|livestock|condition_good_excellent|DTN": {
+  "country": "US",
+  "region": "Colorado",
+  "crop": "livestock",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "DTN",
+  "readings": [
+   {
+    "event_date": "2026-08-02",
+    "metric_value": 3,
+    "claim_id": "p018"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|wyoming|livestock|condition_good_excellent|DTN": {
+  "country": "US",
+  "region": "Wyoming",
+  "crop": "livestock",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "DTN",
+  "readings": [
+   {
+    "event_date": "2026-08-02",
+    "metric_value": 2,
+    "claim_id": "p019"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|new mexico|livestock|condition_good_excellent|DTN": {
+  "country": "US",
+  "region": "New Mexico",
+  "crop": "livestock",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "DTN",
+  "readings": [
+   {
+    "event_date": "2026-08-02",
+    "metric_value": 5,
+    "claim_id": "p020"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|south dakota|livestock|condition_good_excellent|DTN": {
+  "country": "US",
+  "region": "South Dakota",
+  "crop": "livestock",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "DTN",
+  "readings": [
+   {
+    "event_date": "2026-08-02",
+    "metric_value": 22,
+    "claim_id": "p021"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|missouri|livestock|condition_good_excellent|DTN": {
+  "country": "US",
+  "region": "Missouri",
+  "crop": "livestock",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "%",
+  "publisher": "DTN",
+  "readings": [
+   {
+    "event_date": "2026-08-02",
+    "metric_value": 80,
+    "claim_id": "p022"
+   }
+  ],
+  "label": null,
+  "chartable": false
  }
 }
