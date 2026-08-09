@@ -1,21 +1,107 @@
 {
  "date": "2026-08-09",
- "window": {"start": "2026-07-26", "end": "2026-08-09",
-   "note": "Previous run_state.window_end was 2026-08-08, one day before this run. The 14-day floor was applied rather than sweeping a one-day window, so the window re-covers 26 July onward. Because the backfill already covered 2026-06-01 to 2026-08-08, most of what the sweep found was already in the corpus and was merged as corroboration rather than inserted."},
- "counts": {"rows_inserted": 20, "rows_merged_as_corroboration": 3, "rows_dropped_by_badge_map": 0,
-   "new_unmapped_domains": 0, "corpus_rows_total": 176, "series_total": 141,
-   "series_new": 13, "series_chartable": 4},
- "sources_checked": ["AHDB (GB Harvest Progress, Arable Market Report)", "USDA NASS Crop Progress",
-   "Environment Agency dry weather reports", "Buenos Aires Grain Exchange", "GEOGLAM Crop Monitor",
-   "JRC MARS", "WASDE", "CONAB", "MPOB", "IMD", "COCERAL"],
- "sources_not_checked": ["ABARES Australian Crop Report", "ICCO", "FAO GIEWS",
-   "USDA FAS World Agricultural Production", "SA Crop Estimates Committee",
-   "India Ministry of Agriculture advance estimates", "NEPG", "GB Potatoes", "ECIU", "Munich Re"],
+ "window": {
+  "start": "2026-07-26",
+  "end": "2026-08-09",
+  "note": "run_state.window_end was already 2026-08-09 (today) when this run started, because a sweep had already run today and its run log recorded that the search budget was exhausted partway through pass 2, with passes 3 and 4 never run. A zero-day window would have swept nothing, so this run re-covered the same 2026-07-26 to 2026-08-09 window and targeted what the earlier run recorded as unswept. Two sources captured here (COCERAL 2026-07-10, Cooperativas Agro-alimentarias 2026-07-16) predate the window start; they are gap-fill, since the 2026-06-01 to 2026-08-08 backfill left the corpus with no Spanish rows at all and only partially mined the COCERAL forecast."
+ },
+ "counts": {
+  "rows_inserted": 19,
+  "rows_merged_as_corroboration": 8,
+  "rows_dropped_by_badge_map": 0,
+  "new_unmapped_domains": 2,
+  "corpus_rows_total": 195,
+  "series_total": 160,
+  "series_new": 19,
+  "series_chartable": 4
+ },
+ "sources_checked": [
+  "AHDB (GB Harvest Progress, Arable Market Report)",
+  "Environment Agency dry weather reports",
+  "Buenos Aires Grain Exchange",
+  "COCERAL",
+  "NEPG",
+  "GB Potatoes",
+  "MPOB",
+  "ABARES Australian Crop Report",
+  "SA Crop Estimates Committee",
+  "IMD",
+  "India Ministry of Agriculture advance estimates",
+  "USDA NASS Crop Progress"
+ ],
+ "sources_not_checked": [
+  "GEOGLAM Crop Monitor",
+  "JRC MARS",
+  "WASDE",
+  "CONAB",
+  "FAO GIEWS",
+  "USDA FAS World Agricultural Production",
+  "ICCO",
+  "ECIU",
+  "Munich Re"
+ ],
+ "new_unmapped_domains": [
+  "ecomercioagrario.com",
+  "marketscreener.com"
+ ],
  "anomalies": [
-  "SEARCH BUDGET EXHAUSTED MID-SWEEP. The web search quota ran out partway through pass 2 and before passes 3 and 4 were complete. Pass 1 (by source) and the EU/UK/US/Brazil/West Africa parts of pass 2 ran; the hazard pass and the company pass are INCOMPLETE. Australia, potatoes/NEPG, US livestock and drought monitor, and the whole of pass 4 were not swept. Treat this week's coverage as partial.",
-  "Two leads were found but could not be turned into rows because the verbatim sentence could not be verified on a badge-mapped host before the budget ran out: Buenos Aires Grain Exchange putting Argentina's 2026/27 wheat crop at 21.3 Mt (from 27.8 Mt), only located on an aggregator; and IMD's August outlook of 97% of long-period average with June-July 13% below normal and a 38% deficit in Punjab. Both should be first targets next run.",
-  "raw.githubusercontent.com is blocked by the sandbox network allowlist, so STEP 1 could not fetch the index files by URL. State was read by cloning the repo over git (github.com is reachable). The run is unaffected, but the STEP 1 instructions do not work as written in this environment.",
-  "index/series_index.json had chartable:false on all 128 seeded series, including four that have more than one reading and a human-written label. This run set chartable:true on those four as STEP 8B requires; they should now appear on Tab 2 for the first time.",
-  "GB|united kingdom|winter_wheat|condition_good_excellent|AHDB has two readings and no label in series_labels.json. It is also blocked by the c014/c015 conflict flags, so it would stay chartable:false even with a label."
- ]
+  "SAME-DAY RE-RUN. run_state.window_end already equalled today. This run treated the window as still open because the earlier run's own log declared its coverage partial, and it targeted the gaps that log named. run_state is left at window_end 2026-08-09.",
+  "PASS 4 (COMPANY) RETURNED ZERO ROWS AND THAT IS A REAL RESULT, NOT A FAILED SEARCH. ADM's Q2 2026 release (4 August) and Bunge's (29 July) both attribute results to crush margins, biodiesel policy, RVO and Viterra integration; neither attributes anything material to weather. Barry Callebaut's July El Nino commentary carries no figure tied to a place or crop and fails the capture bar as forecast commentary. Lamb Weston's FY26 Q4 (24 July) weather references found were to prior-period potato write-offs, not to this season.",
+  "TWO NEW UNMAPPED DOMAINS need a human badge: ecomercioagrario.com (carries the Spanish cereal estimate, a significant recurring source that will come up again) and marketscreener.com (aggregator-like; consider whether it belongs in the drop list instead of Press). Both defaulted to Press per STEP 7; no review_flag was set on their rows for that reason.",
+  "h013 (Argentina wheat 21.3 Mt, Buenos Aires Grain Exchange) carries a review_flag because its verbatim quote is the article HEADLINE, not body text. The figure is unambiguous in that headline, but the row should be re-cited when a BAGE or badge-mapped copy becomes reachable. This was the previous run's top unresolved lead.",
+  "The second lead the previous run left open — IMD's August outlook at 97% of the long-period average with a 38% Punjab deficit — was searched again and still could not be pinned to an exact sentence on a reachable host. Not captured. It remains open for next run.",
+  "raw.githubusercontent.com and api.github.com are BLOCKED by the sandbox proxy (HTTP 403 on CONNECT); github.com is reachable. STEP 1 as written cannot work in this environment. State was read by cloning the repo over git, as the previous run also had to do. This is now the second consecutive run to hit it and the instructions should be amended.",
+  "NO series gained a second reading this run, so series_chartable stays at 4. The 19 new series are all single-reading, which is normal (123 of the 128 seeded series have one reading) and they are kept, not pruned.",
+  "One series has more than one reading and no label, unchanged from the previous run: GB|united kingdom|winter_wheat|condition_good_excellent|AHDB, readings 2026-06-29:64 and 2026-06-29:58. It is also blocked by the c014/c015 conflict flags, so a label alone would not chart it."
+ ],
+ "previous_run_same_day": {
+  "date": "2026-08-09",
+  "window": {
+   "start": "2026-07-26",
+   "end": "2026-08-09",
+   "note": "Previous run_state.window_end was 2026-08-08, one day before this run. The 14-day floor was applied rather than sweeping a one-day window, so the window re-covers 26 July onward. Because the backfill already covered 2026-06-01 to 2026-08-08, most of what the sweep found was already in the corpus and was merged as corroboration rather than inserted."
+  },
+  "counts": {
+   "rows_inserted": 20,
+   "rows_merged_as_corroboration": 3,
+   "rows_dropped_by_badge_map": 0,
+   "new_unmapped_domains": 0,
+   "corpus_rows_total": 176,
+   "series_total": 141,
+   "series_new": 13,
+   "series_chartable": 4
+  },
+  "sources_checked": [
+   "AHDB (GB Harvest Progress, Arable Market Report)",
+   "USDA NASS Crop Progress",
+   "Environment Agency dry weather reports",
+   "Buenos Aires Grain Exchange",
+   "GEOGLAM Crop Monitor",
+   "JRC MARS",
+   "WASDE",
+   "CONAB",
+   "MPOB",
+   "IMD",
+   "COCERAL"
+  ],
+  "sources_not_checked": [
+   "ABARES Australian Crop Report",
+   "ICCO",
+   "FAO GIEWS",
+   "USDA FAS World Agricultural Production",
+   "SA Crop Estimates Committee",
+   "India Ministry of Agriculture advance estimates",
+   "NEPG",
+   "GB Potatoes",
+   "ECIU",
+   "Munich Re"
+  ],
+  "anomalies": [
+   "SEARCH BUDGET EXHAUSTED MID-SWEEP. The web search quota ran out partway through pass 2 and before passes 3 and 4 were complete. Pass 1 (by source) and the EU/UK/US/Brazil/West Africa parts of pass 2 ran; the hazard pass and the company pass are INCOMPLETE. Australia, potatoes/NEPG, US livestock and drought monitor, and the whole of pass 4 were not swept. Treat this week's coverage as partial.",
+   "Two leads were found but could not be turned into rows because the verbatim sentence could not be verified on a badge-mapped host before the budget ran out: Buenos Aires Grain Exchange putting Argentina's 2026/27 wheat crop at 21.3 Mt (from 27.8 Mt), only located on an aggregator; and IMD's August outlook of 97% of long-period average with June-July 13% below normal and a 38% deficit in Punjab. Both should be first targets next run.",
+   "raw.githubusercontent.com is blocked by the sandbox network allowlist, so STEP 1 could not fetch the index files by URL. State was read by cloning the repo over git (github.com is reachable). The run is unaffected, but the STEP 1 instructions do not work as written in this environment.",
+   "index/series_index.json had chartable:false on all 128 seeded series, including four that have more than one reading and a human-written label. This run set chartable:true on those four as STEP 8B requires; they should now appear on Tab 2 for the first time.",
+   "GB|united kingdom|winter_wheat|condition_good_excellent|AHDB has two readings and no label in series_labels.json. It is also blocked by the c014/c015 conflict flags, so it would stay chartable:false even with a label."
+  ]
+ }
 }
