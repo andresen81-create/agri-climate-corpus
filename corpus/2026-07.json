@@ -640,10 +640,16 @@
   "published_date": "2026-07-31",
   "verbatim_quote": "Based on the survey sample, the average yield is 6.8 t/ha, down 13% compared to the UK five-year average.",
   "attribution": "weather_explicit",
-  "corroboration_count": 3,
+  "corroboration_count": 4,
   "companies": [],
   "review_flag": null,
-  "corroborations": [],
+  "corroborations": [
+   {
+    "url": "https://www.fwi.co.uk/arable/harvest/report-shows-wheat-yields-below-average-on-90-of-farms",
+    "publisher": "AHDB / Farmers Weekly",
+    "date": "2026-07-31"
+   }
+  ],
   "summary": "AHDB first harvest report: winter wheat 6.8 t/ha, 13% below five-year average, 90% of farms below their own average",
   "month": "2026-07",
   "source_badge": "Trade",
@@ -702,10 +708,16 @@
   "published_date": "2026-07-31",
   "verbatim_quote": "Based on the survey sample, the average yield is 6.8t/ha, 2% lower than the UK five-year average.",
   "attribution": "weather_explicit",
-  "corroboration_count": 1,
+  "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
-  "corroborations": [],
+  "corroborations": [
+   {
+    "url": "https://www.fwi.co.uk/arable/harvest/report-shows-wheat-yields-below-average-on-90-of-farms",
+    "publisher": "AHDB / Farmers Weekly",
+    "date": "2026-07-31"
+   }
+  ],
   "summary": "UK winter barley 6.8 t/ha, only 2% below average, largely cut before the worst of the drought",
   "month": "2026-07",
   "source_badge": "Trade",
@@ -1837,10 +1849,16 @@
   "published_date": "2026-07-23",
   "verbatim_quote": "All of the creeks were up this time.",
   "attribution": "weather_explicit",
-  "corroboration_count": 1,
+  "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
-  "corroborations": [],
+  "corroborations": [
+   {
+    "url": "https://texasagriculture.texasfarmbureau.org/articles/farmers-ranchers-begin-recovery-after-devastating-july-floods",
+    "publisher": "Texas Farm Bureau",
+    "date": "2026-08-07"
+   }
+  ],
   "summary": "Texas Hill Country flash floods wash out fences and water gaps; one rancher loses 180 round bales",
   "month": "2026-07",
   "source_badge": "Trade",
@@ -1933,8 +1951,14 @@
   "source_badge": "Official",
   "verbatim_quote": "| Spring barley        | 8%                       | 5.3                                                     | 5.4                                      | 5.7                                         | 5.2-6.3                                   |",
   "attribution": "weather_explicit",
-  "corroborations": [],
-  "corroboration_count": 1,
+  "corroborations": [
+   {
+    "url": "https://www.fwi.co.uk/arable/harvest/report-shows-wheat-yields-below-average-on-90-of-farms",
+    "publisher": "AHDB / Farmers Weekly",
+    "date": "2026-07-31"
+   }
+  ],
+  "corroboration_count": 2,
   "event_date": "2026-07-27",
   "month": "2026-07",
   "companies": [],
@@ -2157,8 +2181,14 @@
   "source_badge": "Press",
   "verbatim_quote": "Ghana's cocoa production is expected to fall by at least 16% in the 2026 to 2027 season, market regulator COCOBOD said, citing weather effects, the crop's natural fruit-bearing cycle and disease, adding detail to warnings farmers have raised.",
   "attribution": "enso_explicit",
-  "corroborations": [],
-  "corroboration_count": 1,
+  "corroborations": [
+   {
+    "url": "https://www.cocoaintel.com/cameroon-cocoa-output-falls-20-as-ghana-faces-heavy-rain-risk-6-august-2026/",
+    "publisher": "CocoaIntel",
+    "date": "2026-08-07"
+   }
+  ],
+  "corroboration_count": 2,
   "event_date": "2026-07-31",
   "month": "2026-07",
   "companies": [],

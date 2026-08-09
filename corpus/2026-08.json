@@ -125,10 +125,16 @@
   "published_date": "2026-08-05",
   "verbatim_quote": "Winter oilseed rape was performing more strongly, with an estimated yield of 3.9 tonnes per hectare compared with a ten-year average of 3.3 tonnes.",
   "attribution": "weather_explicit",
-  "corroboration_count": 1,
+  "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
-  "corroborations": [],
+  "corroborations": [
+   {
+    "url": "https://www.fwi.co.uk/arable/harvest/report-shows-wheat-yields-below-average-on-90-of-farms",
+    "publisher": "AHDB / Farmers Weekly",
+    "date": "2026-07-31"
+   }
+  ],
   "summary": "POSITIVE: UK winter oilseed rape at 3.9 t/ha against a ten-year average of 3.3 t/ha",
   "month": "2026-08",
   "source_badge": "Trade",
