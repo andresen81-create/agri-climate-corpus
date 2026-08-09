@@ -298,7 +298,7 @@
   "month": "2026-08",
   "source_badge": "Press",
   "series_key": "GB|east anglia|potato|na|Grocery Gazette",
-  "claim_key": "GB|potato|2026|na|None|down"
+  "claim_key": "GB|potato|heat|farmer_livelihood|2026-08-A"
  },
  {
   "id": "a009",
@@ -605,7 +605,7 @@
   "month": "2026-08",
   "source_badge": "Press",
   "series_key": "GB|wales|livestock|na|Nation.Cymru",
-  "claim_key": "GB|livestock|2026|na|None|down"
+  "claim_key": "GB|livestock|drought|farmer_livelihood|2026-08-A"
  },
  {
   "id": "a018",
@@ -1103,7 +1103,7 @@
   "month": "2026-08",
   "source_badge": "Official",
   "series_key": "EU|czechia|maize|na|GEOGLAM Crop Monitor",
-  "claim_key": "EU|maize|2026|na|None|down"
+  "claim_key": "EU|maize|heat|yield|2026-07-B"
  },
  {
   "id": "a034",
@@ -1140,7 +1140,7 @@
   "month": "2026-08",
   "source_badge": "Official",
   "series_key": "TR|türkiye|winter_wheat|na|GEOGLAM Crop Monitor",
-  "claim_key": "TR|winter_wheat|2026|na|None|up"
+  "claim_key": "TR|winter_wheat|favourable|yield|2026-07-B"
  },
  {
   "id": "a035",
@@ -1177,7 +1177,7 @@
   "month": "2026-08",
   "source_badge": "Trade",
   "series_key": "DE|rhine river corridor|mixed_grains|na|Grain Central",
-  "claim_key": "DE|mixed_grains|2026|na|None|down"
+  "claim_key": "DE|mixed_grains|drought|trade_policy|2026-08-A"
  },
  {
   "id": "a036",
@@ -1210,7 +1210,7 @@
   "month": "2026-08",
   "source_badge": "Press",
   "series_key": "US|western europe and the americas|mixed_grains|na|AGCO",
-  "claim_key": "US|mixed_grains|2026|na|None|down"
+  "claim_key": "US|mixed_grains|drought|company_corporate|2026-08-A"
  },
  {
   "id": "a037",
@@ -1341,7 +1341,7 @@
  },
  {
   "id": "w004",
-  "claim_key": "CA|oilseed_rape|2026/27|na|None|up",
+  "claim_key": "CA|oilseed_rape|favourable|yield|2026-08-A",
   "hazard_type": "favourable",
   "impact_class": "yield",
   "country": "CA",
@@ -1373,7 +1373,7 @@
  },
  {
   "id": "w005",
-  "claim_key": "US|soybean|2026|na|None|up",
+  "claim_key": "US|soybean|favourable|yield|2026-08-A",
   "hazard_type": "favourable",
   "impact_class": "yield",
   "country": "US",
@@ -1920,7 +1920,7 @@
  },
  {
   "id": "n002",
-  "claim_key": "IN|mixed_grains|kharif 2026|na|None|None",
+  "claim_key": "IN|mixed_grains|favourable|yield|2026-08-A",
   "hazard_type": "favourable",
   "impact_class": "yield",
   "country": "IN",
@@ -2112,7 +2112,7 @@
  },
  {
   "id": "n008",
-  "claim_key": "IN|mixed_grains|kharif 2026|na|None|None",
+  "claim_key": "IN|mixed_grains|drought|food_security|2026-08-A",
   "hazard_type": "drought",
   "impact_class": "food_security",
   "country": "IN",
@@ -2144,7 +2144,7 @@
  },
  {
   "id": "n009",
-  "claim_key": "IN|mixed_grains|kharif 2026|na|None|None",
+  "claim_key": "IN|mixed_grains|heat|food_security|2026-07-B",
   "hazard_type": "heat",
   "impact_class": "food_security",
   "country": "IN",
@@ -2176,7 +2176,7 @@
  },
  {
   "id": "n010",
-  "claim_key": "IN|mixed_grains|kharif 2026|na|None|None",
+  "claim_key": "IN|mixed_grains|flood|food_security|2026-07-B",
   "hazard_type": "flood",
   "impact_class": "food_security",
   "country": "IN",

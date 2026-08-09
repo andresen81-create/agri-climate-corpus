@@ -785,7 +785,7 @@
  },
  {
   "id": "c026",
-  "claim_key": "EU|mixed_grains|2026|na|None|None",
+  "claim_key": "EU|mixed_grains|heat|yield|2026-06-B",
   "hazard_type": "heat",
   "impact_class": "yield",
   "country": "EU",
@@ -816,7 +816,7 @@
  },
  {
   "id": "c027",
-  "claim_key": "HU|mixed_grains|2026|na|None|None",
+  "claim_key": "HU|mixed_grains|drought|yield|2026-06-B",
   "hazard_type": "drought",
   "impact_class": "yield",
   "country": "HU",
@@ -841,7 +841,7 @@
  },
  {
   "id": "c028",
-  "claim_key": "EU|rice|2026|na|None|None",
+  "claim_key": "EU|rice|heat|yield|2026-06-B",
   "hazard_type": "heat",
   "impact_class": "yield",
   "country": "EU",
@@ -866,7 +866,7 @@
  },
  {
   "id": "c029",
-  "claim_key": "UA|oilseed_rape|2026 harvest|na|None|None",
+  "claim_key": "UA|oilseed_rape|frost|yield|2026-06-A",
   "hazard_type": "frost",
   "impact_class": "yield",
   "country": "UA",
@@ -1311,7 +1311,7 @@
  },
  {
   "id": "c043",
-  "claim_key": "CI|cocoa|2025/26 mid-crop|na|None|None",
+  "claim_key": "CI|cocoa|favourable|yield|2026-06-A",
   "hazard_type": "favourable",
   "impact_class": "yield",
   "country": "CI",
@@ -1398,7 +1398,7 @@
  },
  {
   "id": "c046",
-  "claim_key": "GT|maize|2026 primera|na|None|None",
+  "claim_key": "GT|maize|drought|food_security|2026-06-A",
   "hazard_type": "drought",
   "impact_class": "food_security",
   "country": "GT",
@@ -1516,7 +1516,7 @@
  },
  {
   "id": "c050",
-  "claim_key": "SO|maize|2026 main season|na|None|None",
+  "claim_key": "SO|maize|drought|yield|2026-06-A",
   "hazard_type": "drought",
   "impact_class": "yield",
   "country": "SO",
@@ -1572,7 +1572,7 @@
  },
  {
   "id": "c052",
-  "claim_key": "KE|mixed_grains|2026 long rains|na|None|None",
+  "claim_key": "KE|mixed_grains|flood|farmer_livelihood|2026-06-A",
   "hazard_type": "flood",
   "impact_class": "farmer_livelihood",
   "country": "KE",
@@ -1597,7 +1597,7 @@
  },
  {
   "id": "c053",
-  "claim_key": "PK|wheat|2025/26 harvest|na|None|None",
+  "claim_key": "PK|wheat|heat|yield|2026-06-A",
   "hazard_type": "heat",
   "impact_class": "yield",
   "country": "PK",
@@ -1715,7 +1715,7 @@
  },
  {
   "id": "c057",
-  "claim_key": "GLOBAL|potato|2026-27|na|None|None",
+  "claim_key": "ZZ|potato|drought|food_security|2026-06-B",
   "hazard_type": "drought",
   "impact_class": "food_security",
   "country": null,
@@ -1740,7 +1740,7 @@
  },
  {
   "id": "c058",
-  "claim_key": "CA|spring_wheat|2026 sowing|na|None|None",
+  "claim_key": "CA|spring_wheat|storm|yield|2026-06-A",
   "hazard_type": "storm",
   "impact_class": "yield",
   "country": "CA",

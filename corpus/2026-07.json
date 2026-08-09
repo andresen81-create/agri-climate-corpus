@@ -1795,7 +1795,7 @@
   "month": "2026-07",
   "source_badge": "Press",
   "series_key": "GR|evros|cotton|na|Athens Times",
-  "claim_key": "GR|cotton|2026|na|None|down"
+  "claim_key": "GR|cotton|storm|farmer_livelihood|2026-07-A"
  },
  {
   "id": "j058",
@@ -1826,7 +1826,7 @@
   "month": "2026-07",
   "source_badge": "Press",
   "series_key": "NG|lagos|mixed_grains|na|Vanguard",
-  "claim_key": "NG|mixed_grains|2026|na|None|down"
+  "claim_key": "NG|mixed_grains|flood|farmer_livelihood|2026-07-A"
  },
  {
   "id": "j059",
@@ -1863,7 +1863,7 @@
   "month": "2026-07",
   "source_badge": "Trade",
   "series_key": "US|kendall county|livestock|na|Texas Farm Bureau",
-  "claim_key": "US|livestock|2026|na|None|down"
+  "claim_key": "US|livestock|flood|farmer_livelihood|2026-07-A"
  },
  {
   "id": "j060",
@@ -1894,7 +1894,7 @@
   "month": "2026-07",
   "source_badge": "Official",
   "series_key": "RU|russia and ukraine|winter_wheat|na|USDA WAOB",
-  "claim_key": "RU|winter_wheat|2026/27|na|None|up"
+  "claim_key": "RU|winter_wheat|favourable|yield|2026-07-A"
  },
  {
   "id": "j061",
@@ -1925,7 +1925,7 @@
   "month": "2026-07",
   "source_badge": "Official",
   "series_key": "FR|france|wheat|na|USDA WAOB",
-  "claim_key": "FR|wheat|2026/27|na|None|down"
+  "claim_key": "FR|wheat|heat|yield|2026-07-A"
  },
  {
   "id": "w006",
@@ -1999,7 +1999,7 @@
  },
  {
   "id": "w008",
-  "claim_key": "HU|mixed_grains|2026|na|None|down",
+  "claim_key": "HU|mixed_grains|drought|yield|2026-07-B",
   "hazard_type": "drought",
   "impact_class": "yield",
   "country": "HU",
@@ -2031,7 +2031,7 @@
  },
  {
   "id": "w009",
-  "claim_key": "IT|maize|2026|na|None|down",
+  "claim_key": "IT|maize|heat|yield|2026-07-B",
   "hazard_type": "heat",
   "impact_class": "yield",
   "country": "IT",
@@ -2063,7 +2063,7 @@
  },
  {
   "id": "w010",
-  "claim_key": "IT|mixed_grains|2026|na|None|down",
+  "claim_key": "IT|mixed_grains|storm|yield|2026-07-B",
   "hazard_type": "storm",
   "impact_class": "yield",
   "country": "IT",
@@ -2095,7 +2095,7 @@
  },
  {
   "id": "w011",
-  "claim_key": "PL|mixed_grains|2026|na|None|down",
+  "claim_key": "PL|mixed_grains|flood|yield|2026-07-B",
   "hazard_type": "flood",
   "impact_class": "yield",
   "country": "PL",
@@ -2127,7 +2127,7 @@
  },
  {
   "id": "w012",
-  "claim_key": "ES|winter_wheat|2026|na|None|down",
+  "claim_key": "ES|winter_wheat|heat|yield|2026-07-B",
   "hazard_type": "heat",
   "impact_class": "yield",
   "country": "ES",
@@ -2925,7 +2925,7 @@
   "companies": [],
   "review_flag": null,
   "source_badge": "Official",
-  "claim_key": "IN|mixed_grains|kharif 2026|na|None|None",
+  "claim_key": "IN|mixed_grains|drought|food_security|2026-07-B",
   "series_key": null,
   "month": "2026-07",
   "corroborations": [],
