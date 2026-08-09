@@ -23,10 +23,6 @@
     "id": "c006",
     "corroboration_count": 1
   },
-  "US|maize|2026|rainfall_mm|6|up": {
-    "id": "c007",
-    "corroboration_count": 1
-  },
   "AU|mixed_grains|2026-27|production|54.5|down": {
     "id": "c008",
     "corroboration_count": 1
@@ -827,10 +823,6 @@
     "id": "q015",
     "corroboration_count": 1
   },
-  "US|mixed_grains|2026|rainfall_mm|15|up": {
-    "id": "q016",
-    "corroboration_count": 1
-  },
   "US|mixed_grains|flood|yield|2026-07-B": {
     "id": "q017",
     "corroboration_count": 1
@@ -969,6 +961,14 @@
   },
   "IN|mixed_grains|drought|food_security|2026-07-B": {
     "id": "p015",
+    "corroboration_count": 1
+  },
+  "US|maize|2026|rainfall_in|6|up": {
+    "id": "c007",
+    "corroboration_count": 1
+  },
+  "US|mixed_grains|2026|rainfall_in|15|up": {
+    "id": "q016",
     "corroboration_count": 1
   }
 }

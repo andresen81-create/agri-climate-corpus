@@ -1962,23 +1962,6 @@
   "label": null,
   "chartable": false
  },
- "US|iowa — washington and monroe counties|maize|rainfall_mm|Iowa State University Extension": {
-  "country": "US",
-  "region": "Iowa — Washington and Monroe Counties",
-  "crop": "maize",
-  "metric_name": "rainfall_mm",
-  "metric_unit": "inches (6+)",
-  "publisher": "Iowa State University Extension",
-  "readings": [
-   {
-    "event_date": "2026-06-11",
-    "metric_value": 6,
-    "claim_id": "c007"
-   }
-  ],
-  "label": null,
-  "chartable": false
- },
  "US|kansas|winter_wheat|yield|Oklahoma Farm Report": {
   "country": "US",
   "region": "Kansas (Sherman, Marshall counties)",
@@ -3361,11 +3344,28 @@
   "label": null,
   "chartable": false
  },
- "US|uvalde county, texas|mixed_grains|rainfall_mm|Texas Farm Bureau": {
+ "US|iowa — washington and monroe counties|maize|rainfall_in|Iowa State University Extension": {
+  "country": "US",
+  "region": "Iowa — Washington and Monroe Counties",
+  "crop": "maize",
+  "metric_name": "rainfall_in",
+  "metric_unit": "inches",
+  "publisher": "Iowa State University Extension",
+  "readings": [
+   {
+    "event_date": "2026-06-11",
+    "metric_value": 6,
+    "claim_id": "c007"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|uvalde county, texas|mixed_grains|rainfall_in|Texas Farm Bureau": {
   "country": "US",
   "region": "Uvalde County, Texas",
   "crop": "mixed_grains",
-  "metric_name": "rainfall_mm",
+  "metric_name": "rainfall_in",
   "metric_unit": "inches",
   "publisher": "Texas Farm Bureau",
   "readings": [
