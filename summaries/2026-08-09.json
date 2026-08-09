@@ -1,280 +1,362 @@
 {
  "date": "2026-08-09",
- "row_count": 71,
- "headline": "Across four sweeps on 2026-08-09 the day's decisive addition is USDA's July World Agricultural Production circular, which cuts French maize 24 percent in a single month to 10.0 Mt - the lowest since 1990/91 - and cuts Kenyan maize by a third to 3.0 Mt on an El Nino-attributed dry spell, while the same circular records four weather-driven RECORDS in South African and Argentine maize, Russian wheat yield and Brazilian cotton yield, and US pasture in Colorado and Wyoming falls to 3 and 2 percent good-to-excellent.",
+ "row_count": 88,
+ "headline": "Across five sweeps on 2026-08-09 the day's decisive addition remains USDA's July circular cutting French maize 24% to 10.0 Mt, but this fifth run adds the distribution behind the UK number - 90% of AHDB's survey farms below their own five-year wheat average, in the earliest barley harvest since records began in 2006 - brings Cameroon into the corpus at 247,914 t of cocoa, down 19.9%, and corrects a contradiction that four earlier logs had repeated: the two AHDB winter wheat condition readings are consecutive, not conflicting, and that series is now charting.",
  "key_points": [
-  "FOURTH RUN OF 2026-08-09, and the second to find run_state.window_end already equal to today. Window re-covered unchanged at 2026-07-26 to 2026-08-09 (14 days); run_state was not moved. This run targeted the four sources that NONE of the three earlier runs today reached - USDA FAS World Agricultural Production, Munich Re, ECIU and FAO GIEWS - plus US livestock, which the first run named as unswept and no later run picked up.",
-  "USDA FAS enters the corpus for the first time and it is the single largest addition of the day: the July World Agricultural Production circular cuts French corn 24 percent in one month to 10.0 Mt, the lowest since 1990/91, on yield down to 7.63 t/ha and harvested area down to 1.3 Mha, the lowest since 1969/70. USDA attributes this directly to a persistent high-pressure system bringing drought and record heat over silking and tasseling, when stress is irreversible.",
-  "US LIVESTOCK, UNCOVERED UNTIL NOW, IS THE WORST-CONDITION CLUSTER IN THE CORPUS. USDA pasture and range for the week to 2 August has Colorado at 3 percent good-to-excellent against 76 percent very-poor-to-poor, Wyoming at 2 percent against 75 percent, and New Mexico at 5 percent against 70 percent. The 48-state good-to-excellent share is 25 percent against 44 percent a year ago. DTN reports the choice facing ranchers as herd liquidation or expensive supplemental feed.",
-  "POSITIVE, AND FROM OFFICIAL SOURCES RATHER THAN INDIVIDUAL FARMS: seven of this run's 22 rows are favourable. USDA puts South African corn at a record 18.0 Mt on beneficial La Nina rains (yield 5.78 t/ha, fourth highest on record), Argentine corn at a record 63.0 Mt, Russian wheat yield at a record 3.53 t/ha on abundant precipitation through yield formation, and Brazilian cotton yield at a record 1,960 kg/ha after a rainy season that ran into May. South Dakota and Missouri were the only two US beef states whose pasture improved.",
-  "KENYA IS THE WEEK'S WORST SINGLE CUT AND IT IS EL NINO-ATTRIBUTED: USDA cut Kenyan corn by a third in one month to 3.0 Mt after a prolonged dry spell from late May through June, with NDVI confirming good establishment in April and May followed by immediate crop failure in Trans Nzoia, Uasin Gishu, Bungoma and Nakuru - together roughly 37 percent of national output.",
-  "MUNICH RE ENTERS THE CORPUS. Its 30 July half-year review independently corroborates the Indian picture the third run captured, stating the monsoon arrived late and stayed significantly weaker than normal with El Nino raising drought risk. It also supplies the attribution number behind the European crop losses: World Weather Attribution finds the recent European heatwave would have been about 3.5C cooler 50 years ago, and Germany set a national record of 41.8C at Mockern, 0.6C above the 2019 high, in June.",
-  "A NEW FOUR-WAY DISAGREEMENT ON FRENCH MAIZE. USDA's 10.0 Mt now sits against COCERAL's 9.4 Mt (h011), RFI's 9 Mt (a022) and 8.9 Mt (j012). All four are recorded with their quotes and none is resolved; USDA is the outlier on the high side and is also the most recent official forecast rather than the most recent figure.",
-  "FOUR SOURCES ARE SILENT FOR REASONS THE CALENDAR EXPLAINS, not because the sweep failed: the August WASDE is due 2026-08-12, the MPOB July supply and demand report is due 2026-08-10, the next USDA FAS World Agricultural Production circular is due 2026-08-12, and CONAB's next grain survey is 2026-09-15. FAO GIEWS last published its triannual Crop Prospects and Food Situation in July 2026 and is not due again within the window.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: THIRD RUN OF 2026-08-09. run_state.window_end was already today when this run started, so the window was zero-length. Rather than sweep nothing, this run re-covered 2026-07-26 to 2026-08-09 and targeted the regions the two earlier runs left thinnest — India above all, which had no rows after 2026-08-06 and whose seasonal sources (IMD, India Ministry of Agriculture) both carried last_publication: null in the manifest despite having published on 31 July and 4 August.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: IMD ENTERS THE CORPUS FOR THE FIRST TIME. Its 31 July briefing puts all-India July rainfall 1% above normal but cumulative June-July rainfall 13% below normal, with almost half of India's districts still deficient or large-deficient. August rainfall is forecast below 94% of the 254.9 mm LPA, and the August-September combined outlook is worse.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE, AND THE LARGEST REVERSAL OF THE SEASON: India's kharif sowing gap against last year narrowed from 25% at end-June to 2.9% by 31 July, reaching 89.42 Mha against 92.07 Mha. Rice closed to within 0.68 Mha at 30.14 Mha; sugarcane (+0.086 Mha) and oilseeds (+0.12 Mha) are ahead of last year.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: The recovery is uneven and the laggards are the ones that matter for feed and fuel: maize acreage is 0.65 Mha below last year, the steepest fall among coarse cereals, with bajra down 0.42 Mha and arhar and moong each down more than 0.3 Mha. Down To Earth notes the maize gap could tighten ethanol feedstock later in the season.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: UNRESOLVED CONTRADICTION, NOT RESOLVED HERE: Down To Earth (2026-08-05) puts end-July kharif area at 89.42 Mha; ThePrint (a032, 2026-08-06) and Reuters (j038, 2026-07-28) put it at 78.7 Mha. All three cite the same agriculture ministry series. The ~10.7 Mha gap is roughly the size of the UK's entire arable area and both readings are recorded with their quotes.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: HEAT, UNDER-COVERED UNTIL NOW: India's all-India July minimum temperature was the second highest since 1901; in the southern peninsula the July night-time temperature was the highest in 126 years. Above-normal minimums are forecast for almost all of India in August.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: A SOURCE CAVEATING ITSELF: IMD recorded 269 extremely heavy and 918 very heavy rainfall events in July, but its director general said in the same briefing that part of the rise may reflect an expanded rain-gauge network in 2026. Recorded with the caveat as a review_flag rather than as a clean year-on-year signal.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: TWO NEAR-MISSES WORTH KNOWING ABOUT. Search returned an AHDB page titled 'Improved yields - winter barley and oilseed rape harvests now complete' as current; the only fetchable copy of that text is a farming.co.uk repost dated 8 August 2025, describing AHDB's third harvest 2025 report. Separately, an ADM Investor Services cocoa note surfaced as current is dated 1 June 2026. Neither was recorded. Farmers Weekly confirms the 2026 series is 'the first of four reports', so AHDB harvest report 2 is still to come and no 2026 AHDB figure beyond report 1 exists yet.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: SPAIN ENTERS THE CORPUS FOR THE FIRST TIME. Cooperativas Agro-alimentarias de España's second estimate cuts the 2026 cereal harvest to 18.6 Mt across 5.28 Mha, down 1.96 Mt (-9.5%) on the May estimate and around 30% below the exceptional 26.64 Mt of 2025; soft wheat falls 36% and barley 32%. AEMET puts the peninsular May-June temperature 3.2°C above normal with rainfall at 39% of usual.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: COCERAL's extraordinary EU crop forecast, published because of the weather, cuts EU and UK 2026 grain to 286.6 Mt, 23.4 Mt below 2025. French maize drops to 9.4 Mt from 13.8 Mt, the lowest in more than 20 years; EU+UK barley goes to 57.6 Mt and rapeseed to 21.2 Mt.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: The drought's UK effect is strikingly uneven, and that is the week's most useful finding. Against AHDB's 6.8 t/ha national wheat and the projected worst harvest since 1984, Farmers Weekly's 7 August round-up records 12 t/ha Palladium wheat and 10 t/ha malting barley on the Lincolnshire coast, 10.8 t/ha barley in North Yorkshire and 9.5 t/ha wheat in East Yorkshire — all attributed to pockets of moisture retained from early summer rainfall.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: The Environment Agency's 24-30 July report has hands-off-flow abstraction restrictions at 1,395 and national reservoir storage at 72%, 9.5% below the long-term average, with livestock farmers already eating into winter forage reserves and a straw shortage expected from short, early-cut cereals.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: Fresh produce is where the UK consumer sees it: wholesale iceberg lettuce is up more than 90% and tomatoes more than 60%, alongside the 40% potato move already in the corpus.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: Buenos Aires Grain Exchange's Argentine wheat cut — 21.3 Mt from 27.8 Mt — was the previous run's top unresolved lead and is now captured, though only from a non-mapped aggregator and with the figure verified in the headline rather than body text. It is flagged.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM THE EARLIER RUN THE SAME DAY (its 20 rows are in this count): The European Commission's 30 July balance sheet cut EU 2026/27 maize production to 51.9 Mt from 59.9 Mt in June — an 8 Mt revision that lifts the EU's maize import requirement by 5.0 Mt to 24.0 Mt — with barley also cut to 51.1 Mt.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM THE EARLIER RUN THE SAME DAY (its 20 rows are in this count): JRC MARS's July bulletin adds the ground-level detail behind the EU cuts: premature maturity and early harvesting across south-western Germany, Austria, Slovakia and Czechia; severe drought worst in Hungary; heat stress at maize flowering in northern Italy; and storm, downburst and hail lodging in northern Italy, Slovenia, Croatia and Germany.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM THE EARLIER RUN THE SAME DAY (its 20 rows are in this count): AHDB's first 2026 UK harvest report extends the poor-cereals picture to the minor crops: spring barley at 5.3 t/ha and oats at 4.9 t/ha, both below their ten-year averages, alongside the already-recorded 6.8 t/ha wheat.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM THE EARLIER RUN THE SAME DAY (its 20 rows are in this count): Ghana's COCOBOD told Reuters output will fall at least 16% in 2026/27, citing likely El Nino conditions and excessive May-June rain alongside disease and illegal mining; Ivory Coast is still expected down more than 10%, corroborating the existing July row.",
-  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM THE EARLIER RUN THE SAME DAY (its 20 rows are in this count): POSITIVE counterweight this week: Montana spring wheat jumped 12 points in good-to-excellent, US winter wheat harvest hit 86% complete, Canadian Prairie canola conditions stayed favourable, and Turkiye's cool wet spring produced record winter crop yields — enough to push Paris rapeseed futures down 6.7% to £438.99/t."
+  "FIFTH SWEEP OF 2026-08-09, and the third in the day to find run_state.window_end already equal to today. Window re-covered unchanged at 2026-07-26 to 2026-08-09 (14 days); run_state was not moved. All 21 manifest sources had been checked by one of the four earlier runs, so this run targeted what none of them had mined: the AHDB harvest report in detail, West African cocoa on the ground, Brazilian coffee weather, and the Texas flood follow-up.",
+  "AHDB'S FIRST HARVEST REPORT WAS ONLY HALF MINED. Earlier runs took the four headline yields. The report also carries the harvest-progress series and the distribution: 90% of the 60-farm survey sample came in below their own five-year average for winter wheat, with only 10% above, and farm reports spanning 3.9 to 11.5 t/ha. Winter barley was 95% cut by 26 July, the earliest harvest since AHDB records began in 2006; wheat 54%, oilseed rape 73% (Scotland only 8%), spring barley 8%.",
+  "POSITIVE, AND THE DROUGHT'S ONE GIFT: GB wheat quality is exceptional. Group 1 specific weights range 76-85 kg/hl and protein averages 13.5%, with samples above 14% described as not uncommon. Low tonnage, high concentration is the classic dry-season trade-off and it partly offsets the loss for milling growers.",
+  "CAMEROON ENTERS THE CORPUS AND IT IS THE LARGEST UNREPORTED COCOA NUMBER OF THE WEEK. Marketed production for 2025/26 fell 19.9% to 247,914 tonnes, the weakest in five seasons, with exports down 34.7% to 125,469 tonnes. Both rows carry a review_flag: the source ties adverse West African weather to the 2026/27 outlook, not explicitly to this decline, so the hazard attribution is inferred from regional context while the figures themselves are exact and quoted.",
+  "WEST AFRICAN COCOA IS NOW TWO OPPOSITE PROBLEMS IN ADJACENT COUNTRIES. Ghana faces more rain on a crop already damaged by excessive rain, disease and weak pod development, with Western and Western North worst hit by low cherelle counts; Cote d'Ivoire's main crop needs more sunshine after cool, cloudy conditions. Moisture is adequate on both sides of the border and insolation is not. New York September cocoa settled at $5,776/t, down 1.80%, on better Ghanaian supply news.",
+  "BRAZIL COFFEE: A LARGE CROP IS NOT THE SAME AS AVAILABLE COFFEE. Parana is about 77% harvested, but unusually wet conditions in some producing areas raise harvest-delay and bean-quality concerns, and a cold-air system through south-central Brazil has renewed attention on wind-related fruit losses. Parana processed coffee rose 7.7% in July to R$1,473/bag, ending a prolonged run of monthly declines.",
+  "THE c014/c015 'CONFLICT' REPORTED IN ALL FOUR EARLIER RUN LOGS TODAY DOES NOT EXIST IN THE DATA, and the series it was said to block is now charting. Every earlier log records the two AHDB winter wheat condition readings as '2026-06-29:64 and 2026-06-29:58' and as carrying conflict flags. The committed rows have event_dates 2026-05-31 and 2026-06-22, neither carries a review_flag, and c015's own quote reads 'down from 64% a month ago'. They are consecutive readings, not a contradiction. A human has since added the label, so GB|united kingdom|winter_wheat|condition_good_excellent|AHDB is chartable for the first time and the corpus now has 5 chartable series, not 4.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: FOURTH RUN OF 2026-08-09, and the second to find run_state.window_end already equal to today. Window re-covered unchanged at 2026-07-26 to 2026-08-09 (14 days); run_state was not moved. This run targeted the four sources that NONE of the three earlier runs today reached - USDA FAS World Agricultural Production, Munich Re, ECIU and FAO GIEWS - plus US livestock, which the first run named as unswept and no later run picked up.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: USDA FAS enters the corpus for the first time and it is the single largest addition of the day: the July World Agricultural Production circular cuts French corn 24 percent in one month to 10.0 Mt, the lowest since 1990/91, on yield down to 7.63 t/ha and harvested area down to 1.3 Mha, the lowest since 1969/70. USDA attributes this directly to a persistent high-pressure system bringing drought and record heat over silking and tasseling, when stress is irreversible.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: US LIVESTOCK, UNCOVERED UNTIL NOW, IS THE WORST-CONDITION CLUSTER IN THE CORPUS. USDA pasture and range for the week to 2 August has Colorado at 3 percent good-to-excellent against 76 percent very-poor-to-poor, Wyoming at 2 percent against 75 percent, and New Mexico at 5 percent against 70 percent. The 48-state good-to-excellent share is 25 percent against 44 percent a year ago. DTN reports the choice facing ranchers as herd liquidation or expensive supplemental feed.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE, AND FROM OFFICIAL SOURCES RATHER THAN INDIVIDUAL FARMS: seven of this run's 22 rows are favourable. USDA puts South African corn at a record 18.0 Mt on beneficial La Nina rains (yield 5.78 t/ha, fourth highest on record), Argentine corn at a record 63.0 Mt, Russian wheat yield at a record 3.53 t/ha on abundant precipitation through yield formation, and Brazilian cotton yield at a record 1,960 kg/ha after a rainy season that ran into May. South Dakota and Missouri were the only two US beef states whose pasture improved.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: KENYA IS THE WEEK'S WORST SINGLE CUT AND IT IS EL NINO-ATTRIBUTED: USDA cut Kenyan corn by a third in one month to 3.0 Mt after a prolonged dry spell from late May through June, with NDVI confirming good establishment in April and May followed by immediate crop failure in Trans Nzoia, Uasin Gishu, Bungoma and Nakuru - together roughly 37 percent of national output.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: MUNICH RE ENTERS THE CORPUS. Its 30 July half-year review independently corroborates the Indian picture the third run captured, stating the monsoon arrived late and stayed significantly weaker than normal with El Nino raising drought risk. It also supplies the attribution number behind the European crop losses: World Weather Attribution finds the recent European heatwave would have been about 3.5C cooler 50 years ago, and Germany set a national record of 41.8C at Mockern, 0.6C above the 2019 high, in June.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: A NEW FOUR-WAY DISAGREEMENT ON FRENCH MAIZE. USDA's 10.0 Mt now sits against COCERAL's 9.4 Mt (h011), RFI's 9 Mt (a022) and 8.9 Mt (j012). All four are recorded with their quotes and none is resolved; USDA is the outlier on the high side and is also the most recent official forecast rather than the most recent figure.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: FOUR SOURCES ARE SILENT FOR REASONS THE CALENDAR EXPLAINS, not because the sweep failed: the August WASDE is due 2026-08-12, the MPOB July supply and demand report is due 2026-08-10, the next USDA FAS World Agricultural Production circular is due 2026-08-12, and CONAB's next grain survey is 2026-09-15. FAO GIEWS last published its triannual Crop Prospects and Food Situation in July 2026 and is not due again within the window.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: THIRD RUN OF 2026-08-09. run_state.window_end was already today when this run started, so the window was zero-length. Rather than sweep nothing, this run re-covered 2026-07-26 to 2026-08-09 and targeted the regions the two earlier runs left thinnest — India above all, which had no rows after 2026-08-06 and whose seasonal sources (IMD, India Ministry of Agriculture) both carried last_publication: null in the manifest despite having published on 31 July and 4 August.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: IMD ENTERS THE CORPUS FOR THE FIRST TIME. Its 31 July briefing puts all-India July rainfall 1% above normal but cumulative June-July rainfall 13% below normal, with almost half of India's districts still deficient or large-deficient. August rainfall is forecast below 94% of the 254.9 mm LPA, and the August-September combined outlook is worse.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE, AND THE LARGEST REVERSAL OF THE SEASON: India's kharif sowing gap against last year narrowed from 25% at end-June to 2.9% by 31 July, reaching 89.42 Mha against 92.07 Mha. Rice closed to within 0.68 Mha at 30.14 Mha; sugarcane (+0.086 Mha) and oilseeds (+0.12 Mha) are ahead of last year.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: The recovery is uneven and the laggards are the ones that matter for feed and fuel: maize acreage is 0.65 Mha below last year, the steepest fall among coarse cereals, with bajra down 0.42 Mha and arhar and moong each down more than 0.3 Mha. Down To Earth notes the maize gap could tighten ethanol feedstock later in the season.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: UNRESOLVED CONTRADICTION, NOT RESOLVED HERE: Down To Earth (2026-08-05) puts end-July kharif area at 89.42 Mha; ThePrint (a032, 2026-08-06) and Reuters (j038, 2026-07-28) put it at 78.7 Mha. All three cite the same agriculture ministry series. The ~10.7 Mha gap is roughly the size of the UK's entire arable area and both readings are recorded with their quotes.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: HEAT, UNDER-COVERED UNTIL NOW: India's all-India July minimum temperature was the second highest since 1901; in the southern peninsula the July night-time temperature was the highest in 126 years. Above-normal minimums are forecast for almost all of India in August.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: A SOURCE CAVEATING ITSELF: IMD recorded 269 extremely heavy and 918 very heavy rainfall events in July, but its director general said in the same briefing that part of the rise may reflect an expanded rain-gauge network in 2026. Recorded with the caveat as a review_flag rather than as a clean year-on-year signal.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: TWO NEAR-MISSES WORTH KNOWING ABOUT. Search returned an AHDB page titled 'Improved yields - winter barley and oilseed rape harvests now complete' as current; the only fetchable copy of that text is a farming.co.uk repost dated 8 August 2025, describing AHDB's third harvest 2025 report. Separately, an ADM Investor Services cocoa note surfaced as current is dated 1 June 2026. Neither was recorded. Farmers Weekly confirms the 2026 series is 'the first of four reports', so AHDB harvest report 2 is still to come and no 2026 AHDB figure beyond report 1 exists yet.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: SPAIN ENTERS THE CORPUS FOR THE FIRST TIME. Cooperativas Agro-alimentarias de España's second estimate cuts the 2026 cereal harvest to 18.6 Mt across 5.28 Mha, down 1.96 Mt (-9.5%) on the May estimate and around 30% below the exceptional 26.64 Mt of 2025; soft wheat falls 36% and barley 32%. AEMET puts the peninsular May-June temperature 3.2°C above normal with rainfall at 39% of usual.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: COCERAL's extraordinary EU crop forecast, published because of the weather, cuts EU and UK 2026 grain to 286.6 Mt, 23.4 Mt below 2025. French maize drops to 9.4 Mt from 13.8 Mt, the lowest in more than 20 years; EU+UK barley goes to 57.6 Mt and rapeseed to 21.2 Mt.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: The drought's UK effect is strikingly uneven, and that is the week's most useful finding. Against AHDB's 6.8 t/ha national wheat and the projected worst harvest since 1984, Farmers Weekly's 7 August round-up records 12 t/ha Palladium wheat and 10 t/ha malting barley on the Lincolnshire coast, 10.8 t/ha barley in North Yorkshire and 9.5 t/ha wheat in East Yorkshire — all attributed to pockets of moisture retained from early summer rainfall.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: The Environment Agency's 24-30 July report has hands-off-flow abstraction restrictions at 1,395 and national reservoir storage at 72%, 9.5% below the long-term average, with livestock farmers already eating into winter forage reserves and a straw shortage expected from short, early-cut cereals.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: Fresh produce is where the UK consumer sees it: wholesale iceberg lettuce is up more than 90% and tomatoes more than 60%, alongside the 40% potato move already in the corpus.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: Buenos Aires Grain Exchange's Argentine wheat cut — 21.3 Mt from 27.8 Mt — was the previous run's top unresolved lead and is now captured, though only from a non-mapped aggregator and with the figure verified in the headline rather than body text. It is flagged.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM THE EARLIER RUN THE SAME DAY (its 20 rows are in this count): The European Commission's 30 July balance sheet cut EU 2026/27 maize production to 51.9 Mt from 59.9 Mt in June — an 8 Mt revision that lifts the EU's maize import requirement by 5.0 Mt to 24.0 Mt — with barley also cut to 51.1 Mt.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM THE EARLIER RUN THE SAME DAY (its 20 rows are in this count): JRC MARS's July bulletin adds the ground-level detail behind the EU cuts: premature maturity and early harvesting across south-western Germany, Austria, Slovakia and Czechia; severe drought worst in Hungary; heat stress at maize flowering in northern Italy; and storm, downburst and hail lodging in northern Italy, Slovenia, Croatia and Germany.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM THE EARLIER RUN THE SAME DAY (its 20 rows are in this count): AHDB's first 2026 UK harvest report extends the poor-cereals picture to the minor crops: spring barley at 5.3 t/ha and oats at 4.9 t/ha, both below their ten-year averages, alongside the already-recorded 6.8 t/ha wheat.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM THE EARLIER RUN THE SAME DAY (its 20 rows are in this count): Ghana's COCOBOD told Reuters output will fall at least 16% in 2026/27, citing likely El Nino conditions and excessive May-June rain alongside disease and illegal mining; Ivory Coast is still expected down more than 10%, corroborating the existing July row.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM THE EARLIER RUN THE SAME DAY (its 20 rows are in this count): POSITIVE counterweight this week: Montana spring wheat jumped 12 points in good-to-excellent, US winter wheat harvest hit 86% complete, Canadian Prairie canola conditions stayed favourable, and Turkiye's cool wet spring produced record winter crop yields — enough to push Paris rapeseed futures down 6.7% to £438.99/t."
  ],
  "notable_numbers": [
   {
+   "label": "GB farms below five-year wheat average",
+   "value": "90%",
+   "note": "AHDB harvest report 1; only 10% of the 60-farm sample beat their own average"
+  },
+  {
+   "label": "GB winter barley cut by 26 July",
+   "value": "95%",
+   "note": "earliest harvest since AHDB records began in 2006"
+  },
+  {
+   "label": "GB wheat cut by 26 July",
+   "value": "54%",
+   "note": "South West already 96% complete"
+  },
+  {
+   "label": "GB oilseed rape cut by 26 July",
+   "value": "73%",
+   "note": "Scotland only 8% at the same date"
+  },
+  {
+   "label": "GB Group 1 wheat specific weight",
+   "value": "76-85 kg/hl",
+   "note": "POSITIVE: protein averaging 13.5%, samples above 14% not uncommon"
+  },
+  {
+   "label": "Cameroon cocoa 2025/26",
+   "value": "247,914 t",
+   "note": "-19.9%, weakest marketed volume in five seasons; flagged, hazard attribution inferred"
+  },
+  {
+   "label": "Cameroon cocoa exports 2025/26",
+   "value": "125,469 t",
+   "note": "-34.7%; Europe took ~84.6%; end-season stocks up to 40,447 t from 13,947 t"
+  },
+  {
+   "label": "New York cocoa Sep-26",
+   "value": "$5,776/t",
+   "note": "-1.80% on better Ghanaian supply news; intraday range $5,534-$5,830"
+  },
+  {
+   "label": "Parana coffee harvest",
+   "value": "77%",
+   "note": "of cultivated area; wet spells raising delay and bean-quality concerns"
+  },
+  {
+   "label": "Parana processed coffee",
+   "value": "R$1,473/bag",
+   "note": "+7.7% in July from ~R$1,368, ending a run of monthly declines"
+  },
+  {
+   "label": "Uvalde County, Texas rainfall",
+   "value": ">15 inches",
+   "note": "mid-July; 20-30 inches across parts of the Hill Country, 8-10 inches in Medina County"
+  },
+  {
    "label": "France maize 2026/27 (USDA)",
    "value": "10.0 Mt",
-   "note": "-24% in one month, lowest since MY 1990/91. CONFLICTS with COCERAL 9.4 Mt and RFI 9 Mt"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: -24% in one month, lowest since MY 1990/91. CONFLICTS with COCERAL 9.4 Mt and RFI 9 Mt"
   },
   {
    "label": "France maize yield",
    "value": "7.63 t/ha",
-   "note": "-13% in one month, 16% below the 5-year average"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: -13% in one month, 16% below the 5-year average"
   },
   {
    "label": "France maize harvested area",
    "value": "1.3 Mha",
-   "note": "lowest since MY 1969/70; 190,000 ha cut on French ministry data"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: lowest since MY 1969/70; 190,000 ha cut on French ministry data"
   },
   {
    "label": "Kenya maize 2026/27",
    "value": "3.0 Mt",
-   "note": "-33% in one month after a late-May to June dry spell; El Nino attributed"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: -33% in one month after a late-May to June dry spell; El Nino attributed"
   },
   {
    "label": "Colorado pasture good-to-excellent",
    "value": "3%",
-   "note": "76% very poor to poor; worst in US beef country, week to 2 August"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: 76% very poor to poor; worst in US beef country, week to 2 August"
   },
   {
    "label": "Wyoming pasture good-to-excellent",
    "value": "2%",
-   "note": "75% very poor to poor"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: 75% very poor to poor"
   },
   {
    "label": "New Mexico pasture good-to-excellent",
    "value": "5%",
-   "note": "70% very poor to poor"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: 70% very poor to poor"
   },
   {
    "label": "South Africa maize 2025/26",
    "value": "18.0 Mt",
-   "note": "POSITIVE: record, on beneficial La Nina rains; yield 5.78 t/ha, fourth highest on record"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: record, on beneficial La Nina rains; yield 5.78 t/ha, fourth highest on record"
   },
   {
    "label": "Argentina maize 2025/26",
    "value": "63.0 Mt",
-   "note": "POSITIVE: record, +29% year on year on a record 8.2 Mha"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: record, +29% year on year on a record 8.2 Mha"
   },
   {
    "label": "Russia wheat yield 2026/27",
    "value": "3.53 t/ha",
-   "note": "POSITIVE: record, on abundant precipitation through yield formation"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: record, on abundant precipitation through yield formation"
   },
   {
    "label": "Brazil cotton yield 2026/27",
    "value": "1,960 kg/ha",
-   "note": "POSITIVE: record, rainy season extended into May in Mato Grosso"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: record, rainy season extended into May in Mato Grosso"
   },
   {
    "label": "Missouri pasture good-to-excellent",
    "value": "80%",
-   "note": "POSITIVE: +3 pts, only 3% very poor to poor, against a 48-state average of 25%"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: +3 pts, only 3% very poor to poor, against a 48-state average of 25%"
   },
   {
    "label": "South Dakota pasture good-to-excellent",
    "value": "22%",
-   "note": "POSITIVE: +11 pts in a week, though 46% is still very poor to poor"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: +11 pts in a week, though 46% is still very poor to poor"
   },
   {
    "label": "UK harvest shortfall (ECIU)",
    "value": "-2.5 Mt",
-   "note": "vs USDA April (21.4 Mt) and COCERAL March (22.0 Mt) forecasts; the loss behind the 19.5 Mt outturn"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: vs USDA April (21.4 Mt) and COCERAL March (22.0 Mt) forecasts; the loss behind the 19.5 Mt outturn"
   },
   {
    "label": "England April rainfall",
    "value": "38% of average",
-   "note": "Met Office via ECIU; the first of the year's three hits before the May-July heatwaves"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: Met Office via ECIU; the first of the year's three hits before the May-July heatwaves"
   },
   {
    "label": "Europe June heatwave",
    "value": "3.5C",
-   "note": "World Weather Attribution via Munich Re: how much cooler the same event would have been 50 years ago"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: World Weather Attribution via Munich Re: how much cooler the same event would have been 50 years ago"
   },
   {
    "label": "Germany national temperature record",
    "value": "41.8C",
-   "note": "Mockern, June; 0.6C above the 2019 high, and June is not normally the hottest month"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: Mockern, June; 0.6C above the 2019 high, and June is not normally the hottest month"
   },
   {
    "label": "Pakistan maize yield 2025/26",
    "value": "5.54 t/ha",
-   "note": "lowest in seven years after ~1.8 Mha flooded mid-season in Punjab and Sindh in summer 2025"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: lowest in seven years after ~1.8 Mha flooded mid-season in Punjab and Sindh in summer 2025"
   },
   {
    "label": "EU maize vs 5-year average",
    "value": "-11%",
-   "note": "USDA; France -26%, Hungary and Slovakia cut, Romania and Bulgaria up on better moisture"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: USDA; France -26%, Hungary and Slovakia cut, Romania and Bulgaria up on better moisture"
   },
   {
    "label": "Central and southern China May rainfall",
    "value": "up to 400 mm",
-   "note": "Munich Re: 100+ rivers burst, US$2.8bn losses, only a fraction insured"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: Munich Re: 100+ rivers burst, US$2.8bn losses, only a fraction insured"
   },
   {
    "label": "India kharif sowing 31 Jul",
    "value": "89.42 Mha",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: vs 92.07 Mha last year; gap down from 25% at end-June to 2.9%. CONFLICTS with 78.7 Mha in a032/j038"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: vs 92.07 Mha last year; gap down from 25% at end-June to 2.9%. CONFLICTS with 78.7 Mha in a032/j038"
   },
   {
    "label": "India June-July rainfall",
    "value": "-13%",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: IMD; July alone was +1%, but ~50% of districts still deficient or large-deficient"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: IMD; July alone was +1%, but ~50% of districts still deficient or large-deficient"
   },
   {
    "label": "India August rainfall forecast",
    "value": "<94% of LPA",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: IMD 31 July; LPA 254.9 mm. Aug-Sep combined outlook worse"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: IMD 31 July; LPA 254.9 mm. Aug-Sep combined outlook worse"
   },
   {
    "label": "India rice sown 31 Jul",
    "value": "30.14 Mha",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: shortfall narrowed to 0.68 Mha from 30.83 Mha last year"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: shortfall narrowed to 0.68 Mha from 30.83 Mha last year"
   },
   {
    "label": "India maize acreage",
    "value": "-0.65 Mha",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: steepest fall among coarse cereals; bajra -0.42 Mha"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: steepest fall among coarse cereals; bajra -0.42 Mha"
   },
   {
    "label": "India sugarcane acreage",
    "value": "+0.086 Mha",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: oilseeds also up 0.12 Mha"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: oilseeds also up 0.12 Mha"
   },
   {
    "label": "India high-risk districts",
    "value": "111",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: weak monsoon outlook overlapping irrigation coverage below 25%, across 12 states"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: weak monsoon outlook overlapping irrigation coverage below 25%, across 12 states"
   },
   {
    "label": "Southern peninsula July night temperature",
    "value": "highest in 126 years",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: all-India July minimum second highest since 1901"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: all-India July minimum second highest since 1901"
   },
   {
    "label": "Spain cereal harvest 2026",
    "value": "18.6 Mt",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: Cooperativas Agro-alimentarias; -9.5% on May estimate, ~30% below 2025's 26.64 Mt"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: Cooperativas Agro-alimentarias; -9.5% on May estimate, ~30% below 2025's 26.64 Mt"
   },
   {
    "label": "Spain soft wheat",
    "value": "-36%",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: vs 2025; barley -32% in the same estimate"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: vs 2025; barley -32% in the same estimate"
   },
   {
    "label": "Spain May-June temperature",
    "value": "+3.2°C",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: AEMET, peninsular average; rainfall 39% of usual"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: AEMET, peninsular average; rainfall 39% of usual"
   },
   {
    "label": "EU + UK grain 2026",
    "value": "286.6 Mt",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: COCERAL extraordinary forecast, 23.4 Mt below 2025"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: COCERAL extraordinary forecast, 23.4 Mt below 2025"
   },
   {
    "label": "France maize 2026",
    "value": "9.4 Mt",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: COCERAL; from 13.8 Mt, lowest in more than 20 years"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: COCERAL; from 13.8 Mt, lowest in more than 20 years"
   },
   {
    "label": "Argentina wheat 2026/27",
    "value": "21.3 Mt",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: Buenos Aires Grain Exchange, from 27.8 Mt; headline-only citation, flagged"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: Buenos Aires Grain Exchange, from 27.8 Mt; headline-only citation, flagged"
   },
   {
    "label": "England abstraction restrictions",
    "value": "1,395",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: Environment Agency, week to 30 July"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: Environment Agency, week to 30 July"
   },
   {
    "label": "UK iceberg lettuce wholesale",
    "value": "+90%",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: tomatoes +60%, potatoes +40%"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: tomatoes +60%, potatoes +40%"
   },
   {
    "label": "Lincolnshire coast winter malting barley",
    "value": "10 t/ha",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: Willow Farm, Skegness, cut from 4 July"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: Willow Farm, Skegness, cut from 4 July"
   },
   {
    "label": "North Yorkshire winter barley",
    "value": "10.8 t/ha",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: best fields, Busby House Farm; rest of 344ha at 7.9 t/ha"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: best fields, Busby House Farm; rest of 344ha at 7.9 t/ha"
   },
   {
    "label": "EU + UK rapeseed area",
    "value": "6.8 Mha",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: up from 6.4 Mha; COCERAL judges heat damage smaller than for wheat and corn"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: up from 6.4 Mha; COCERAL judges heat damage smaller than for wheat and corn"
   },
   {
    "label": "EU maize production 2026/27",
    "value": "51.9 Mt",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: European Commission, cut from 59.9 Mt in June; import need +5.0 Mt to 24.0 Mt"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: European Commission, cut from 59.9 Mt in June; import need +5.0 Mt to 24.0 Mt"
   },
   {
    "label": "EU barley production 2026/27",
    "value": "51.1 Mt",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: revised lower in the same 30 July balance sheet"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: revised lower in the same 30 July balance sheet"
   },
   {
    "label": "Ghana cocoa 2026/27",
    "value": "-16%",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: COCOBOD; El Nino and excess May-June rain among several cited drivers"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: COCOBOD; El Nino and excess May-June rain among several cited drivers"
   },
   {
    "label": "UK spring barley yield",
    "value": "5.3 t/ha",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: AHDB harvest report 1, vs 5.7 t/ha ten-year average, only 8% cut"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: AHDB harvest report 1, vs 5.7 t/ha ten-year average, only 8% cut"
   },
   {
    "label": "UK oat yield",
    "value": "4.9 t/ha",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: bottom of the ten-year range of 4.9-5.9 t/ha"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: bottom of the ten-year range of 4.9-5.9 t/ha"
   },
   {
    "label": "North Dakota corn condition",
    "value": "-13 pts",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: largest single-state weekly decline in the 2 August USDA report"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: largest single-state weekly decline in the 2 August USDA report"
   },
   {
    "label": "Montana spring wheat condition",
    "value": "+12 pts",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: reversal after July dryness in the Northern Plains"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: POSITIVE: reversal after July dryness in the Northern Plains"
   },
   {
    "label": "Minas Gerais rainfall",
    "value": "0 mm",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: Somar Meteorologia, week ended 2 August, in Brazil's biggest coffee region"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: Somar Meteorologia, week ended 2 August, in Brazil's biggest coffee region"
   },
   {
    "label": "Paris rapeseed Nov-26",
    "value": "£438.99/t",
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: -6.7% on the week on improving North American crop prospects"
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: -6.7% on the week on improving North American crop prospects"
   }
  ],
- "what_changed": "This file now covers FOUR sweeps run on 2026-08-09 and row_count (71) is their sum: 20 rows from a first run that exhausted its search budget mid-sweep, 19 from a second that completed the hazard and company passes, 10 from a third that closed the India gap, and 22 from this fourth run. Earlier content is merged forward and nothing has been overwritten. What this run changed is the source base rather than the geography. The three earlier runs between them never reached USDA FAS World Agricultural Production, Munich Re, ECIU's own release or FAO GIEWS, and the first run explicitly recorded US livestock as unswept while neither later run picked it up. All of those are now closed, and they carry the day's heaviest figures: the French maize cut is larger from USDA than from any source already in the corpus, and the US pasture readings are the worst condition numbers anywhere in it. The second change is to the balance of the corpus. Positive rows have until now come mostly from individual well-placed farms in Lincolnshire and Yorkshire; seven of this run's 22 are favourable and every one is an official record - South African and Argentine maize, Russian wheat yield, Brazilian cotton yield - so the corpus's positive side is no longer anecdotal. The third change is a new unresolved disagreement: French maize 2026 now carries four different production figures from four bodies, spanning 8.9 to 10.0 Mt, and none of them has been picked over the others.",
+ "what_changed": "This file now covers FIVE sweeps run on 2026-08-09 and row_count (88) is their sum: 20 + 19 + 10 + 22 + 17. Earlier content is merged forward and nothing has been overwritten. Every one of the 21 manifest sources had already been checked by one of the four earlier runs, so this run changed depth rather than coverage. Three things moved. First, the AHDB harvest report turned out to be only half mined: the four headline yields were already in, but the harvest-progress series, the 90%-of-farms distribution and the exceptional grain quality were not, and the quality finding is the corpus's first properly evidenced upside from the UK drought rather than a well-placed individual farm. Second, West African cocoa gained a third country and a mechanism: Cameroon at 247,914 t (-19.9%), against Ghana with too much rain and Cote d'Ivoire with too little sun, both flagged where the attribution is inferred rather than stated. Third, and most important for the dashboard, a claim that four consecutive run logs today asserted turns out to be false: c014 and c015 are not a same-day AHDB contradiction, they are consecutive condition readings a month apart that share a publication date. With a human-added label now in series_labels.json, that series charts, taking the corpus from 4 chartable series to 5.",
  "conflicts": [
+  {
+   "ids": [
+    "c014",
+    "c015"
+   ],
+   "note": "CORRECTION, NOT A CONFLICT. All four earlier run logs today record these as a same-day AHDB contradiction ('2026-06-29:64 and 2026-06-29:58') carrying conflict flags. The committed rows disagree: event_dates are 2026-05-31 and 2026-06-22, review_flag is null on both, and c015's own verbatim quote reads '58% of winter wheat across the UK was rated good or excellent, down from 64% a month ago due to dry weather'. They share a PUBLICATION date, not a measurement date. This run treats them as consecutive readings of one series. With the human-added label now present, the series is chartable:true."
+  },
+  {
+   "ids": [
+    "q008",
+    "q009"
+   ],
+   "note": "NOT A SOURCE CONFLICT: both Cameroon rows carry a review_flag because the hazard_type is inferred. CocoaIntel states the 19.9% production fall and 34.7% export fall as facts, and separately reports Cameroonian officials warning that adverse West African weather could cut supply in 2026/27. The link from weather to THIS decline is regional context, not a stated attribution. Recorded with attribution 'implied' and flagged rather than dropped, because the corpus had no Cameroon rows at all and this is the country's whole season."
+  },
+  {
+   "ids": [
+    "q016"
+   ],
+   "note": "UNIT FRICTION, NOT A DATA FAULT: q016 records rainfall of 15 with metric_unit 'inches' under metric_name 'rainfall_mm', because the controlled metric list hardcodes millimetres and the source states inches. No conversion was performed, since inferring a number is forbidden. The row is honest but the series US|uvalde county, texas|mixed_grains|rainfall_mm|Texas Farm Bureau will mis-scale if it is ever charted against a millimetre reading. The schema needs either a rainfall_in metric or a unit-aware chart layer."
+  },
   {
    "ids": [
     "p001",
@@ -282,20 +364,20 @@
     "a022",
     "j012"
    ],
-   "note": "FRANCE MAIZE 2026, now four figures from four bodies and not reconciled. USDA FAS World Agricultural Production (p001, circular dated July 2026) forecasts 10.0 Mt; COCERAL (h011, 2026-07-10) 9.4 Mt; RFI (a022, 2026-08-08) 9 Mt; and j012 8.9 Mt. USDA is the high outlier and is a forecast with a stated 190,000 ha area revision, while COCERAL's is an extraordinary weather-triggered forecast; the later press figures are lower. All four rows are kept with their verbatim quotes. A human should decide whether these are genuinely the same quantity before any chart is built on French maize."
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: FRANCE MAIZE 2026, now four figures from four bodies and not reconciled. USDA FAS World Agricultural Production (p001, circular dated July 2026) forecasts 10.0 Mt; COCERAL (h011, 2026-07-10) 9.4 Mt; RFI (a022, 2026-08-08) 9 Mt; and j012 8.9 Mt. USDA is the high outlier and is a forecast with a stated 190,000 ha area revision, while COCERAL's is an extraordinary weather-triggered forecast; the later press figures are lower. All four rows are kept with their verbatim quotes. A human should decide whether these are genuinely the same quantity before any chart is built on French maize."
   },
   {
    "ids": [
     "p006",
     "c045"
    ],
-   "note": "SOUTH AFRICAN MAIZE, same direction, different quantities and not a contradiction so much as a trap for a naive series. USDA (p006) gives a record 18.0 Mt for MY 2025/26 in tonnes; JRC ASAP (c045) gives +10% against the five-year average. Both are POSITIVE and both are recorded, in separate series, because a tonnage and a percentage in one series would chart as nonsense."
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: SOUTH AFRICAN MAIZE, same direction, different quantities and not a contradiction so much as a trap for a naive series. USDA (p006) gives a record 18.0 Mt for MY 2025/26 in tonnes; JRC ASAP (c045) gives +10% against the five-year average. Both are POSITIVE and both are recorded, in separate series, because a tonnage and a percentage in one series would chart as nonsense."
   },
   {
    "ids": [
     "p013"
    ],
-   "note": "Not a source conflict: p013 is a climate-attribution figure (3.5C) rather than a crop measurement, and carries a review_flag saying so. Its quote supports the number exactly; what is weaker is the link from the number to an agricultural impact. Recorded rather than dropped because it is the attribution evidence sitting under the European crop-loss rows."
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: Not a source conflict: p013 is a climate-attribution figure (3.5C) rather than a crop measurement, and carries a review_flag saying so. Its quote supports the number exactly; what is weaker is the link from the number to an agricultural impact. Recorded rather than dropped because it is the attribution evidence sitting under the European crop-loss rows."
   },
   {
    "ids": [
@@ -303,48 +385,48 @@
     "a032",
     "j038"
    ],
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: India end-July kharif sown area. Down To Earth (2026-08-05) reports 89.42 Mha against 92.07 Mha last year, a 2.9% shortfall. ThePrint (a032, 2026-08-06) reports 78.738 Mha and Reuters (a032's near-twin j038, 2026-07-28) reports 78.7 Mha. All cite the Union Ministry of Agriculture. A ~10.7 Mha discrepancy in a national planted-area series cannot be a rounding or scope artefact of the kind seen in the EU barley rows, and no reading of the three articles reconciles them. All rows kept with quotes; n001 carries a review_flag. This needs a human to check the ministry's own release of 4 August."
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: India end-July kharif sown area. Down To Earth (2026-08-05) reports 89.42 Mha against 92.07 Mha last year, a 2.9% shortfall. ThePrint (a032, 2026-08-06) reports 78.738 Mha and Reuters (a032's near-twin j038, 2026-07-28) reports 78.7 Mha. All cite the Union Ministry of Agriculture. A ~10.7 Mha discrepancy in a national planted-area series cannot be a rounding or scope artefact of the kind seen in the EU barley rows, and no reading of the three articles reconciles them. All rows kept with quotes; n001 carries a review_flag. This needs a human to check the ministry's own release of 4 August."
   },
   {
    "ids": [
     "n010"
    ],
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: Not a conflict between sources but a source qualifying its own number: IMD reports 269 extremely heavy rainfall events in July, well above previous years, while its director general attributes part of the rise to an expanded rain-gauge network in 2026. Recorded unquantified with the caveat."
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: Not a conflict between sources but a source qualifying its own number: IMD reports 269 extremely heavy rainfall events in July, well above previous years, while its director general attributes part of the rise to an expanded rain-gauge network in 2026. Recorded unquantified with the caveat."
   },
   {
    "ids": [
     "h009",
     "w002"
    ],
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: EU barley 2026 at two different levels: COCERAL puts EU+UK 2026 barley at 57.6 Mt while the European Commission's 30 July balance sheet puts EU 2026/27 barley at 51.1 Mt. The scopes differ (EU+UK vs EU, crop year vs marketing year) so this is probably not a true contradiction, but the two figures are close enough in framing to be misread as one series and are recorded separately."
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: EU barley 2026 at two different levels: COCERAL puts EU+UK 2026 barley at 57.6 Mt while the European Commission's 30 July balance sheet puts EU 2026/27 barley at 51.1 Mt. The scopes differ (EU+UK vs EU, crop year vs marketing year) so this is probably not a true contradiction, but the two figures are close enough in framing to be misread as one series and are recorded separately."
   },
   {
    "ids": [
     "h011",
     "a022"
    ],
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: France maize 2026: COCERAL (2026-07-10) has 9.4 Mt, RFI (2026-08-08) has 9 Mt. A month apart, same direction, small gap. Recorded so the pair is not read as a single figure; not resolved."
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: France maize 2026: COCERAL (2026-07-10) has 9.4 Mt, RFI (2026-08-08) has 9 Mt. A month apart, same direction, small gap. Recorded so the pair is not read as a single figure; not resolved."
   },
   {
    "ids": [
     "c014",
     "c015"
    ],
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: Still open and untouched by this run: AHDB's own outputs give 64% and 58% good-to-excellent for GB winter wheat on the same day, 2026-06-29. The series has two readings and no label in series_labels.json, so it stays chartable:false on both counts."
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: Still open and untouched by this run: AHDB's own outputs give 64% and 58% good-to-excellent for GB winter wheat on the same day, 2026-06-29. The series has two readings and no label in series_labels.json, so it stays chartable:false on both counts."
   },
   {
    "ids": [
     "a031",
     "w020"
    ],
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: Both published 2026-08-03 and both attribute the move to weather, in opposite directions: Czapp reports Brazilian coffee futures UP at 331 while Barchart reports September ICE arabica (KCU26) DOWN 3.04% because dryness in Minas Gerais should accelerate the harvest. Different contracts and units; not reconciled, both rows kept."
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: Both published 2026-08-03 and both attribute the move to weather, in opposite directions: Czapp reports Brazilian coffee futures UP at 331 while Barchart reports September ICE arabica (KCU26) DOWN 3.04% because dryness in Minas Gerais should accelerate the harvest. Different contracts and units; not reconciled, both rows kept."
   },
   {
    "ids": [
     "a022",
     "j006"
    ],
-   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: France maize 2026 production: RFI (2026-08-08) says 9 Mt, COCERAL via World Grain (2026-07-10) says 9.4 Mt. Close but not identical; the gap is a month of further deterioration rather than a contradiction, recorded here so it is not read as one figure."
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: CARRIED OVER FROM AN EARLIER RUN TODAY: France maize 2026 production: RFI (2026-08-08) says 9 Mt, COCERAL via World Grain (2026-07-10) says 9.4 Mt. Close but not identical; the gap is a month of further deterioration rather than a contradiction, recorded here so it is not read as one figure."
   }
  ]
 }

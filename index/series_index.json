@@ -3207,5 +3207,175 @@
   ],
   "label": null,
   "chartable": false
+ },
+ "GB|united kingdom|winter_barley|harvested_area|AHDB": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "winter_barley",
+  "metric_name": "harvested_area",
+  "metric_unit": "% of area cut",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-07-26",
+    "metric_value": 95,
+    "claim_id": "q002"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|winter_wheat|harvested_area|AHDB": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "winter_wheat",
+  "metric_name": "harvested_area",
+  "metric_unit": "% of area cut",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-07-26",
+    "metric_value": 54,
+    "claim_id": "q003"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|oilseed_rape|harvested_area|AHDB": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "oilseed_rape",
+  "metric_name": "harvested_area",
+  "metric_unit": "% of area cut",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-07-26",
+    "metric_value": 73,
+    "claim_id": "q004"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|spring_barley|harvested_area|AHDB": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "spring_barley",
+  "metric_name": "harvested_area",
+  "metric_unit": "% of area cut",
+  "publisher": "AHDB",
+  "readings": [
+   {
+    "event_date": "2026-07-26",
+    "metric_value": 8,
+    "claim_id": "q005"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "CM|cameroon (national)|cocoa|production|CocoaIntel": {
+  "country": "CM",
+  "region": "Cameroon (national)",
+  "crop": "cocoa",
+  "metric_name": "production",
+  "metric_unit": "tonnes",
+  "publisher": "CocoaIntel",
+  "readings": [
+   {
+    "event_date": "2026-07-31",
+    "metric_value": 247914,
+    "claim_id": "q008"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "CM|cameroon (national)|cocoa|export_volume|CocoaIntel": {
+  "country": "CM",
+  "region": "Cameroon (national)",
+  "crop": "cocoa",
+  "metric_name": "export_volume",
+  "metric_unit": "tonnes",
+  "publisher": "CocoaIntel",
+  "readings": [
+   {
+    "event_date": "2026-07-31",
+    "metric_value": 125469,
+    "claim_id": "q009"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GLOBAL|ice new york (september 2026 contract)|cocoa|futures_price|CocoaIntel": {
+  "country": "GLOBAL",
+  "region": "ICE New York (September 2026 contract)",
+  "crop": "cocoa",
+  "metric_name": "futures_price",
+  "metric_unit": "USD/tonne",
+  "publisher": "CocoaIntel",
+  "readings": [
+   {
+    "event_date": "2026-08-06",
+    "metric_value": 5776,
+    "claim_id": "q012"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|paraná|coffee|spot_price|CocoaIntel": {
+  "country": "BR",
+  "region": "Paraná",
+  "crop": "coffee",
+  "metric_name": "spot_price",
+  "metric_unit": "BRL/bag",
+  "publisher": "CocoaIntel",
+  "readings": [
+   {
+    "event_date": "2026-07-31",
+    "metric_value": 1473,
+    "claim_id": "q013"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "BR|paraná|coffee|harvested_area|CocoaIntel": {
+  "country": "BR",
+  "region": "Paraná",
+  "crop": "coffee",
+  "metric_name": "harvested_area",
+  "metric_unit": "% of cultivated area",
+  "publisher": "CocoaIntel",
+  "readings": [
+   {
+    "event_date": "2026-08-06",
+    "metric_value": 77,
+    "claim_id": "q014"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|uvalde county, texas|mixed_grains|rainfall_mm|Texas Farm Bureau": {
+  "country": "US",
+  "region": "Uvalde County, Texas",
+  "crop": "mixed_grains",
+  "metric_name": "rainfall_mm",
+  "metric_unit": "inches",
+  "publisher": "Texas Farm Bureau",
+  "readings": [
+   {
+    "event_date": "2026-07-15",
+    "metric_value": 15,
+    "claim_id": "q016"
+   }
+  ],
+  "label": null,
+  "chartable": false
  }
 }

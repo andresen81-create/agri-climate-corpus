@@ -1,0 +1,81 @@
+{
+ "date": "2026-08-09",
+ "run": "fifth sweep of 2026-08-09, written into the free -run4 filename slot",
+ "window": {
+  "start": "2026-07-26",
+  "end": "2026-08-09",
+  "length_days": 14,
+  "note": "run_state.window_end already equalled today (STEP 1B case b) for the third time in the day. Window re-covered unchanged and run_state not moved. Three run logs existed for today (2026-08-09.json, -run2.json, -run3.json) and were all read before sweeping; -run2.json is chronologically the FOURTH run, which its own log states."
+ },
+ "counts": {
+  "rows_inserted": 17,
+  "rows_merged_as_corroboration": 0,
+  "corroborations_added_to_existing_rows": 6,
+  "rows_dropped_by_badge_map": 0,
+  "new_unmapped_domains": 0,
+  "corpus_rows_total": 244,
+  "claims_index_keys": 243,
+  "series_total": 197,
+  "series_new": 10,
+  "series_chartable": 5,
+  "favourable_rows": 1,
+  "summary_row_count_all_runs_today": 88
+ },
+ "sources_checked": [
+  "AHDB (GB Harvest Progress, Arable Market Report)",
+  "ICCO / West African cocoa and coffee trade press (CocoaIntel)",
+  "Texas Farm Bureau (US flood follow-up)"
+ ],
+ "sources_not_checked": [
+  "USDA NASS Crop Progress",
+  "Environment Agency dry weather reports",
+  "Buenos Aires Grain Exchange",
+  "GEOGLAM Crop Monitor",
+  "JRC MARS",
+  "WASDE",
+  "CONAB",
+  "SA Crop Estimates Committee",
+  "MPOB",
+  "FAO GIEWS",
+  "USDA FAS World Agricultural Production",
+  "ABARES Australian Crop Report",
+  "India Ministry of Agriculture advance estimates",
+  "IMD",
+  "NEPG",
+  "GB Potatoes",
+  "ECIU",
+  "COCERAL",
+  "Munich Re"
+ ],
+ "not_checked_rationale": "All 21 manifest sources were checked by one of the four earlier runs today and the window is unchanged, so re-checking them would re-cover ground rather than add. This run targeted depth instead: the AHDB harvest report the earlier runs took only headline yields from, West African cocoa on the ground, Brazilian coffee weather, and the Texas flood follow-up that the first run left in pass 3.",
+ "new_unmapped_domains": [],
+ "passes_run": {
+  "pass_1_by_source": "AHDB report 1 re-mined in full",
+  "pass_2_by_crop_region": "UK cereals, West Africa cocoa, Brazil coffee, US south",
+  "pass_3_by_hazard": "Texas Hill Country July flood follow-up; Ghana excess rain; Cote d'Ivoire cloud cover; south-central Brazil cold-air wind losses",
+  "pass_4_by_company": "re-run over the confectionery and coffee names the second run did not reach (Hershey, Mondelez, Nestle, Lamb Weston, McCain). ZERO ROWS, and for a documented reason, see anomalies."
+ },
+ "anomalies": [
+  "THIRD SAME-DAY RE-RUN, FIFTH SWEEP OVERALL. run_state.window_end was already 2026-08-09. Treated as STEP 1B case (b): window_start and window_end both left at 2026-07-26 and 2026-08-09. Log written to runs/2026-08-09-run4.json, the lowest free slot; the slot number does not match run order because the third sweep skipped -run2 and the fourth sweep back-filled it.",
+  "A CLAIM REPEATED BY ALL FOUR EARLIER RUN LOGS TODAY IS NOT TRUE OF THE DATA. Every earlier log states that GB|united kingdom|winter_wheat|condition_good_excellent|AHDB holds 'readings 2026-06-29:64 and 2026-06-29:58' and is 'blocked by the c014/c015 conflict flags'. The committed rows have event_date 2026-05-31 (c014, 64%) and 2026-06-22 (c015, 58%); review_flag is null on both; and c015's verbatim quote reads 'down from 64% a month ago due to dry weather'. They share a PUBLICATION date of 2026-06-29, not a measurement date. They are consecutive readings of one series. A human has since added the label to series_labels.json, so this run set the series chartable:true. series_chartable rises from 4 to 5 and this is the first new chart the corpus has produced. A human should decide whether the conflict entry in the summary should now be retired outright.",
+  "PASS 4 (COMPANY) RETURNED ZERO ROWS AGAIN, AND ONE NEAR-MISS IS WORTH RECORDING. Nestle's H1-2026 press release on nestle.com states the gross profit margin fell 20 bps to 46.4% 'due to higher coffee and cocoa prices flowing through the P&L', which would qualify. It was NOT recorded because the release's own asset paths date it to 2026-07 and the exact publication date could not be pinned; Nestle's half-year results normally land before 26 July, which would put it outside window_start, and Nestle is not a manifest source so the never-checked-source exception in STEP 1B does not apply. It should be the first target of the next run if a date can be confirmed.",
+  "THREE STALE-SOURCE TRAPS AVOIDED, ALL OF WHICH SURFACED AS CURRENT IN SEARCH. (1) Food Business News 'Mondelez sees cocoa market heading in the right direction' is dated 08.05.2025 and reports fiscal 2025 Q2, not 2026. (2) World Grain 'Frost, dryness trim Australia's wheat outlook' is dated 10.03.2024; its 27-30 Mt figures are two years old and would have contradicted the corpus's current 26.7 Mt (c009) for no reason. (3) CocoaIntel's 'Cocoa Futures Rally on Ghana and Weather Supply Risks' is dated 2026-05-08. None recorded. Search-result recency is unreliable for all three publishers and every date was taken from the page, not the result.",
+  "reuters.com IS IN THE Press BADGE LIST BUT IS BLOCKED TO THE SEARCH TOOL. A domain-restricted search against reuters.com returned 'The following domains are not accessible to our user agent'. The corpus already holds Reuters rows (a032, a037, j038, w017) obtained by other routes, so this is a tooling limit rather than a badge problem, but it means Reuters-originated facts have to be reached through a syndicating host and cited there. Worth a human decision about origin_publisher handling.",
+  "UNIT FRICTION IN THE CONTROLLED METRIC LIST. q016 records Texas rainfall as metric_value 15 with metric_unit 'inches' under metric_name 'rainfall_mm'. The source states inches and STEP 5 forbids inferring or converting a number, so no conversion was made. No review_flag was set, because this describes the unit and not the soundness of the figure, and flagging it would needlessly unchart the series. The schema needs either a rainfall_in metric or a unit-aware chart layer.",
+  "TWO ROWS CARRY A REVIEW_FLAG THAT IS A DATA QUESTION, NOT A BADGE ONE. q008 and q009 (Cameroon cocoa production and exports) are exact and quoted, but the hazard_type is inferred from West African regional context rather than stated by the source for this decline. Flagged rather than dropped, because the corpus had no Cameroon rows at all.",
+  "UNQUANTIFIED CLAIM_KEY FORMAT NOW DIVERGES ACROSS THE CORPUS AND THIS IS A REAL DEDUP RISK. STEP 5 mandates country|crop|hazard_type|impact_class|fortnight for unquantified rows, and this run's six unquantified rows use it. Every unquantified row already in the corpus (34 of them, c026 through p015) uses the older collapsed form country|crop|season|na|None|direction. The two forms cannot match each other, so a future row that duplicates an OLD unquantified fact will not be caught by a NEW-form lookup and will insert instead of merging. This run checked both forms by hand for all six rows and found one near-collision: US|mixed_grains|flood|yield|2026-07-B (q017) maps to the old form US|mixed_grains|2026|na|None|down, which is a036 - AGCO's machinery demand commentary, a genuinely different fact. A human should decide whether to migrate the 34 old keys.",
+  "NO SERIES GAINED A SECOND READING FROM THIS RUN'S INSERTS. All 10 new series are single-reading and are kept, not pruned. The rise in series_chartable from 4 to 5 comes entirely from the c014/c015 correction above, not from new data.",
+  "NO SERIES NOW HAS MORE THAN ONE READING AND NO LABEL. The one that did across all four earlier runs today has been labelled by a human between runs. There is nothing to report under that STEP 10 heading for the first time.",
+  "NO ROW HAS AN event_date MORE THAN A YEAR BEFORE ITS published_date. The widest gap this run is q016 at 23 days (event 2026-07-15, published 2026-08-07).",
+  "raw.githubusercontent.com WAS REACHABLE THIS RUN (HTTP 200 on all seven index files), as it was for the fourth run and unlike the first two. The repo was also cloned over git to read the run logs, since raw.githubusercontent.com offers no directory listing for runs/.",
+  "A PRE-EXISTING /tmp/repo CLONE FROM AN EARLIER RUN TODAY WAS PRESENT AND READ-ONLY, and its runs/ directory held only 2026-08-09.json - it predates the third and fourth sweeps. A run that reused it would have missed two logs. This run cloned fresh to a new path. Worth knowing that a stale working copy is a silent way to lose run-log discovery."
+ ],
+ "source_silence_explained_by_calendar": [
+  "AHDB harvest report 2: report 1 of four published 2026-07-31. Report 2 not yet out.",
+  "WASDE: August edition due 2026-08-12.",
+  "USDA FAS World Agricultural Production: next circular due 2026-08-12.",
+  "MPOB: July supply and demand report due 2026-08-10, one day after this run.",
+  "CONAB: final 2025/26 grain survey 2026-09-15; first 2026/27 on 2026-10-15.",
+  "FAO GIEWS: Crop Prospects and Food Situation is triannual, last published July 2026."
+ ]
+}
