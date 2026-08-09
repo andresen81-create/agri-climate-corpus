@@ -30,5 +30,42 @@
   "month": "2026-05",
   "corroborations": [],
   "corroboration_count": 1
+ },
+ {
+  "id": "c014",
+  "claim_key": "GB|winter_wheat|2026 harvest|condition_good_excellent|64|down",
+  "hazard_type": "drought",
+  "impact_class": "yield",
+  "country": "GB",
+  "region": "United Kingdom; England worst affected, lighter soils and eastern England",
+  "crop": "winter_wheat",
+  "season": "2026 harvest",
+  "summary": "AHDB's final crop condition assessment rated 64% of winter wheat good or excellent, alongside 62% of winter barley, 71% of winter oats and 78% of winter oilseed rape. Prolonged dry conditions in April and May reduced ratings across much of the UK. England saw the greatest drought impact.",
+  "is_quantified": true,
+  "metric_name": "condition_good_excellent",
+  "metric_value": 64,
+  "metric_unit": "%",
+  "direction": "down",
+  "baseline": "lower than April 2026, above the 2025 season",
+  "title": "Crop ratings slip after dry spring, but harvest hope remains",
+  "url": "https://ahdb.org.uk/news/crop-ratings-slip-after-dry-spring-but-harvest-hope-remains",
+  "publisher": "AHDB",
+  "published_date": "2026-06-29",
+  "source_badge": "Official",
+  "verbatim_quote": "According to our final crop condition assessment, 64% of winter wheat was rated good or excellent, alongside 62% of winter barley, 71% of winter oats and 78% of winter oilseed rape (OSR).",
+  "attribution": "weather_explicit",
+  "corroborations": [
+   {
+    "url": "https://www.farminguk.com/news/heatwave-adds-risk-after-dry-spring-dents-uk-crops_68743.html",
+    "publisher": "FarmingUK",
+    "date": "2026-06-30"
+   }
+  ],
+  "corroboration_count": 2,
+  "review_flag": null,
+  "event_date": "2026-05-31",
+  "month": "2026-05",
+  "companies": [],
+  "series_key": "GB|united kingdom|winter_wheat|condition_good_excellent|AHDB"
  }
 ]

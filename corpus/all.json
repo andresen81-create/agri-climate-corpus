@@ -456,9 +456,9 @@
    }
   ],
   "corroboration_count": 2,
-  "review_flag": "CONFLICT with c015 — AHDB's own market report the same day states 58%, down from 64% a month ago",
-  "event_date": "2026-06-29",
-  "month": "2026-06",
+  "review_flag": null,
+  "event_date": "2026-05-31",
+  "month": "2026-05",
   "companies": [],
   "series_key": "GB|united kingdom|winter_wheat|condition_good_excellent|AHDB"
  },
@@ -487,8 +487,8 @@
   "attribution": "weather_explicit",
   "corroborations": [],
   "corroboration_count": 1,
-  "review_flag": "CONFLICT with c014 — same publisher, same date, different figure for the same metric",
-  "event_date": "2026-06-29",
+  "review_flag": null,
+  "event_date": "2026-06-22",
   "month": "2026-06",
   "companies": [],
   "series_key": "GB|united kingdom|winter_wheat|condition_good_excellent|AHDB"
