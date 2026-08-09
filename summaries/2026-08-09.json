@@ -1,8 +1,16 @@
 {
  "date": "2026-08-09",
- "row_count": 39,
- "headline": "The southern-European half of this summer's damage finally has numbers attached: Spain's cereal harvest is cut to 18.6 Mt, a third below 2025, and COCERAL's extraordinary forecast puts EU and UK grain 23.4 Mt lower at 286.6 Mt — while English harvest reports show the drought's effect is sharply local, with coastal Lincolnshire and North Yorkshire taking 10-12 t/ha crops.",
+ "row_count": 49,
+ "headline": "India is the week's real movement and it cuts against the European story: kharif sowing recovered from a 25% deficit at end-June to 2.9% by 31 July, but IMD's 31 July briefing forecasts August rainfall below 94% of normal and 111 districts with under 25% irrigation are exposed if the rains fail again — while the corpus now holds two irreconcilable figures for India's end-July sown area.",
  "key_points": [
+  "THIRD RUN OF 2026-08-09. run_state.window_end was already today when this run started, so the window was zero-length. Rather than sweep nothing, this run re-covered 2026-07-26 to 2026-08-09 and targeted the regions the two earlier runs left thinnest — India above all, which had no rows after 2026-08-06 and whose seasonal sources (IMD, India Ministry of Agriculture) both carried last_publication: null in the manifest despite having published on 31 July and 4 August.",
+  "IMD ENTERS THE CORPUS FOR THE FIRST TIME. Its 31 July briefing puts all-India July rainfall 1% above normal but cumulative June-July rainfall 13% below normal, with almost half of India's districts still deficient or large-deficient. August rainfall is forecast below 94% of the 254.9 mm LPA, and the August-September combined outlook is worse.",
+  "POSITIVE, AND THE LARGEST REVERSAL OF THE SEASON: India's kharif sowing gap against last year narrowed from 25% at end-June to 2.9% by 31 July, reaching 89.42 Mha against 92.07 Mha. Rice closed to within 0.68 Mha at 30.14 Mha; sugarcane (+0.086 Mha) and oilseeds (+0.12 Mha) are ahead of last year.",
+  "The recovery is uneven and the laggards are the ones that matter for feed and fuel: maize acreage is 0.65 Mha below last year, the steepest fall among coarse cereals, with bajra down 0.42 Mha and arhar and moong each down more than 0.3 Mha. Down To Earth notes the maize gap could tighten ethanol feedstock later in the season.",
+  "UNRESOLVED CONTRADICTION, NOT RESOLVED HERE: Down To Earth (2026-08-05) puts end-July kharif area at 89.42 Mha; ThePrint (a032, 2026-08-06) and Reuters (j038, 2026-07-28) put it at 78.7 Mha. All three cite the same agriculture ministry series. The ~10.7 Mha gap is roughly the size of the UK's entire arable area and both readings are recorded with their quotes.",
+  "HEAT, UNDER-COVERED UNTIL NOW: India's all-India July minimum temperature was the second highest since 1901; in the southern peninsula the July night-time temperature was the highest in 126 years. Above-normal minimums are forecast for almost all of India in August.",
+  "A SOURCE CAVEATING ITSELF: IMD recorded 269 extremely heavy and 918 very heavy rainfall events in July, but its director general said in the same briefing that part of the rise may reflect an expanded rain-gauge network in 2026. Recorded with the caveat as a review_flag rather than as a clean year-on-year signal.",
+  "TWO NEAR-MISSES WORTH KNOWING ABOUT. Search returned an AHDB page titled 'Improved yields - winter barley and oilseed rape harvests now complete' as current; the only fetchable copy of that text is a farming.co.uk repost dated 8 August 2025, describing AHDB's third harvest 2025 report. Separately, an ADM Investor Services cocoa note surfaced as current is dated 1 June 2026. Neither was recorded. Farmers Weekly confirms the 2026 series is 'the first of four reports', so AHDB harvest report 2 is still to come and no 2026 AHDB figure beyond report 1 exists yet.",
   "SPAIN ENTERS THE CORPUS FOR THE FIRST TIME. Cooperativas Agro-alimentarias de España's second estimate cuts the 2026 cereal harvest to 18.6 Mt across 5.28 Mha, down 1.96 Mt (-9.5%) on the May estimate and around 30% below the exceptional 26.64 Mt of 2025; soft wheat falls 36% and barley 32%. AEMET puts the peninsular May-June temperature 3.2°C above normal with rainfall at 39% of usual.",
   "COCERAL's extraordinary EU crop forecast, published because of the weather, cuts EU and UK 2026 grain to 286.6 Mt, 23.4 Mt below 2025. French maize drops to 9.4 Mt from 13.8 Mt, the lowest in more than 20 years; EU+UK barley goes to 57.6 Mt and rapeseed to 21.2 Mt.",
   "The drought's UK effect is strikingly uneven, and that is the week's most useful finding. Against AHDB's 6.8 t/ha national wheat and the projected worst harvest since 1984, Farmers Weekly's 7 August round-up records 12 t/ha Palladium wheat and 10 t/ha malting barley on the Lincolnshire coast, 10.8 t/ha barley in North Yorkshire and 9.5 t/ha wheat in East Yorkshire — all attributed to pockets of moisture retained from early summer rainfall.",
@@ -16,6 +24,46 @@
   "CARRIED OVER FROM THE EARLIER RUN THE SAME DAY (its 20 rows are in this count): POSITIVE counterweight this week: Montana spring wheat jumped 12 points in good-to-excellent, US winter wheat harvest hit 86% complete, Canadian Prairie canola conditions stayed favourable, and Turkiye's cool wet spring produced record winter crop yields — enough to push Paris rapeseed futures down 6.7% to £438.99/t."
  ],
  "notable_numbers": [
+  {
+   "label": "India kharif sowing 31 Jul",
+   "value": "89.42 Mha",
+   "note": "vs 92.07 Mha last year; gap down from 25% at end-June to 2.9%. CONFLICTS with 78.7 Mha in a032/j038"
+  },
+  {
+   "label": "India June-July rainfall",
+   "value": "-13%",
+   "note": "IMD; July alone was +1%, but ~50% of districts still deficient or large-deficient"
+  },
+  {
+   "label": "India August rainfall forecast",
+   "value": "<94% of LPA",
+   "note": "IMD 31 July; LPA 254.9 mm. Aug-Sep combined outlook worse"
+  },
+  {
+   "label": "India rice sown 31 Jul",
+   "value": "30.14 Mha",
+   "note": "POSITIVE: shortfall narrowed to 0.68 Mha from 30.83 Mha last year"
+  },
+  {
+   "label": "India maize acreage",
+   "value": "-0.65 Mha",
+   "note": "steepest fall among coarse cereals; bajra -0.42 Mha"
+  },
+  {
+   "label": "India sugarcane acreage",
+   "value": "+0.086 Mha",
+   "note": "POSITIVE: oilseeds also up 0.12 Mha"
+  },
+  {
+   "label": "India high-risk districts",
+   "value": "111",
+   "note": "weak monsoon outlook overlapping irrigation coverage below 25%, across 12 states"
+  },
+  {
+   "label": "Southern peninsula July night temperature",
+   "value": "highest in 126 years",
+   "note": "all-India July minimum second highest since 1901"
+  },
   {
    "label": "Spain cereal harvest 2026",
    "value": "18.6 Mt",
@@ -117,8 +165,22 @@
    "note": "-6.7% on the week on improving North American crop prospects"
   }
  ],
- "what_changed": "This file covers TWO sweeps run on 2026-08-09 and row_count (39) is their sum: an earlier run that inserted 20 rows before exhausting its search budget mid-sweep, and this run, which completed the hazard and company passes it could not finish. The earlier run's summary has been merged into this one rather than overwritten, so nothing it reported has been lost. The previous summary (2026-08-09, the same day) was written from a sweep that ran out of search budget partway through pass 2, leaving the hazard and company passes undone. This run completed those and the regional gaps, so the change is one of coverage rather than of events. Three things moved. First, Spain and the wider COCERAL revision are now in the corpus; last week's picture was built on the European Commission and JRC MARS and had no Spanish rows at all. Second, the UK story gained its counter-evidence: last week recorded the 19.5 Mt worst-since-1984 projection, and this week records the farms that did well inside the same drought, which is the difference between a national average and a claim about all growers. Third, the Argentine wheat cut that last week's run explicitly listed as an unresolved lead has been captured. The company pass (pass 4) was completed and returned nothing: ADM's and Bunge's Q2 2026 releases attribute their results to crush margins, biodiesel and Viterra integration, not weather. Zero is the expected result outside earnings season for weather-attributed corporate disclosure.",
+ "what_changed": "This file now covers THREE sweeps run on 2026-08-09 and row_count (49) is their sum: an earlier run that inserted 20 rows before exhausting its search budget mid-sweep, a second that completed the hazard and company passes and inserted 19, and this third run, which inserted 10. Earlier content has been merged forward, never overwritten. What this run changed is geographic rather than thematic. The corpus going into it was a European drought corpus with American condition ratings attached: of 195 rows, 8 were Indian and none was later than 2026-08-06, and both Indian seasonal sources showed last_publication: null in the manifest even though IMD published on 31 July and the agriculture ministry on 4 August. That is a monitoring gap, not a quiet season, and it is now closed. The direction of the Indian evidence also cuts against the week's European narrative: it is the first substantial POSITIVE cluster in the corpus that is not a single well-placed farm, with a national sowing deficit closing from 25% to 2.9%. It is provisional, because IMD forecasts below-normal August and September rain over most of the country. The run also opened a contradiction it deliberately did not resolve: three sources citing the same ministry series disagree by 10.7 Mha on India's end-July sown area.",
  "conflicts": [
+  {
+   "ids": [
+    "n001",
+    "a032",
+    "j038"
+   ],
+   "note": "India end-July kharif sown area. Down To Earth (2026-08-05) reports 89.42 Mha against 92.07 Mha last year, a 2.9% shortfall. ThePrint (a032, 2026-08-06) reports 78.738 Mha and Reuters (a032's near-twin j038, 2026-07-28) reports 78.7 Mha. All cite the Union Ministry of Agriculture. A ~10.7 Mha discrepancy in a national planted-area series cannot be a rounding or scope artefact of the kind seen in the EU barley rows, and no reading of the three articles reconciles them. All rows kept with quotes; n001 carries a review_flag. This needs a human to check the ministry's own release of 4 August."
+  },
+  {
+   "ids": [
+    "n010"
+   ],
+   "note": "Not a conflict between sources but a source qualifying its own number: IMD reports 269 extremely heavy rainfall events in July, well above previous years, while its director general attributes part of the rise to an expanded rain-gauge network in 2026. Recorded unquantified with the caveat."
+  },
   {
    "ids": [
     "h009",

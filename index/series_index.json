@@ -2748,5 +2748,107 @@
   ],
   "label": null,
   "chartable": false
+ },
+ "IN|india (national)|mixed_grains|planted_area|Down To Earth": {
+  "country": "IN",
+  "region": "india (national)",
+  "crop": "mixed_grains",
+  "metric_name": "planted_area",
+  "metric_unit": "million hectares",
+  "publisher": "Down To Earth",
+  "readings": [
+   {
+    "event_date": "2026-07-31",
+    "metric_value": 89.42,
+    "claim_id": "n001"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IN|india (national)|rice|planted_area|Down To Earth": {
+  "country": "IN",
+  "region": "india (national)",
+  "crop": "rice",
+  "metric_name": "planted_area",
+  "metric_unit": "million hectares",
+  "publisher": "Down To Earth",
+  "readings": [
+   {
+    "event_date": "2026-07-31",
+    "metric_value": 30.14,
+    "claim_id": "n003"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IN|india (national)|maize|planted_area|Down To Earth": {
+  "country": "IN",
+  "region": "india (national)",
+  "crop": "maize",
+  "metric_name": "planted_area",
+  "metric_unit": "million hectares",
+  "publisher": "Down To Earth",
+  "readings": [
+   {
+    "event_date": "2026-07-31",
+    "metric_value": -0.65,
+    "claim_id": "n004"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IN|india (national)|sugar|planted_area|Down To Earth": {
+  "country": "IN",
+  "region": "india (national)",
+  "crop": "sugar",
+  "metric_name": "planted_area",
+  "metric_unit": "million hectares",
+  "publisher": "Down To Earth",
+  "readings": [
+   {
+    "event_date": "2026-07-31",
+    "metric_value": 0.086,
+    "claim_id": "n005"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IN|india (national)|mixed_grains|rainfall_pct_normal|Down To Earth": {
+  "country": "IN",
+  "region": "india (national)",
+  "crop": "mixed_grains",
+  "metric_name": "rainfall_pct_normal",
+  "metric_unit": "per cent vs normal",
+  "publisher": "Down To Earth",
+  "readings": [
+   {
+    "event_date": "2026-07-31",
+    "metric_value": -13,
+    "claim_id": "n006"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IN|india (national)|mixed_grains|forecast_rainfall_pct|Down To Earth": {
+  "country": "IN",
+  "region": "india (national)",
+  "crop": "mixed_grains",
+  "metric_name": "forecast_rainfall_pct",
+  "metric_unit": "per cent of LPA",
+  "publisher": "Down To Earth",
+  "readings": [
+   {
+    "event_date": "2026-08",
+    "metric_value": 94,
+    "claim_id": "n007"
+   }
+  ],
+  "label": null,
+  "chartable": false
  }
 }

@@ -66,18 +66,18 @@
  },
  "ICCO": {
   "rhythm": "quarterly",
-  "last_checked": "2026-08-08",
+  "last_checked": "2026-08-09",
   "last_publication": null
  },
  "India Ministry of Agriculture advance estimates": {
   "rhythm": "seasonal",
   "last_checked": "2026-08-09",
-  "last_publication": null
+  "last_publication": "2026-08-04"
  },
  "IMD": {
   "rhythm": "seasonal",
   "last_checked": "2026-08-09",
-  "last_publication": null
+  "last_publication": "2026-07-31"
  },
  "NEPG": {
   "rhythm": "irregular",

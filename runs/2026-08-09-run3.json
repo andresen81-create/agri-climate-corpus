@@ -1,0 +1,40 @@
+{
+ "date": "2026-08-09",
+ "run": "third sweep of 2026-08-09",
+ "window": {
+  "start": "2026-07-26",
+  "end": "2026-08-09",
+  "note": "run_state.window_end was ALREADY 2026-08-09 when this run started and latest_summary already pointed at an existing summaries/2026-08-09.json reporting 39 rows from two runs earlier the same day. The window was therefore zero-length. Rather than sweep nothing, this run re-covered the same 2026-07-26 to 2026-08-09 window and targeted the geographies the two earlier runs left thinnest, principally India."
+ },
+ "counts": {
+  "rows_inserted": 10,
+  "corroborations_added": 0,
+  "domains_needing_badge": 0,
+  "claims_index_keys_before": 194,
+  "claims_index_keys_after": 204
+ },
+ "anomalies": [
+  "ZERO-LENGTH WINDOW: third run on the same date. Not a failure, but run_state cannot express intra-day runs and the summary filename collides; both were merged rather than overwritten.",
+  "SUMMARY FILENAME COLLISION: summaries/2026-08-09.json already existed. Merged forward (row_count 39 -> 49, key_points/notable_numbers/conflicts prepended, what_changed rewritten to cover all three runs). Nothing overwritten.",
+  "RUN LOG COLLISION: runs/2026-08-09.json already existed from the second run. Written as runs/2026-08-09-run3.json rather than truncating it. Deviates from the STEP 9 filename, deliberately.",
+  "CLAIM_KEY COLLISION IN SCHEMA: 4 of the 10 rows are unquantified and all reduce to 'IN|mixed_grains|kharif 2026|na|None|None'. Keying claims_index on that alone keeps only the last and silently loses three. Rows carry the schema-exact claim_key; the INDEX key is suffixed '#<id>' for unquantified rows only. NEEDS A HUMAN DECISION.",
+  "SERIES COLLISION AVOIDED: a draft row expressing the sowing gap as 2.9 per cent would have entered the same IN|india (national)|mixed_grains|planted_area|Down To Earth series as the 89.42 Mha reading, putting a percentage and a hectares figure in one series. Recorded unquantified instead (n002).",
+  "UNRESOLVED CONTRADICTION: n001 (89.42 Mha) vs a032 (78.738 Mha) vs j038 (78.7 Mha) for India end-July kharif area, all citing the same ministry series.",
+  "TWO STALE-SOURCE TRAPS AVOIDED: an AHDB 'winter barley and oilseed rape harvests now complete' page surfaced as current but the only fetchable text is a 2025 repost; an ADMIS cocoa note surfaced as current is dated 2026-06-01. Neither recorded.",
+  "UNFETCHABLE: ahdb.org.uk and fginsight.com both returned empty bodies to web_fetch (client-rendered). No AHDB figure was recorded from search-engine synthesis alone."
+ ],
+ "sources_checked": [
+  "AHDB",
+  "USDA NASS Crop Progress",
+  "CONAB",
+  "IMD",
+  "India Ministry of Agriculture advance estimates",
+  "ICCO / West African cocoa press"
+ ],
+ "source_silence": [
+  "CONAB: no August grain survey exists. CONAB's own 2026 calendar puts the final 2025/26 grain survey at 15 September and the first 2026/27 at 15 October, with coffee surveys on 24 September. Calendar explains the silence.",
+  "WASDE: August WASDE is due 2026-08-12, after this run. Not late.",
+  "ABARES: quarterly, last_publication null in the manifest; the corpus holds ABARES rows dated 2026-06 (c008, c009). Manifest field is stale rather than the source being silent.",
+  "AHDB harvest report 2: Farmers Weekly states the 2026 series is 'the first of four reports'. Report 1 published 2026-07-31. Report 2 not yet out."
+ ]
+}

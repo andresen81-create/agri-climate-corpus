@@ -774,5 +774,45 @@
  "GB|oats|2026 harvest|yield|7|up": {
   "id": "h019",
   "corroboration_count": 1
+ },
+ "IN|mixed_grains|kharif 2026|planted_area|89.42|down": {
+  "id": "n001",
+  "corroboration_count": 1
+ },
+ "IN|mixed_grains|kharif 2026|na|None|None#n002": {
+  "id": "n002",
+  "corroboration_count": 1
+ },
+ "IN|rice|kharif 2026|planted_area|30.14|down": {
+  "id": "n003",
+  "corroboration_count": 1
+ },
+ "IN|maize|kharif 2026|planted_area|-0.65|down": {
+  "id": "n004",
+  "corroboration_count": 1
+ },
+ "IN|sugar|kharif 2026|planted_area|0.086|up": {
+  "id": "n005",
+  "corroboration_count": 1
+ },
+ "IN|mixed_grains|kharif 2026|rainfall_pct_normal|-13|down": {
+  "id": "n006",
+  "corroboration_count": 1
+ },
+ "IN|mixed_grains|kharif 2026|forecast_rainfall_pct|94|down": {
+  "id": "n007",
+  "corroboration_count": 1
+ },
+ "IN|mixed_grains|kharif 2026|na|None|None#n008": {
+  "id": "n008",
+  "corroboration_count": 1
+ },
+ "IN|mixed_grains|kharif 2026|na|None|None#n009": {
+  "id": "n009",
+  "corroboration_count": 1
+ },
+ "IN|mixed_grains|kharif 2026|na|None|None#n010": {
+  "id": "n010",
+  "corroboration_count": 1
  }
 }
