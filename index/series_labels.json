@@ -4,6 +4,7 @@
   "_keys_beginning_with_underscore_are_metadata": "ignore them when looking up a series_key",
   "FR|france|maize|condition_good_excellent|AHDB": "AHDB Arable Market Report — France maize, condition good or excellent",
   "GB|england|mixed_grains|reservoir_fill|Environment Agency": "Environment Agency — England reservoir storage",
+  "GB|united kingdom|winter_wheat|condition_good_excellent|AHDB": "AHDB — GB winter wheat, condition good or excellent",
   "US|great plains|winter_wheat|production|USDA NASS": "USDA NASS — US Great Plains winter wheat production",
   "US|northern plains|spring_wheat|condition_good_excellent|DTN": "DTN — US Northern Plains spring wheat, condition good or excellent"
 }

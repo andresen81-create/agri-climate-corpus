@@ -1451,18 +1451,18 @@
   "publisher": "AHDB",
   "readings": [
    {
-    "event_date": "2026-06-29",
+    "event_date": "2026-05-31",
     "metric_value": 64,
     "claim_id": "c014"
    },
    {
-    "event_date": "2026-06-29",
+    "event_date": "2026-06-22",
     "metric_value": 58,
     "claim_id": "c015"
    }
   ],
-  "label": null,
-  "chartable": false
+  "label": "AHDB — GB winter wheat, condition good or excellent",
+  "chartable": true
  },
  "GB|united kingdom|winter_wheat|yield|AHDB": {
   "country": "GB",
