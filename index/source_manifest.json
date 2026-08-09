@@ -1,52 +1,52 @@
 {
  "AHDB (GB Harvest Progress, Arable Market Report)": {
   "rhythm": "weekly in season",
-  "last_checked": "2026-08-08",
-  "last_publication": null
+  "last_checked": "2026-08-09",
+  "last_publication": "2026-08-03"
  },
  "USDA NASS Crop Progress": {
   "rhythm": "weekly in season",
-  "last_checked": "2026-08-08",
-  "last_publication": null
+  "last_checked": "2026-08-09",
+  "last_publication": "2026-08-03"
  },
  "Environment Agency dry weather reports": {
   "rhythm": "weekly in season",
-  "last_checked": "2026-08-08",
-  "last_publication": null
+  "last_checked": "2026-08-09",
+  "last_publication": "2026-07-31"
  },
  "Buenos Aires Grain Exchange": {
   "rhythm": "weekly in season",
-  "last_checked": "2026-08-08",
-  "last_publication": null
+  "last_checked": "2026-08-09",
+  "last_publication": "2026-08"
  },
  "GEOGLAM Crop Monitor": {
   "rhythm": "monthly",
-  "last_checked": "2026-08-08",
-  "last_publication": null
+  "last_checked": "2026-08-09",
+  "last_publication": "2026-08-06"
  },
  "JRC MARS": {
   "rhythm": "monthly",
-  "last_checked": "2026-08-08",
-  "last_publication": null
+  "last_checked": "2026-08-09",
+  "last_publication": "2026-07-27"
  },
  "WASDE": {
   "rhythm": "monthly",
-  "last_checked": "2026-08-08",
+  "last_checked": "2026-08-09",
   "last_publication": null
  },
  "CONAB": {
   "rhythm": "monthly",
-  "last_checked": "2026-08-08",
+  "last_checked": "2026-08-09",
   "last_publication": null
  },
  "SA Crop Estimates Committee": {
   "rhythm": "monthly",
-  "last_checked": "2026-08-08",
+  "last_checked": "2026-08-09",
   "last_publication": null
  },
  "MPOB": {
   "rhythm": "monthly",
-  "last_checked": "2026-08-08",
+  "last_checked": "2026-08-09",
   "last_publication": null
  },
  "FAO GIEWS": {
@@ -61,32 +61,32 @@
  },
  "ABARES Australian Crop Report": {
   "rhythm": "quarterly",
-  "last_checked": "2026-08-08",
+  "last_checked": "2026-08-09",
   "last_publication": null
  },
  "ICCO": {
   "rhythm": "quarterly",
-  "last_checked": "2026-08-08",
+  "last_checked": "2026-08-09",
   "last_publication": null
  },
  "India Ministry of Agriculture advance estimates": {
   "rhythm": "seasonal",
-  "last_checked": "2026-08-08",
-  "last_publication": null
+  "last_checked": "2026-08-09",
+  "last_publication": "2026-08-04"
  },
  "IMD": {
   "rhythm": "seasonal",
-  "last_checked": "2026-08-08",
-  "last_publication": null
+  "last_checked": "2026-08-09",
+  "last_publication": "2026-07-31"
  },
  "NEPG": {
   "rhythm": "irregular",
-  "last_checked": "2026-08-08",
-  "last_publication": null
+  "last_checked": "2026-08-09",
+  "last_publication": "2026-07-05"
  },
  "GB Potatoes": {
   "rhythm": "irregular",
-  "last_checked": "2026-08-08",
+  "last_checked": "2026-08-09",
   "last_publication": null
  },
  "ECIU": {
@@ -96,8 +96,8 @@
  },
  "COCERAL": {
   "rhythm": "irregular",
-  "last_checked": "2026-08-08",
-  "last_publication": null
+  "last_checked": "2026-08-09",
+  "last_publication": "2026-07-10"
  },
  "Munich Re": {
   "rhythm": "irregular",
