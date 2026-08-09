@@ -1,0 +1,26 @@
+name: Validate corpus
+
+# Runs on every push and pull request that touches the corpus, the indexes,
+# the summaries or the validator itself. The weekly task commits directly to
+# main, so the push trigger is the one that matters.
+on:
+  push:
+    paths:
+      - 'corpus/**'
+      - 'index/**'
+      - 'summaries/**'
+      - 'validate.py'
+      - '.github/workflows/validate.yml'
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run validate.py
+        run: python3 validate.py
