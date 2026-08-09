@@ -193,7 +193,7 @@
  },
  {
   "id": "c007",
-  "claim_key": "US|maize|2026|rainfall_mm|6|up",
+  "claim_key": "US|maize|2026|rainfall_in|6|up",
   "hazard_type": "storm",
   "impact_class": "yield",
   "country": "US",
@@ -202,9 +202,9 @@
   "season": "2026",
   "summary": "Severe storms in the week to 11 June brought wind lodging, greensnap, hail-shredded leaves and over six inches of rain across Iowa. Extension agronomists noted lodging at V10-V12 can cut corn yields 2-6%, and saturated soils for 2-3 days can cost soybeans up to 50%.",
   "is_quantified": true,
-  "metric_name": "rainfall_mm",
+  "metric_name": "rainfall_in",
   "metric_value": 6,
-  "metric_unit": "inches (6+)",
+  "metric_unit": "inches",
   "direction": "up",
   "baseline": "normal weekly rainfall",
   "title": "Storm Damage - June 2026",
@@ -220,7 +220,7 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
-  "series_key": "US|iowa — washington and monroe counties|maize|rainfall_mm|Iowa State University Extension"
+  "series_key": "US|iowa — washington and monroe counties|maize|rainfall_in|Iowa State University Extension"
  },
  {
   "id": "c008",

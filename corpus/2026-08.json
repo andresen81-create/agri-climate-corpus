@@ -222,7 +222,8 @@
   "month": "2026-08",
   "source_badge": "Press",
   "series_key": "GB|england|field_veg|spot_price|The Guardian",
-  "claim_key": "GB|field_veg|2026|spot_price|60|up"
+  "claim_key": "GB|field_veg|2026|spot_price|60|up",
+  "origin_publisher": "The Guardian"
  },
  {
   "id": "a007",
@@ -760,7 +761,8 @@
   "month": "2026-08",
   "source_badge": "Press",
   "series_key": "FR|france|maize|production|RFI",
-  "claim_key": "FR|maize|2026 harvest|production|9|down"
+  "claim_key": "FR|maize|2026 harvest|production|9|down",
+  "origin_publisher": "RFI"
  },
  {
   "id": "a023",
@@ -1544,7 +1546,7 @@
   "is_quantified": true,
   "metric_name": "rainfall_mm",
   "metric_value": 0,
-  "metric_unit": "mm in the week",
+  "metric_unit": "mm",
   "direction": "down",
   "baseline": "week ended 2 August 2026",
   "title": "Arabica Coffee Prices Slump as Dryness in Brazil Aids the Coffee Harvest",
@@ -2888,7 +2890,7 @@
   "impact_class": "yield",
   "summary": "Mid-July flooding in the Texas Hill Country and South Central Texas put 20 to 30 inches of rain on some areas. Uvalde County Farm Bureau president Jess Yeaman recorded more than 15 inches at his ranch near Concan. Medina County reported 8 to 10 inches over three days, on ground that had been the most extreme drought spot on the map.",
   "is_quantified": true,
-  "metric_name": "rainfall_mm",
+  "metric_name": "rainfall_in",
   "metric_value": 15,
   "metric_unit": "inches",
   "direction": "up",
@@ -2904,8 +2906,8 @@
   "companies": [],
   "review_flag": null,
   "source_badge": "Trade",
-  "claim_key": "US|mixed_grains|2026|rainfall_mm|15|up",
-  "series_key": "US|uvalde county, texas|mixed_grains|rainfall_mm|Texas Farm Bureau",
+  "claim_key": "US|mixed_grains|2026|rainfall_in|15|up",
+  "series_key": "US|uvalde county, texas|mixed_grains|rainfall_in|Texas Farm Bureau",
   "month": "2026-08",
   "corroborations": [],
   "corroboration_count": 1
