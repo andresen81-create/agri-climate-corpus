@@ -1,0 +1,73 @@
+{
+ "date": "2026-08-10",
+ "row_count": 6,
+ "headline": "A one-day window (2026-08-09 to 2026-08-10) produced almost nothing new in the farming press, but it exposed something the five sweeps of 2026-08-09 missed: the Environment Agency's 31 July to 6 August drought report, published 2026-08-07 and never captured, which puts England reservoir storage at 69%, abstraction restrictions at 1,534, and confirms July as England's driest on record since 1836 at 10% of average - a figure the agency itself had put at 7% a week earlier.",
+ "key_points": [
+  "THE WINDOW WAS ONE DAY LONG AND THAT EXPLAINS THE ROW COUNT. run_state.window_end was 2026-08-09, so window_start is 2026-08-09 and window_end is today, 2026-08-10 - a Sunday and a Monday morning. Six rows is not evidence of a failed sweep; it is what a one-day window over a weekend produces. For comparison, 2026-08-09 covered 14 days across five runs and produced 88 rows.",
+  "ALL SIX ROWS COME FROM ONE SOURCE, AND TAKING IT WAS A JUDGEMENT CALL THAT DEPARTS FROM THE LITERAL WINDOW RULE. The Environment Agency's 31 July to 6 August report was published 2026-08-07, before window_start. STEP 1B permits taking a source's current edition out of window only where last_checked is null or staler than the source's rhythm; the manifest shows last_checked 2026-08-09, so that condition is not literally met. It was taken anyway because the manifest's own last_publication for this source reads 2026-07-31, meaning the edition of 7 August had never been seen by any run, and every future window will also postdate it - the exact failure the exception exists to prevent. Flagged here rather than done quietly.",
+  "THE AGENCY REVISED ITS OWN JULY RAINFALL FIGURE AND BOTH READINGS ARE NOW IN THE CORPUS. Row j024, published 2026-07-31, recorded England July rainfall at 7% of average as an in-month projection. The completed-month figure is 10%, still the driest July for England on record since 1836. Same agency, same metric, same event_date '2026-07'. Neither reading was overwritten - a revision is the signal, not a correction to be absorbed.",
+  "AUGUST HAS OPENED DRIER THAN JULY FINISHED. England received 4% of the long-term August average in the first week, with no region above 10% and east and south-east England under 1mm. That is the seventh consecutive week under 10mm nationally.",
+  "THE DROUGHT MOVED FROM VOLUNTARY TO STATUTORY THIS WEEK. The Environment Agency is serving Section 57 restrictions on 302 abstractors in East Anglia, halving what most of them may take, with the Wye catchment in the West Midlands flagged as possibly next later in August. Hands-off-flow restrictions rose to 1,534 from 1,395 a week earlier.",
+  "POSITIVE, AND THIN: berry producers recorded strong yields and salad production finished two weeks early rather than failing. That is the whole of the upside in the agency's agriculture section, which otherwise records reduced crop yields, poor grass growth and pressure on winter livestock forage stocks."
+ ],
+ "notable_numbers": [
+  {
+   "label": "England reservoir storage",
+   "value": "69%",
+   "note": "week ending 4 August, down 3 points in a week and 11.6% below the long-term average; 5 reservoirs exceptionally low",
+   "ids": [
+    "r001"
+   ]
+  },
+  {
+   "label": "England July rainfall (final)",
+   "value": "10% of average",
+   "note": "driest July for England on record since 1836; revises the agency's own 7% projection in j024",
+   "ids": [
+    "r002",
+    "j024"
+   ]
+  },
+  {
+   "label": "England August rainfall, month to date",
+   "value": "4% of average",
+   "note": "no region above 10%; seventh consecutive week under 10mm nationally",
+   "ids": [
+    "r004"
+   ]
+  },
+  {
+   "label": "Abstraction restrictions in force",
+   "value": "1,534",
+   "note": "up from 1,395 a week earlier (h002)",
+   "ids": [
+    "r003",
+    "h002"
+   ]
+  },
+  {
+   "label": "East Anglia abstractors served S57 notices",
+   "value": "302",
+   "note": "50% cut for most of them; first statutory curtailment of the season",
+   "ids": [
+    "r005"
+   ]
+  }
+ ],
+ "what_changed": "Last week's summary, 2026-08-09, was itself a merge of five sweeps over a 14-day window and ran to 88 rows. This run covers one day and adds six. Nothing in the farming press, the trade press or the commodity desks published on 9 or 10 August cleared the capture bar: the one in-window item found with a figure, a Palm Oil Magazine piece of 9 August on Malaysian CPO futures, attributes the move to inventories rather than weather and was excluded. What did change is a gap in last week's coverage rather than a new event. Five runs on 2026-08-09 recorded the Environment Agency as checked, but all five were working from the 24-30 July edition; the 31 July to 6 August edition had been published on 7 August and none of them saw it. Reservoir storage has fallen from 72% to 69% since, restrictions from 1,395 to 1,534, and the agency has begun statutory abstraction cuts in East Anglia. The other change is a data-quality one: the agency's July rainfall figure firmed from 7% to 10% of average, so that series now holds two readings for the same month and a third for August, and it still has no label in series_labels.json.",
+ "conflicts": [
+  {
+   "ids": [
+    "j024",
+    "r002"
+   ],
+   "note": "REVISION, NOT A CONTRADICTION, and deliberately not resolved. Both rows are Environment Agency, metric rainfall_pct_normal, event_date '2026-07'. j024 (published 2026-07-31) says 7% of the long-term average, described as being on track for the driest July since 1836; r002 (published 2026-08-07) says 10%, the completed-month figure, still the record. r002 carries a review_flag recording the relationship. Both readings sit in the series GB|england|mixed_grains|rainfall_pct_normal|Environment Agency, which now has three readings and no label, so it is chartable:false and a human should decide whether a chart of this series should show revisions or only final figures."
+  },
+  {
+   "ids": [
+    "r005"
+   ],
+   "note": "NOT A CONFLICT, a schema gap worth recording. r005 carries three real numbers - 302 abstractors, a 50% cut, one named region - but none maps to a value in the controlled metric_name list, so it is recorded unquantified with the figures in the summary and the verbatim quote. A count-of-affected-holdings metric would capture this and several rows like it."
+  }
+ ]
+}

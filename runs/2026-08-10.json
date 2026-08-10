@@ -1,0 +1,66 @@
+{
+ "date": "2026-08-10",
+ "run": "first sweep of 2026-08-10",
+ "window": {
+  "start": "2026-08-09",
+  "end": "2026-08-10",
+  "days": 1,
+  "note": "Normal case. run_state.window_end was 2026-08-09 and today is 2026-08-10, so window_start is the previous window_end. Not extended to 14 days. A one-day window is legitimate and is the reason for the low row count."
+ },
+ "counts": {
+  "inserted": 6,
+  "merged_as_corroboration": 0,
+  "rows_in_corpus_after": 250,
+  "claims_index_keys_after": 249,
+  "series_after": 197
+ },
+ "sources_checked": [
+  "AHDB (GB Harvest Progress, Arable Market Report)",
+  "USDA NASS Crop Progress",
+  "Environment Agency dry weather reports",
+  "Buenos Aires Grain Exchange",
+  "WASDE",
+  "MPOB",
+  "USDA FAS World Agricultural Production",
+  "ABARES Australian Crop Report",
+  "India Ministry of Agriculture advance estimates",
+  "IMD",
+  "ECIU",
+  "COCERAL"
+ ],
+ "sources_not_checked": [
+  "GEOGLAM Crop Monitor",
+  "JRC MARS",
+  "CONAB",
+  "SA Crop Estimates Committee",
+  "FAO GIEWS",
+  "ICCO",
+  "NEPG",
+  "GB Potatoes",
+  "Munich Re"
+ ],
+ "not_checked_rationale": "All nine were checked by one of the five runs on 2026-08-09, one day ago, and all are monthly, quarterly or irregular sources with no edition due inside a one-day window. Re-checking them would have re-covered ground rather than added.",
+ "out_of_window_source_taken": {
+  "source": "Environment Agency dry weather reports",
+  "publication_date": "2026-08-07",
+  "rows": 6,
+  "rationale": "Departs from the literal STEP 1B exception, which requires last_checked to be null or staler than the source's rhythm; last_checked was 2026-08-09. Taken because manifest last_publication read 2026-07-31, so the 7 August edition had never been seen by any run, and every future window would also postdate it. Current edition only; no archive walk-back."
+ },
+ "passes_run": {
+  "pass1_by_source": "AHDB (no new harvest report in window; report 2 still to come), USDA NASS Crop Progress (next release 2026-08-10 16:00 ET, after this run), Environment Agency (edition of 2026-08-07 taken, see above), Buenos Aires Grain Exchange (nothing in window), MPOB (July supply and demand report scheduled for release today 2026-08-10; no figures published by any indexed outlet at time of sweep), WASDE (due 2026-08-12), USDA FAS WAP (due 2026-08-12), ABARES (last published 2026-06-02), IMD and India Ministry of Agriculture (nothing in window).",
+  "pass2_by_crop_region": "UK, EU, US, Brazil, Australia, India, Southern Africa, West Africa, SE Asia swept via Farmers Weekly, FarmingUK, Agriland, Grain Central, DTN, AgWeb, World-Grain, PotatoPro, Potato News Today, FreshPlaza. Every candidate found dated 2026-08-07 or earlier. Reuters and Bloomberg are not fetchable by this agent (see anomalies).",
+  "pass3_by_hazard": "UK drought and heat, European heatwave, US flash drought and Western Plains, Indian monsoon, Brazilian coffee frost and dryness, West African cocoa weather. Nothing published 9 or 10 August cleared the capture bar.",
+  "pass4_by_company": "No earnings or filings in window. Commodity price moves checked: the one in-window quantified item, Palm Oil Magazine 2026-08-09 on Bursa Malaysia CPO at RM4,678/t, attributes the move to expected inventories and not to weather, so it fails the capture bar and was not recorded."
+ },
+ "new_unmapped_domains": [],
+ "anomalies": [
+  "LOW ROW COUNT IS EXPLAINED BY A ONE-DAY WINDOW, not by a failed sweep. Stated explicitly because six rows against last week's 88 would otherwise read as a broken run.",
+  "COVERAGE GAP IN THE PREVIOUS DAY'S RUNS: all five runs of 2026-08-09 recorded Environment Agency as checked but were working from the 24-30 July edition. The 31 July to 6 August edition had been on GOV.UK since 7 August. The manifest's last_publication field for that source still read 2026-07-31, which is what surfaced the gap; it has been corrected to 2026-08-07.",
+  "REUTERS AND BLOOMBERG ARE NOT REACHABLE by this agent's fetch and search tools (reuters.com returns a user-agent block). Both are named in STEP 3 pass 2. Coverage of those desks is therefore indirect, via syndication on brecorder.com, palmoilmagazine.com and similar. This is a standing limitation, not a one-off.",
+  "TWO MULTI-READING SERIES STILL HAVE NO LABEL and are therefore chartable:false. GB|england|mixed_grains|rainfall_pct_normal|Environment Agency (3 readings: 2026-07 at 7, 2026-07 at 10, 2026-08 at 4) - suggested label 'Environment Agency - England rainfall as % of long-term average'. GB|england|mixed_grains|damaged_area|Environment Agency (2 readings: 2026-07-30 at 1,395, 2026-08-06 at 1,534) - suggested label 'Environment Agency - England abstraction restrictions in force'.",
+  "NO ROW HAS AN EVENT_DATE MORE THAN A YEAR BEFORE ITS PUBLISHED_DATE.",
+  "NO KEY COLLISIONS. Both unquantified rows took fresh fortnight keys; no suffixing was needed.",
+  "EVERY VERBATIM QUOTE FULLY SUPPORTS ITS FIGURE. All six are single sentences taken directly from the GOV.UK report."
+ ],
+ "source_silence_explained_by_calendar": "MPOB July report due today 2026-08-10 (figures not yet published at sweep time). August WASDE due 2026-08-12. USDA FAS World Agricultural Production due 2026-08-12. USDA NASS Crop Progress due 2026-08-10 16:00 ET. CONAB next grain survey 2026-09-15. ABARES quarterly, last published 2026-06-02, next due September. FAO GIEWS triannual, last July 2026."
+}

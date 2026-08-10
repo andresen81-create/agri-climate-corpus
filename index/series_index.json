@@ -973,6 +973,16 @@
     "event_date": "2026-07",
     "metric_value": 7,
     "claim_id": "j024"
+   },
+   {
+    "event_date": "2026-07",
+    "metric_value": 10,
+    "claim_id": "r002"
+   },
+   {
+    "event_date": "2026-08",
+    "metric_value": 4,
+    "claim_id": "r004"
    }
   ],
   "label": null,
@@ -995,6 +1005,11 @@
     "event_date": "2026-07-30",
     "metric_value": 72,
     "claim_id": "j025"
+   },
+   {
+    "event_date": "2026-08-04",
+    "metric_value": 69,
+    "claim_id": "r001"
    }
   ],
   "label": "Environment Agency — England reservoir storage",
@@ -2438,6 +2453,11 @@
     "event_date": "2026-07-30",
     "metric_value": 1395,
     "claim_id": "h002"
+   },
+   {
+    "event_date": "2026-08-06",
+    "metric_value": 1534,
+    "claim_id": "r003"
    }
   ],
   "label": null,
