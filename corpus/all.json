@@ -10374,8 +10374,8 @@
   "baseline": "EU GDP without the 2026 heatwaves and drought; equivalent to 1% of EU GDP",
   "title": "A punishing European drought shrivels crops from Dutch potatoes to Bosnian corn",
   "url": "https://www.wsls.com/news/world/2026/08/13/a-punishing-european-drought-shrivels-crops-from-dutch-potatoes-to-bosnian-corn/",
-  "publisher": "Triodos",
-  "origin_publisher": "Associated Press",
+  "publisher": "Associated Press",
+  "origin_publisher": "Triodos",
   "published_date": "2026-08-13",
   "source_badge": "Press",
   "verbatim_quote": "Triodos, a Dutch bank that has a focus on sustainability, published an analysis this week that estimated the heatwaves and drought could reduce gross domestic product across the European Union by 1% for 2026 or around 180 billion euros ($208 billion).",
@@ -10388,7 +10388,7 @@
   "review_flag": "Schema mapping note, not a doubt about the figure. This is a GDP LOSS, and metric_name has no GDP value, so it is filed under ‘cost’ with direction ‘up’ (the cost of the drought rises) while the underlying GDP moves down. The unit string carries the meaning. A human may want a gdp_impact metric.",
   "flag_status": "caveated",
   "flag_note": "Schema mapping note, not a doubt about the figure. This is a GDP LOSS, and metric_name has no GDP value, so it is filed under ‘cost’ with direction ‘up’ (the cost of the drought rises) while the underlying GDP moves down. The unit string carries the meaning. A human may want a gdp_impact metric.",
-  "series_key": "EU|european union|mixed_grains|cost|Triodos"
+  "series_key": "EU|european union|mixed_grains|cost|Associated Press"
  },
  {
   "id": "t008",
