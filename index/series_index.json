@@ -3881,13 +3881,13 @@
   "label": null,
   "chartable": false
  },
- "EU|european union|mixed_grains|cost|Triodos": {
+ "EU|european union|mixed_grains|cost|Associated Press": {
   "country": "EU",
   "region": "European Union",
   "crop": "mixed_grains",
   "metric_name": "cost",
   "metric_unit": "billion EUR (estimated 2026 EU GDP loss)",
-  "publisher": "Triodos",
+  "publisher": "Associated Press",
   "readings": [
    {
     "event_date": "2026-08-13",
