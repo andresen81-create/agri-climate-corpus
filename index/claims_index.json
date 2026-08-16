@@ -1174,5 +1174,69 @@
  "US|winter_wheat|drought|yield|2026-07-A": {
   "id": "j017",
   "corroboration_count": 1
+ },
+ "AU|mixed_grains|2026/27|production|21.01|down": {
+  "id": "t001",
+  "corroboration_count": 1
+ },
+ "AU|wheat|2026/27|production|9.03|down": {
+  "id": "t002",
+  "corroboration_count": 1
+ },
+ "AU|mixed_grains|frost|yield|2026-08-B": {
+  "id": "t003",
+  "corroboration_count": 1
+ },
+ "AU|mixed_grains|drought|yield|2026-08-B": {
+  "id": "t004",
+  "corroboration_count": 1
+ },
+ "AU|mixed_grains|favourable|yield|2026-08-B": {
+  "id": "t005",
+  "corroboration_count": 1
+ },
+ "AU|oats|favourable|yield|2026-08-B": {
+  "id": "t006",
+  "corroboration_count": 1
+ },
+ "EU|mixed_grains|2026|cost|180|up": {
+  "id": "t007",
+  "corroboration_count": 1
+ },
+ "NL|potato|drought|yield|2026-08-B": {
+  "id": "t008",
+  "corroboration_count": 1
+ },
+ "BA|maize|drought|farmer_livelihood|2026-08-B": {
+  "id": "t009",
+  "corroboration_count": 1
+ },
+ "RO|mixed_grains|drought|economy_macro|2026-08-B": {
+  "id": "t010",
+  "corroboration_count": 1
+ },
+ "HU|dairy|drought|farmer_livelihood|2026-08-B": {
+  "id": "t011",
+  "corroboration_count": 1
+ },
+ "GB|mixed_grains|2026|reservoir_fill|20|down": {
+  "id": "t012",
+  "corroboration_count": 1
+ },
+ "US|potato|2026|planted_area|15000|down": {
+  "id": "t013",
+  "corroboration_count": 1
+ },
+ "US|potato|drought|farmer_livelihood|2026-08-B": {
+  "id": "t014",
+  "corroboration_count": 1
+ },
+ "NL|field_veg|2026|export_price|45|up": {
+  "id": "t015",
+  "corroboration_count": 1
+ },
+ "NL|potato|2026|spot_price|35|up": {
+  "id": "t016",
+  "corroboration_count": 1
  }
 }

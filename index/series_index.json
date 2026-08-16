@@ -130,6 +130,11 @@
     "event_date": "2026-07",
     "metric_value": 22.7,
     "claim_id": "j048"
+   },
+   {
+    "event_date": "2026-08-14",
+    "metric_value": 21.01,
+    "claim_id": "t001"
    }
   ],
   "label": null,
@@ -3854,6 +3859,108 @@
     "event_date": "2026-08-13",
     "metric_value": 536900,
     "claim_id": "s043"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "AU|western australia|wheat|production|GIWA": {
+  "country": "AU",
+  "region": "Western Australia",
+  "crop": "wheat",
+  "metric_name": "production",
+  "metric_unit": "million tonnes",
+  "publisher": "GIWA",
+  "readings": [
+   {
+    "event_date": "2026-08-14",
+    "metric_value": 9.03,
+    "claim_id": "t002"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "EU|european union|mixed_grains|cost|Triodos": {
+  "country": "EU",
+  "region": "European Union",
+  "crop": "mixed_grains",
+  "metric_name": "cost",
+  "metric_unit": "billion EUR (estimated 2026 EU GDP loss)",
+  "publisher": "Triodos",
+  "readings": [
+   {
+    "event_date": "2026-08-13",
+    "metric_value": 180,
+    "claim_id": "t007"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|elveden estate, suffolk-norfolk border, england|mixed_grains|reservoir_fill|Associated Press": {
+  "country": "GB",
+  "region": "Elveden Estate, Suffolk-Norfolk border, England",
+  "crop": "mixed_grains",
+  "metric_name": "reservoir_fill",
+  "metric_unit": "%",
+  "publisher": "Associated Press",
+  "readings": [
+   {
+    "event_date": "2026-08-13",
+    "metric_value": 20,
+    "claim_id": "t012"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|idaho|potato|planted_area|FreshPlaza": {
+  "country": "US",
+  "region": "Idaho",
+  "crop": "potato",
+  "metric_name": "planted_area",
+  "metric_unit": "acres (year-on-year reduction, not a level)",
+  "publisher": "FreshPlaza",
+  "readings": [
+   {
+    "event_date": "2026-08-14",
+    "metric_value": 15000,
+    "claim_id": "t013"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "NL|netherlands|field_veg|export_price|FreshPlaza": {
+  "country": "NL",
+  "region": "Netherlands",
+  "crop": "field_veg",
+  "metric_name": "export_price",
+  "metric_unit": "EUR cents (weight basis not stated in source)",
+  "publisher": "FreshPlaza",
+  "readings": [
+   {
+    "event_date": "2026-08-13",
+    "metric_value": 45,
+    "claim_id": "t015"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "NL|netherlands|potato|spot_price|FreshPlaza": {
+  "country": "NL",
+  "region": "Netherlands",
+  "crop": "potato",
+  "metric_name": "spot_price",
+  "metric_unit": "EUR cents (weight basis not stated in source)",
+  "publisher": "FreshPlaza",
+  "readings": [
+   {
+    "event_date": "2026-08-13",
+    "metric_value": 35,
+    "claim_id": "t016"
    }
   ],
   "label": null,

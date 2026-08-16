@@ -1,0 +1,298 @@
+{
+ "date": "2026-08-16",
+ "run": "second sweep of 2026-08-16",
+ "window": {
+  "start": "2026-08-10",
+  "end": "2026-08-16",
+  "days": 6,
+  "note": "STEP 1B case (b): run_state.window_end already EQUALLED today, so an earlier run had gone today. Permitted re-run. window_start and window_end both left exactly as read (2026-08-10 to 2026-08-16); the window was NOT moved and NOT padded to 14 days."
+ },
+ "counts": {
+  "inserted": 16,
+  "merged_as_corroboration": 0,
+  "key_collisions_suffixed": 0,
+  "rows_in_corpus_after": 311,
+  "claims_index_keys_after": 310,
+  "series_after": 226,
+  "series_new": 6,
+  "series_extended": 1,
+  "chartable_after": 5
+ },
+ "route_note": "raw.githubusercontent.com was again unreachable: every raw URL was refused by the fetch tool with 'URL not in provenance set' before the request left the sandbox — a tool-side allowlist, not an HTTP status from GitHub, so there is no status code or x-deny-reason to report. Identical to the first run of today and to 2026-08-10. Fell back to the git route as STEP 1 instructs; cloned with the token and read all eight state files from the working copy. Both load-bearing files (claims_index.json, badge_map.json) read cleanly, so the run proceeded.",
+ "earlier_runs_read": {
+  "runs/2026-08-16.json": "read in full. 45 rows, 21 sources checked, sources_not_checked EMPTY. Its own log named the regions it searched and found nothing in: Australia, Argentina/Brazil, India, Southern Africa, West Africa cocoa, SE Asia. That list was this run's target.",
+  "runs/2026-08-16-run2..run6": "checked by directory listing of runs/ in the git working copy; no other file for 2026-08-16 exists. This run therefore took the lowest free slot, -run2, and is the second sweep of the day."
+ },
+ "targeting": "Because the first run's sources_not_checked was empty, there was no unchecked source to pick up. The re-run instead re-covered the same six days with a different query shape — by region rather than by agency, and by named-farm story rather than by report — which is precisely the blind spot STEP 3 warns a single query set has. Result: 16 rows, NONE of which merged. Every claim_key was free, so nothing found here duplicates the first sweep.",
+ "sources_checked": [
+  "GIWA (Grain Industry Association of WA), via Grain Central",
+  "Associated Press European drought wire",
+  "FreshPlaza (Idaho potatoes; Dutch onion and potato market)",
+  "Buenos Aires Grain Exchange / Rosario Grains Exchange",
+  "CONAB / Brazilian coffee and potato",
+  "India Ministry of Agriculture, IMD, USDA FAS India GAIN",
+  "ICCO / West African cocoa (Barchart, Ecofin Agency)",
+  "ABARES Australian Crop Report",
+  "Potato News Today, Farmers Weekly, FarmingUK, Grain Central, DTN, World-Grain, PotatoPro",
+  "SA Crop Estimates Committee",
+  "GB Potatoes",
+  "NEPG",
+  "ECIU",
+  "COCERAL",
+  "Munich Re",
+  "GEOGLAM Crop Monitor",
+  "FAO GIEWS"
+ ],
+ "sources_not_checked": [
+  "AHDB, USDA NASS, Environment Agency, JRC MARS, WASDE, USDA FAS WAP, MPOB — deliberately not re-swept. The first run of today read every one of them inside this window and its rows are already in the corpus; re-reading them would have produced merges, not rows, and the targeting rule for a same-day re-run says to go after what the earlier log recorded as unfound."
+ ],
+ "sources_checked_with_nothing_in_window": {
+  "Buenos Aires Grain Exchange / Rosario": "Searched twice. Everything reachable was from the 2025/26 season or from July; no BAGE or Rosario weekly published 10-16 August was reachable. Argentina remains a standing coverage hole across both runs today.",
+  "West Africa cocoa (ICCO, Barchart, Ecofin Agency)": "Real weather-attributed material exists — improved Ivorian and Ghanaian moisture pushing cocoa prices down, against a 2026/27 Ivory Coast estimate of about 1.8 Mt, -18% — but nothing reachable carried a publication date verifiably inside 10-16 August. The Barchart page that looked in-window could not be read: the fetch returned 85,433 characters and exceeded the tool's limit, and the saved overflow file was not accessible from the sandbox. Recorded here rather than guessed at.",
+  "Brazil": "Coffee and potato material found was June and July. Nothing in window.",
+  "India": "The USDA FAS GAIN report 'Monsoon Recovery Fails to Boost Sluggish Crop Planting' is dated August 2026 but the fetch of its FAS landing page returned an empty body and no publication date could be confirmed, so no row was taken. India has now produced zero rows across both runs today.",
+  "Southern Africa": "Out of season. Nothing in window.",
+  "ABARES": "Still nothing since 2026-06-02, now 2.5 months. Quarterly, next due September, so the calendar explains it — but note that the Australian gap this week was filled by GIWA, a source the manifest did not previously carry."
+ },
+ "out_of_window_source_taken": null,
+ "never_checked_exception_used": false,
+ "passes_run": {
+  "pass1_by_source": "GIWA August crop report via Grain Central, published 2026-08-14 — 6 rows. This source was not in source_manifest.json before today and has been added with rhythm 'monthly'.",
+  "pass2_by_crop_region": "Australia (wheat, barley, canola, oats — 6 rows), US potatoes (Idaho — 2 rows), Netherlands potatoes and onions (2 rows), Bosnia maize, Romania grain logistics, Hungary dairy, England irrigation (1 row each from the AP wire). Argentina, Brazil, India, Southern Africa and SE Asia searched and empty, detailed above.",
+  "pass3_by_hazard": "European drought at farm scale via the AP wire of 13 August — the whole macro and human-scale layer the first sweep's agency-and-trade sources structurally do not produce. Frost risk in Western Australia. Favourable outcomes deliberately sought and found: WA's eastern and north-eastern low-rainfall wheatbelt with above-average yields effectively locked in, WA oats in the north-east, and the drought-driven lift to Dutch onion export prices.",
+  "pass4_by_company": "McDonald's named as the customer for the Zeeland potato crop and Mulder Onions as the Dutch exporter quoting prices; Plzensky Prazdroj's expected hop losses were found and NOT recorded, see anomalies. No earnings in window — this pass is quarterly by nature."
+ },
+ "merged_as_corroboration": [],
+ "shards_affected": [
+  "2026-08"
+ ],
+ "shards_note": "All 16 rows take month from published_date, which puts every one of them in 2026-08. No merge occurred, so no earlier shard was touched. Shards were derived by filtering all.json on the month field after insertion, then compared field-for-field against all.json for every month present (2026-04 through 2026-08) — all five matched exactly.",
+ "new_unmapped_domains": [
+  {
+   "domain": "wsls.com",
+   "assigned": "Press",
+   "example": "A punishing European drought shrivels crops from Dutch potatoes to Bosnian corn",
+   "row": "t007"
+  }
+ ],
+ "anomalies": [
+  "THE FIRST SWEEP OF TODAY MISSED AUSTRALIA, AND IT WAS THERE. runs/2026-08-16.json records 'Australia (nothing in window)' and says Australian coverage was searched via Grain Central and GIWA. The GIWA August crop report was published on Grain Central on 2026-08-14, inside the window, and yielded six rows including the state harvest cut from 22.66 Mt to 21.01 Mt. Not a criticism of that run, which was thorough elsewhere — it is the concrete case for what a same-day re-run is for, and it is worth a human noting that a source can be named as searched and still be missed.",
+  "GIWA WAS NOT IN source_manifest.json AT ALL. The manifest carries ABARES for Australia, which is quarterly and silent since June. GIWA publishes monthly through the season and is the source that actually moved this week. Added to the manifest with rhythm 'monthly', last_publication 2026-08-14. A human should confirm that is the right rhythm.",
+  "SECOND SCHEMA GAP OF THE DAY: NO CROP VALUE FOR HOPS OR SUNFLOWER. Two real, in-window, weather-attributed facts were found and deliberately NOT recorded because the controlled crop vocabulary has nowhere correct to put them. Plzensky Prazdroj, the largest Czech brewer, expects losses this year from a stunted hop yield, with its sustainability manager saying three bad years in a row would be an existential problem for hop growers. And Romanian sunflowers, being heat- and drought-tolerant, yielded plentifully — a favourable row. Filing either under mixed_grains or field_veg would have been wrong. Reported rather than mis-typed. This follows the condition_very_poor_poor gap a human closed earlier today.",
+  "A THIRD SCHEMA GAP: NO METRIC FOR A MACRO-ECONOMIC LOSS. The Triodos estimate of a 1% EU GDP hit, about 180 billion euros, is the largest single number in the corpus this week and metric_name has no value for it. Filed under 'cost' with direction 'up' and a caveated flag explaining the mapping (t007). A gdp_impact metric would fix it.",
+  "A LEVEL-VERSUS-DELTA PROBLEM IN planted_area. t013 records Idaho potato planted_area as 15,000, but that is 15,000 acres FEWER than last year, not an area. It is the only form the source gives. Flagged caveated with the unit string carrying the warning, and it sits in its own single-reading FreshPlaza series so it cannot silently join a level series — but the schema does not distinguish the two and a human should decide whether it should.",
+  "THREE FIGURES DELIBERATELY LEFT UNQUANTIFIED, following the s036 precedent: 'less than 150mm year to date' (WA rainfall, a bound), 'down by about one-third' (Zeeland potato harvest, a fraction that would have to be converted), and '1.5 to 2 tons per hectare' (Bosnian maize, a range whose midpoint would be invented). All three keep their numbers in the quote and the summary. t004, t008, t009.",
+  "TWO PRICE ROWS WHOSE WEIGHT BASIS THE SOURCE DOES NOT STATE. t015 (Dutch red onions, 45 cents) and t016 (Dutch potatoes, 35 cents) are both quoted as bare cents. Per kilo is the trade convention but the article does not say so, so the unit string carries the caveat rather than assuming. t016's attribution is 'implied' rather than 'weather_explicit' because that particular sentence does not itself name the weather, though the article's headline and framing do.",
+  "ZERO MERGES ON A RE-RUN. All 16 claim_keys were free. On a same-day re-run STEP 1B says to expect most finds to merge as corroboration rather than insert. The opposite happened, which is itself the finding: the two sweeps of today did not overlap at all, because they searched differently rather than searching again.",
+  "ARGENTINA AND INDIA PRODUCED ZERO ROWS ACROSS BOTH RUNS TODAY. Argentina is in the manifest as a weekly-in-season source (Buenos Aires Grain Exchange) and nothing published in this window was reachable from either run. India's seasonal sources last published 31 July and 4 August, just before window_start. Neither is obviously a failed search, but two named STEP 3 regions being empty twice in one day is worth a human eye.",
+  "REUTERS AND BLOOMBERG REMAIN UNREACHABLE, as reported by the first run of today and on 2026-08-10. Standing limitation.",
+  "NO ROW HAS AN EVENT_DATE MORE THAN A YEAR BEFORE ITS PUBLISHED_DATE. The largest gap among these 16 is one day.",
+  "NO KEY COLLISIONS AND NO SUFFIXING. The nine unquantified rows took nine distinct fortnight keys, separated by country and by hazard_type: the two Western Australian unquantified rows differ by hazard (frost vs drought) and the two favourable ones by crop (mixed_grains vs oats), so no two collapsed onto one key.",
+  "THIRTEEN SERIES NOW HAVE MORE THAN ONE READING AND NO LABEL, up from twelve. The new one is the Western Australian GIWA production series, listed below with the other twelve carried over from the first run. Each is chartable:false and stays off Tab 2 until a human writes a label. chartable count is unchanged at 5.",
+  "VALIDATOR NOT RUN. STEP 8B forbids running any script in the repo, which includes validate.py, so it was not executed. The checks it would perform were reimplemented independently for this run's rows: flag_status/flag_note paired both ways, review_flag dual-written identically, every quantified row carrying an event_date, series_key and verbatim quote, every badge resolved against badge_map.json by the documented match rule, no duplicate ids, and every shard compared field-for-field against all.json. All passed. A human running validate.py on this commit is still the authoritative check."
+ ],
+ "series_needing_labels": [
+  {
+   "series_key": "AU|western australia|mixed_grains|production|GIWA",
+   "readings": [
+    [
+     "2026-07",
+     22.7
+    ],
+    [
+     "2026-08-14",
+     21.01
+    ]
+   ],
+   "suggested_label": "GIWA - Western Australia total grain production forecast (Mt)"
+  },
+  {
+   "series_key": "FR|france|maize|production|Reuters",
+   "readings": [
+    [
+     "2026-07",
+     8.9
+    ],
+    [
+     "2026-08-14",
+     9.0
+    ]
+   ],
+   "suggested_label": "Reuters - France grain maize production forecast (Mt)"
+  },
+  {
+   "series_key": "GB|england|mixed_grains|rainfall_pct_normal|Environment Agency",
+   "readings": [
+    [
+     "2026-07",
+     7
+    ],
+    [
+     "2026-07",
+     10
+    ],
+    [
+     "2026-08",
+     4
+    ],
+    [
+     "2026-08",
+     6
+    ]
+   ],
+   "suggested_label": "Environment Agency - England rainfall as % of long-term average (includes in-month revisions)"
+  },
+  {
+   "series_key": "GB|united kingdom|winter_wheat|yield|AHDB",
+   "readings": [
+    [
+     "2026-07-26",
+     6.8
+    ],
+    [
+     "2026-08-10",
+     6.7
+    ]
+   ],
+   "suggested_label": "AHDB - UK wheat yield to date, harvest 2026 (t/ha)"
+  },
+  {
+   "series_key": "US|united states|winter_wheat|yield|USDA NASS",
+   "readings": [
+    [
+     "2026-07-01",
+     46.7
+    ],
+    [
+     "2026-08-01",
+     47.0
+    ]
+   ],
+   "suggested_label": "USDA NASS - US winter wheat yield forecast (bu/acre)"
+  },
+  {
+   "series_key": "GB|united kingdom|spring_barley|yield|AHDB",
+   "readings": [
+    [
+     "2026-07-27",
+     5.3
+    ],
+    [
+     "2026-08-10",
+     4.1
+    ]
+   ],
+   "suggested_label": "AHDB - UK spring barley yield to date, harvest 2026 (t/ha)"
+  },
+  {
+   "series_key": "GB|united kingdom|oats|yield|AHDB",
+   "readings": [
+    [
+     "2026-07-27",
+     4.9
+    ],
+    [
+     "2026-08-10",
+     4.2
+    ]
+   ],
+   "suggested_label": "AHDB - UK oat yield to date, harvest 2026 (t/ha)"
+  },
+  {
+   "series_key": "US|midwest / corn belt|soybean|condition_good_excellent|DTN",
+   "readings": [
+    [
+     "2026-08-02",
+     63
+    ],
+    [
+     "2026-08-09",
+     62
+    ]
+   ],
+   "suggested_label": "DTN - US soybeans, condition good or excellent"
+  },
+  {
+   "series_key": "GB|england|mixed_grains|damaged_area|Environment Agency",
+   "readings": [
+    [
+     "2026-07-30",
+     1395
+    ],
+    [
+     "2026-08-06",
+     1534
+    ],
+    [
+     "2026-08-13",
+     1544
+    ]
+   ],
+   "suggested_label": "Environment Agency - England abstraction restrictions in force"
+  },
+  {
+   "series_key": "GB|united kingdom|winter_barley|harvested_area|AHDB",
+   "readings": [
+    [
+     "2026-07-26",
+     95
+    ],
+    [
+     "2026-08-10",
+     98
+    ]
+   ],
+   "suggested_label": "AHDB - UK winter barley harvest progress (% of area cut)"
+  },
+  {
+   "series_key": "GB|united kingdom|winter_wheat|harvested_area|AHDB",
+   "readings": [
+    [
+     "2026-07-26",
+     54
+    ],
+    [
+     "2026-08-10",
+     85
+    ]
+   ],
+   "suggested_label": "AHDB - UK winter wheat harvest progress (% of area cut)"
+  },
+  {
+   "series_key": "GB|united kingdom|oilseed_rape|harvested_area|AHDB",
+   "readings": [
+    [
+     "2026-07-26",
+     73
+    ],
+    [
+     "2026-08-10",
+     95
+    ]
+   ],
+   "suggested_label": "AHDB - UK oilseed rape harvest progress (% of area cut)"
+  },
+  {
+   "series_key": "GB|united kingdom|spring_barley|harvested_area|AHDB",
+   "readings": [
+    [
+     "2026-07-26",
+     8
+    ],
+    [
+     "2026-08-10",
+     54
+    ]
+   ],
+   "suggested_label": "AHDB - UK spring barley harvest progress (% of area cut)"
+  }
+ ],
+ "notes_on_judgement_calls": [
+  "The AP European drought wire was read on wsls.com. apnews.com, france24.com, thehill.com, nationalobserver.com and abcnews all either failed to return a body or are equally unmapped; no host in badge_map.json carries this wire. wsls.com is not in the drop list, so per STEP 7 the row keeps source_badge 'Press', origin_publisher is set to Associated Press, and the host is appended to unmapped_domains.json as a worklist item. No 'unverified' flag was set on those rows: an unmapped domain is a worklist item, not a fault in the number.",
+  "GIWA rows cite the Grain Central article (Trade, mapped) as the document read, because that is where the prose sentences containing the figures are, with publisher and origin_publisher set to GIWA so the series stays on the agency and does not fork. This follows the precedent the first run set for the USDA rows via DTN.",
+  "The two single-farm rows that carry numbers in their quotes (Zeeland potatoes, Bosnian maize) were left unquantified rather than given farm-level series. Even had the figures been point values, a single farm does not belong in a national yield series — but the deciding reason is that neither figure is a point value.",
+  "Elveden Estate's 20% reservoir reading IS quantified and does get a series, keyed on the estate as its region, so it cannot collide with the Environment Agency's national England reservoir series. This is exactly the case the 'region MUST be included' rule in STEP 5 exists for.",
+  "month was set from published_date for all 16 rows, matching the dominant corpus convention and the first run of today.",
+  "run_state.json: window_start and window_end are UNCHANGED at 2026-08-10 and 2026-08-16, because a same-day re-run must not move the window. latest_summary stays 2026-08-16.json, which is the file both runs today have now written, merged forward rather than overwritten."
+ ]
+}

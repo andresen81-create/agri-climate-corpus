@@ -1,36 +1,243 @@
 {
  "date": "2026-08-16",
- "row_count": 45,
- "headline": "The August USDA reports and the European drought landed in the same six-day window: US all-wheat production fell to 1.531 billion bushels, the smallest in decades, while relentless heat cut the French maize crop to 9 million tonnes on the agriculture ministry's own forecast and to under 7 million - the smallest since 1976 - on Expana's and Argus's.",
+ "row_count": 61,
+ "headline": "Across two sweeps today the corpus gained 61 rows: the first covered the August USDA cycle and the European maize collapse, and this second one found the Australian and macro-economic halves it had missed — GIWA cutting Western Australia's harvest to 21.01 Mt on drought and frost risk, and a Dutch bank putting the 2026 EU heat and drought bill at about 180 billion euros, roughly 1% of EU GDP.",
  "key_points": [
-  "A BIG WEEK, AND THE SIZE IS REAL RATHER THAN AN ARTEFACT. 45 rows against 6 last week and 88 across five runs on 2026-08-09. The window was six days, shorter than a normal week, but it happened to contain the August WASDE and Crop Production (12 August), the USDA NASS Crop Progress report (10 August), the AHDB second harvest report (14 August), the Environment Agency's weekly drought report (14 August), the JRC/Copernicus drought and wildfire update (12 August) and the Reuters EU maize survey (14 August). Six of the corpus's most productive sources published inside six days.",
-  "THE EU MAIZE CROP IS THE STORY, AND THREE FORECASTS DISAGREE BY 3 MILLION TONNES ON FRANCE ALONE. USDA FAS carried France at 10.0 Mt on 10 July (p001, already in the corpus); the French agriculture ministry now says 9.0 Mt, down 35% year on year (s035); Expana and Argus both say under 7 Mt, which would be the smallest since 1976 (s036). All three are recorded. USDA cut EU maize to 50.2 Mt and raised EU imports 1 Mt to 23.5 Mt (s027). Germany's DRV forecasts 4.24 Mt, down 14% (s037). Poland, at about 9 Mt, could become the EU's largest maize producer this year (s038) - the clearest positive row of the week.",
-  "UK HARVEST 2026 IS NOW CONFIRMED AS A BAD ONE FOR EVERYTHING EXCEPT OILSEED RAPE. AHDB's second report puts spring barley at 4.1 t/ha with 54% cut, on course for the lowest since records began in 1999, and oats at 4.2 t/ha heading for a 46-year low. Wheat is 6.7 t/ha with 85% cut, down from 6.8 at week 3. Oilseed rape holds at 3.9 t/ha, 18% above the five-year average. AHDB's Helen Plant attributes the shortfall directly to rainfall being in short supply since spring.",
-  "ENGLAND'S DROUGHT DEEPENED AGAIN AND IS NOW MEASURABLY BITING FARM WATER SUPPLY. Reservoir storage fell to 65.9% on 11 August, down 3.1 points in a week and 13.8% below the long-term average; 71% of England by land area is in drought with no area at normal status; abstraction restrictions rose to 1,544. Section 57 statutory cuts now bind 288 spray irrigation licences in East Anglia to 31 October, with 14 Wensum-catchment abstractors ordered to cease abstraction entirely. The agency reports crops being lost outright and boreholes drying up.",
-  "THE US PICTURE IS SPLIT, NOT UNIFORMLY BAD, AND THE SPLIT IS GEOGRAPHIC. Corn production rose to 16.013 bb and soybeans to a record 4.519 bb on 1.4 million extra planted acres each, but the corn yield was cut 2.3 bu/acre to 180.7 and wheat fell to its smallest in decades. State conditions show the divide: Iowa corn 78% good-to-excellent against Kansas 47%, and North Dakota soybeans at 31% against Iowa's 77%. Kansas winter wheat production is down 44.8% year on year."
+  "AUSTRALIA WAS MISSED BY THE FIRST SWEEP AND IT WAS NOT A QUIET WEEK THERE. The GIWA August crop report, published 14 August and squarely inside the window, cut Western Australia's grain harvest forecast to 21.01 Mt from 22.66 Mt a month earlier and wheat to 9.03 Mt from 9.55 Mt. The first run of today recorded 'Australia (nothing in window)'. Six rows came from this one report and it is the clearest demonstration this week of why a re-run targets what the earlier log says it did not find.",
+  "THE DROUGHT NOW HAS A EUROPE-WIDE PRICE TAG AND IT WAS NOT IN THE CORPUS. Triodos, a Dutch bank, estimated that the 2026 heatwaves and drought could cut EU GDP by 1% for the year, around 180 billion euros. The Associated Press wire of 13 August carrying that figure also carries the human-scale rows this corpus is usually short of: a Zeeland potato grower harvesting a month early with a third less crop for McDonald's fries, a Bosnian farmer down from 6-7 t/ha of maize to 1.5-2, a Hungarian dairy farm with no rain since late May buying feed for 130 cows, and record-low Danube levels jamming Romanian grain terminals.",
+  "THE UK IRRIGATION STORY HAS A SECOND, PRIVATE-SECTOR DATA POINT. Elveden Estate on the Suffolk-Norfolk border built a reservoir holding about 200 Olympic pools' worth of water; less than a year after opening it is almost dry, and a second reservoir is at about 20% capacity. Managing director Andrew Blenkiron says the investment is the only reason irrigation has continued, and that six weeks of watering remain if the weather holds. It sits alongside the Environment Agency's 65.9% national reservoir figure from the first sweep.",
+  "IDAHO JOINS THE DROUGHT MAP, WHICH HAD BEEN ENTIRELY EUROPEAN AND MIDWESTERN. Around 15,000 fewer potato acres were planted in Idaho this year; the governor declared a drought emergency in April on scarce snowmelt, and growers are moving off flood irrigation and watching aquifer levels. About a third of US potatoes come from Idaho, so state area moves national supply.",
+  "PRICES: THE DUTCH SIDE OF THE POTATO AND ONION MOVE. Dutch red onions in the 60-80 grade are fetching 45 cents and free-buy potatoes 35 cents, both attributed by the trade to the dry weather and tight availability, with onion prices rising one to two cents a week. This is the counterpart to the UK wholesale potato move of more than 40% already in the corpus, and it is a reminder that drought rows are not uniformly negative for the people selling the crop.",
+  "SIXTEEN ROWS ON A RE-RUN OF GROUND ALREADY SWEPT, AND NOT ONE OF THEM MERGED. Every one of the sixteen claim_keys was free, meaning the first sweep of today had not touched any of these facts. That is the honest measure of the gap: the first run checked all 21 manifest sources and found 45 rows, and a differently-shaped search of the same six days found sixteen more with no overlap at all.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: A BIG WEEK, AND THE SIZE IS REAL RATHER THAN AN ARTEFACT. 45 rows against 6 last week and 88 across five runs on 2026-08-09. The window was six days, shorter than a normal week, but it happened to contain the August WASDE and Crop Production (12 August), the USDA NASS Crop Progress report (10 August), the AHDB second harvest report (14 August), the Environment Agency's weekly drought report (14 August), the JRC/Copernicus drought and wildfire update (12 August) and the Reuters EU maize survey (14 August). Six of the corpus's most productive sources published inside six days.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: THE EU MAIZE CROP IS THE STORY, AND THREE FORECASTS DISAGREE BY 3 MILLION TONNES ON FRANCE ALONE. USDA FAS carried France at 10.0 Mt on 10 July (p001, already in the corpus); the French agriculture ministry now says 9.0 Mt, down 35% year on year (s035); Expana and Argus both say under 7 Mt, which would be the smallest since 1976 (s036). All three are recorded. USDA cut EU maize to 50.2 Mt and raised EU imports 1 Mt to 23.5 Mt (s027). Germany's DRV forecasts 4.24 Mt, down 14% (s037). Poland, at about 9 Mt, could become the EU's largest maize producer this year (s038) - the clearest positive row of the week.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: UK HARVEST 2026 IS NOW CONFIRMED AS A BAD ONE FOR EVERYTHING EXCEPT OILSEED RAPE. AHDB's second report puts spring barley at 4.1 t/ha with 54% cut, on course for the lowest since records began in 1999, and oats at 4.2 t/ha heading for a 46-year low. Wheat is 6.7 t/ha with 85% cut, down from 6.8 at week 3. Oilseed rape holds at 3.9 t/ha, 18% above the five-year average. AHDB's Helen Plant attributes the shortfall directly to rainfall being in short supply since spring.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: ENGLAND'S DROUGHT DEEPENED AGAIN AND IS NOW MEASURABLY BITING FARM WATER SUPPLY. Reservoir storage fell to 65.9% on 11 August, down 3.1 points in a week and 13.8% below the long-term average; 71% of England by land area is in drought with no area at normal status; abstraction restrictions rose to 1,544. Section 57 statutory cuts now bind 288 spray irrigation licences in East Anglia to 31 October, with 14 Wensum-catchment abstractors ordered to cease abstraction entirely. The agency reports crops being lost outright and boreholes drying up.",
+  "CARRIED OVER FROM AN EARLIER RUN TODAY: THE US PICTURE IS SPLIT, NOT UNIFORMLY BAD, AND THE SPLIT IS GEOGRAPHIC. Corn production rose to 16.013 bb and soybeans to a record 4.519 bb on 1.4 million extra planted acres each, but the corn yield was cut 2.3 bu/acre to 180.7 and wheat fell to its smallest in decades. State conditions show the divide: Iowa corn 78% good-to-excellent against Kansas 47%, and North Dakota soybeans at 31% against Iowa's 77%. Kansas winter wheat production is down 44.8% year on year."
  ],
  "notable_numbers": [
-  {"label": "French maize crop, agriculture ministry", "value": "9.0 Mt", "note": "down 35% on 2025; Expana and Argus expect under 7 Mt, the smallest since 1976; USDA FAS carried 10.0 Mt on 10 July", "ids": ["s035", "s036", "p001"]},
-  {"label": "US all-wheat production", "value": "1.531 bn bu", "note": "smallest in decades; yield 47.8 bu/acre, down 5.5 bushels on 2025", "ids": ["s022", "s023"]},
-  {"label": "GB spring barley yield", "value": "4.1 t/ha", "note": "54% cut; ~26% below the five-year average and on course for the lowest since records began in 1999", "ids": ["s002"]},
-  {"label": "GB oat yield", "value": "4.2 t/ha", "note": "80% cut; 21% below the five-year average and heading for a 46-year low", "ids": ["s003"]},
-  {"label": "England reservoir storage", "value": "65.9%", "note": "11 August; down 3.1 points in a week, 13.8% below the long-term average of 79.7%; 5 reservoirs exceptionally low", "ids": ["s009"]},
-  {"label": "Abstraction restrictions in force", "value": "1,544", "note": "up from 1,534 a week earlier and 1,395 on 30 July; 288 East Anglia spray licences cut 50% under Section 57", "ids": ["s011", "s012"]},
-  {"label": "EU maize production, USDA", "value": "50.2 Mt", "note": "lowered in the August WASDE; EU imports raised 1 Mt to 23.5 Mt", "ids": ["s027"]},
-  {"label": "EU burnt area to 5 August", "value": "505,683 ha", "note": "against 379,392 ha by the same date in 2025, itself the worst season on record", "ids": ["s016"]},
-  {"label": "EU and UK land area under drought", "value": "50%", "note": "21-31 July, Copernicus EDO; 9% at alert level where vegetation shows visible stress; 54% in 2018 and 60% in 2022", "ids": ["s015"]},
-  {"label": "US corn condition spread, Kansas vs Iowa", "value": "47% vs 78%", "note": "good-to-excellent, week ending 9 August; national 61%, 11 points below 2025", "ids": ["s032", "s034"]},
-  {"label": "Kansas winter wheat production", "value": "191.4 mn bu", "note": "down 44.8% year on year; yield down 35.3% to 33.0 bu/acre", "ids": ["s026"]},
-  {"label": "US soybean production", "value": "4.519 bn bu", "note": "largest crop in US history, on 1.4 million extra planted acres", "ids": ["s020"]},
-  {"label": "NW Europe ware potato area", "value": "536,900 ha", "note": "down 11% from 604,100 ha in 2025, so drought losses fall on a much smaller base", "ids": ["s043"]}
+  {
+   "label": "EU GDP loss from 2026 heat and drought",
+   "value": "180 bn EUR",
+   "note": "Triodos estimate, about 1% of EU GDP for 2026; the first macro-economic figure in the corpus this season",
+   "ids": [
+    "t007"
+   ]
+  },
+  {
+   "label": "Western Australia grain harvest",
+   "value": "21.01 Mt",
+   "note": "GIWA August report, cut from 22.66 Mt in July; wheat alone cut to 9.03 Mt from 9.55 Mt",
+   "ids": [
+    "t001",
+    "t002"
+   ]
+  },
+  {
+   "label": "Elveden Estate second reservoir",
+   "value": "20% capacity",
+   "note": "Suffolk-Norfolk border; the newer reservoir, holding about 200 Olympic pools, is almost dry less than a year after opening",
+   "ids": [
+    "t012"
+   ]
+  },
+  {
+   "label": "Bosnian farm maize yield",
+   "value": "1.5-2 t/ha",
+   "note": "against 6-7 t/ha in better years; recorded unquantified because the source gives a range, not a value",
+   "ids": [
+    "t009"
+   ]
+  },
+  {
+   "label": "Idaho potato area",
+   "value": "15,000 fewer acres",
+   "note": "a year-on-year reduction, not a level; Idaho grows about a third of US potatoes",
+   "ids": [
+    "t013"
+   ]
+  },
+  {
+   "label": "Dutch red onion price, 60-80 grade",
+   "value": "45 cents",
+   "note": "rising one to two cents a week on dry weather and tight supply; free-buy potatoes at 35 cents",
+   "ids": [
+    "t015",
+    "t016"
+   ]
+  },
+  {
+   "label": "French maize crop, agriculture ministry",
+   "value": "9.0 Mt",
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: down 35% on 2025; Expana and Argus expect under 7 Mt, the smallest since 1976; USDA FAS carried 10.0 Mt on 10 July",
+   "ids": [
+    "s035",
+    "s036",
+    "p001"
+   ]
+  },
+  {
+   "label": "US all-wheat production",
+   "value": "1.531 bn bu",
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: smallest in decades; yield 47.8 bu/acre, down 5.5 bushels on 2025",
+   "ids": [
+    "s022",
+    "s023"
+   ]
+  },
+  {
+   "label": "GB spring barley yield",
+   "value": "4.1 t/ha",
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: 54% cut; ~26% below the five-year average and on course for the lowest since records began in 1999",
+   "ids": [
+    "s002"
+   ]
+  },
+  {
+   "label": "GB oat yield",
+   "value": "4.2 t/ha",
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: 80% cut; 21% below the five-year average and heading for a 46-year low",
+   "ids": [
+    "s003"
+   ]
+  },
+  {
+   "label": "England reservoir storage",
+   "value": "65.9%",
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: 11 August; down 3.1 points in a week, 13.8% below the long-term average of 79.7%; 5 reservoirs exceptionally low",
+   "ids": [
+    "s009"
+   ]
+  },
+  {
+   "label": "Abstraction restrictions in force",
+   "value": "1,544",
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: up from 1,534 a week earlier and 1,395 on 30 July; 288 East Anglia spray licences cut 50% under Section 57",
+   "ids": [
+    "s011",
+    "s012"
+   ]
+  },
+  {
+   "label": "EU maize production, USDA",
+   "value": "50.2 Mt",
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: lowered in the August WASDE; EU imports raised 1 Mt to 23.5 Mt",
+   "ids": [
+    "s027"
+   ]
+  },
+  {
+   "label": "EU burnt area to 5 August",
+   "value": "505,683 ha",
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: against 379,392 ha by the same date in 2025, itself the worst season on record",
+   "ids": [
+    "s016"
+   ]
+  },
+  {
+   "label": "EU and UK land area under drought",
+   "value": "50%",
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: 21-31 July, Copernicus EDO; 9% at alert level where vegetation shows visible stress; 54% in 2018 and 60% in 2022",
+   "ids": [
+    "s015"
+   ]
+  },
+  {
+   "label": "US corn condition spread, Kansas vs Iowa",
+   "value": "47% vs 78%",
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: good-to-excellent, week ending 9 August; national 61%, 11 points below 2025",
+   "ids": [
+    "s032",
+    "s034"
+   ]
+  },
+  {
+   "label": "Kansas winter wheat production",
+   "value": "191.4 mn bu",
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: down 44.8% year on year; yield down 35.3% to 33.0 bu/acre",
+   "ids": [
+    "s026"
+   ]
+  },
+  {
+   "label": "US soybean production",
+   "value": "4.519 bn bu",
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: largest crop in US history, on 1.4 million extra planted acres",
+   "ids": [
+    "s020"
+   ]
+  },
+  {
+   "label": "NW Europe ware potato area",
+   "value": "536,900 ha",
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: down 11% from 604,100 ha in 2025, so drought losses fall on a much smaller base",
+   "ids": [
+    "s043"
+   ]
+  }
  ],
- "what_changed": "Last week's summary covered a one-day window and six rows, all from the Environment Agency. This week is the opposite: a six-day window that happened to catch the August USDA cycle, the AHDB harvest report and the JRC drought update together. What actually moved: England's reservoir storage fell from 69% to 65.9% and abstraction restrictions from 1,534 to 1,544, so both those series now have three and four readings respectively and still no label. The agency also revised its own Section 57 figure down from 302 affected abstractors to 288, and revised August rainfall to date up from 4% to 6% of average - the second self-revision from this source in two weeks, recorded rather than absorbed. On the UK harvest, wheat slipped from 6.8 to 6.7 t/ha, spring barley from 5.3 to 4.1 and oats from 4.9 to 4.2 as the combines moved north, which is the opposite of what AHDB had hoped for and it says so explicitly. Winter barley at 6.8 t/ha and oilseed rape at 3.9 t/ha were unchanged and merged as corroboration rather than inserting. New this week and absent from every prior summary: the EU maize collapse now has three competing France forecasts in the corpus, and Lamb Weston has become the first company this season to flag European potato heat damage as a price risk on the record.",
+ "what_changed": "This file now covers TWO runs on 2026-08-16 over the same six-day window of 10 to 16 August; the second did not move the window and did not repeat the first's sources, it targeted what the first run's log recorded as unfound. Against last week's summary, which covered a one-day window and six Environment Agency rows, the change is enormous in both volume and geography. What moved in this second sweep specifically: Australia entered the corpus for the first time since the June ABARES report, and it entered as a downgrade — GIWA's Western Australia total fell from 22.66 Mt in July to 21.01 Mt, which gives the AU|western australia|mixed_grains|production|GIWA series a second reading and its first chartable shape, still blocked only by the absence of a human-written label. Europe's drought acquired a macro-economic number for the first time this season (180 billion euros, about 1% of EU GDP) and a set of named-farm rows across the Netherlands, Bosnia, Hungary, Romania and eastern England that the agency-and-trade sweep of the first run structurally cannot produce. The United States gained a drought region outside the corn belt, in Idaho. And the potato price story, which until now was a UK wholesale figure, gained its Dutch counterpart at 35 cents alongside a 45-cent red onion export price. Nothing merged: all sixteen claim_keys were free, so none of this duplicates the first sweep.",
  "conflicts": [
-  {"ids": ["p001", "s035", "s036"], "note": "THREE FORECASTS FOR THE 2026 FRENCH MAIZE CROP, NOT RESOLVED. p001 (USDA FAS, published 2026-07-10) says 10.0 million tonnes. s035 (French agriculture ministry, via Reuters, published 2026-08-14) says 9.0 million tonnes, down 35% on 2025. s036 (Expana and Argus, same Reuters wire) says under 7 million tonnes, which would be the smallest since 1976. The spread is 3+ million tonnes on one crop in one country five weeks apart, and it is a genuine disagreement about how much of the crop irrigation will salvage and how much will be chopped for fodder rather than harvested for grain. s036 is recorded unquantified on purpose: 'less than 7 million tons' is an upper bound and converting it to a point value would be inferring a number."},
-  {"ids": ["r005", "s012"], "note": "THE ENVIRONMENT AGENCY REVISED ITS OWN SECTION 57 FIGURE AND BOTH READINGS STAND. r005 (published 2026-08-07) says 302 abstractors served notices in East Anglia. s012 (published 2026-08-14) says 288 spray licences, with the restriction running 10 August to 31 October and 14 Wensum-catchment abstractors required to cease entirely. Same agency, same measure, one week apart. Recorded as a revision, not corrected. s012 carries a review_flag naming r005."},
-  {"ids": ["r004", "s010"], "note": "SECOND SELF-REVISION FROM THE SAME SOURCE, ON AUGUST RAINFALL. r004 (published 2026-08-07) put England's August rainfall to date at 4% of the long-term average. s010 (published 2026-08-14) puts it at 6%, on 4mm received. Both sit in GB|england|mixed_grains|rainfall_pct_normal|Environment Agency, which now holds four readings - 7% and 10% for July, 4% and 6% for August - and still has no label, so it remains chartable:false. A human needs to decide whether that chart should show revisions or only final figures."},
-  {"ids": ["s019", "s018"], "note": "NOT A CONTRADICTION, A TENSION WORTH NAMING. s019 records US corn production UP to 16.013 bb with hazard_type favourable, because the quote says production increased; s018 records the yield DOWN 2.3 bu/acre to 180.7 with hazard_type heat. Both are true and both come from the same report: 1.4 million extra planted acres more than offset a weather-driven yield loss. A reader looking only at production would miss the weather signal entirely."},
-  {"ids": ["s026"], "note": "SCHEMA/PROVENANCE NOTE, NOT A DISAGREEMENT. s026 (Kansas winter wheat, 191.4 million bushels, -44.8% year on year) is the only row this week whose verbatim_quote is a table row from the NASS Agricultural Statistics Board briefing rather than a prose sentence. The figures are read directly from the Planted/Harvested/Yield/Production columns and the row carries a review_flag saying so. Flagged rather than dropped, because it is the sharpest state-level fall in the report."},
-  {"ids": ["a005"], "note": "GB potato wholesale price, recorded with a caveat. The source says UK wholesale potato prices rose by 'more than 40%', an open-ended lower bound. 40 is recorded as the value and the unit carries the qualifier; the incoming row merged into a005, which already held the same figure from an earlier run. Do not chart without a human check."}
+  {
+   "ids": [
+    "t013"
+   ],
+   "note": "UNIT SHAPE, NOT A DISAGREEMENT. t013 records Idaho potato planted_area as 15,000 — but that is a YEAR-ON-YEAR REDUCTION, the only form the source gives, not an absolute area. It must not be charted against level readings of the same metric. The unit string and flag_note both say so. A human may want the schema to distinguish level from delta."
+  },
+  {
+   "ids": [
+    "t007"
+   ],
+   "note": "SCHEMA GAP, NOT A DISAGREEMENT. The Triodos figure is a GDP loss and metric_name has no GDP value, so it is filed under 'cost' with direction 'up' while the underlying GDP moves down. Flagged caveated. This is the second schema gap found today, after condition_very_poor_poor."
+  },
+  {
+   "ids": [
+    "t004",
+    "t008",
+    "t009"
+   ],
+   "note": "THREE FIGURES DELIBERATELY LEFT UNQUANTIFIED, all for the same reason as s036 last run. 'Less than 150mm year to date' (WA rainfall) is a bound. 'Down by about one-third' (Zeeland potato harvest) is a fraction that would have to be converted to a percentage. '1.5 to 2 tons per hectare' (Bosnian maize) is a range whose midpoint would be invented. All three keep their numbers in the quote and the summary."
+  },
+  {
+   "ids": [
+    "p001",
+    "s035",
+    "s036"
+   ],
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: THREE FORECASTS FOR THE 2026 FRENCH MAIZE CROP, NOT RESOLVED. p001 (USDA FAS, published 2026-07-10) says 10.0 million tonnes. s035 (French agriculture ministry, via Reuters, published 2026-08-14) says 9.0 million tonnes, down 35% on 2025. s036 (Expana and Argus, same Reuters wire) says under 7 million tonnes, which would be the smallest since 1976. The spread is 3+ million tonnes on one crop in one country five weeks apart, and it is a genuine disagreement about how much of the crop irrigation will salvage and how much will be chopped for fodder rather than harvested for grain. s036 is recorded unquantified on purpose: 'less than 7 million tons' is an upper bound and converting it to a point value would be inferring a number."
+  },
+  {
+   "ids": [
+    "r005",
+    "s012"
+   ],
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: THE ENVIRONMENT AGENCY REVISED ITS OWN SECTION 57 FIGURE AND BOTH READINGS STAND. r005 (published 2026-08-07) says 302 abstractors served notices in East Anglia. s012 (published 2026-08-14) says 288 spray licences, with the restriction running 10 August to 31 October and 14 Wensum-catchment abstractors required to cease entirely. Same agency, same measure, one week apart. Recorded as a revision, not corrected. s012 carries a review_flag naming r005."
+  },
+  {
+   "ids": [
+    "r004",
+    "s010"
+   ],
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: SECOND SELF-REVISION FROM THE SAME SOURCE, ON AUGUST RAINFALL. r004 (published 2026-08-07) put England's August rainfall to date at 4% of the long-term average. s010 (published 2026-08-14) puts it at 6%, on 4mm received. Both sit in GB|england|mixed_grains|rainfall_pct_normal|Environment Agency, which now holds four readings - 7% and 10% for July, 4% and 6% for August - and still has no label, so it remains chartable:false. A human needs to decide whether that chart should show revisions or only final figures."
+  },
+  {
+   "ids": [
+    "s019",
+    "s018"
+   ],
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: NOT A CONTRADICTION, A TENSION WORTH NAMING. s019 records US corn production UP to 16.013 bb with hazard_type favourable, because the quote says production increased; s018 records the yield DOWN 2.3 bu/acre to 180.7 with hazard_type heat. Both are true and both come from the same report: 1.4 million extra planted acres more than offset a weather-driven yield loss. A reader looking only at production would miss the weather signal entirely."
+  },
+  {
+   "ids": [
+    "s026"
+   ],
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: SCHEMA/PROVENANCE NOTE, NOT A DISAGREEMENT. s026 (Kansas winter wheat, 191.4 million bushels, -44.8% year on year) is the only row this week whose verbatim_quote is a table row from the NASS Agricultural Statistics Board briefing rather than a prose sentence. The figures are read directly from the Planted/Harvested/Yield/Production columns and the row carries a review_flag saying so. Flagged rather than dropped, because it is the sharpest state-level fall in the report."
+  },
+  {
+   "ids": [
+    "a005"
+   ],
+   "note": "CARRIED OVER FROM AN EARLIER RUN TODAY: GB potato wholesale price, recorded with a caveat. The source says UK wholesale potato prices rose by 'more than 40%', an open-ended lower bound. 40 is recorded as the value and the unit carries the qualifier; the incoming row merged into a005, which already held the same figure from an earlier run. Do not chart without a human check."
+  }
  ]
 }
