@@ -191,8 +191,10 @@ VOCAB = {
     "attribution": {"enso_explicit", "weather_explicit", "implied", "unattributed"},
     "source_badge": {"Official", "Trade", "Press"},
     "direction": {"down", "up", None, ""},
+    "flag_status": {"contested", "caveated", "unverified", None, ""},
     "metric_name": {"production", "yield", "planted_area", "harvested_area", "abandonment_rate",
-                    "condition_good_excellent", "futures_price", "spot_price", "export_price",
+                    "condition_good_excellent", "condition_very_poor_poor",
+                    "futures_price", "spot_price", "export_price",
                     "export_volume", "revenue", "cost", "rainfall_mm", "rainfall_pct_normal",
                     "forecast_rainfall_pct", "temperature_anomaly", "soil_moisture",
                     "reservoir_fill", "deliveries", "damaged_area", "crop_damage_pct",
@@ -202,6 +204,35 @@ for r in ALL:
     for field, allowed in VOCAB.items():
         if r.get(field) not in allowed:
             fail("5 vocabulary", f"{r['id']}: {field} = {r.get(field)!r} is not a controlled value")
+
+# flag_status / flag_note. Three statuses, one queue: only "unverified" means a human must act.
+# "contested" is a recorded disagreement or a source revising itself and is never resolved;
+# "caveated" is a scope, attribution or provenance note made at capture. See flag-status-proposal.md.
+for r in ALL:
+    if r.get("flag_status") and not (r.get("flag_note") or "").strip():
+        fail("5 vocabulary", f"{r['id']}: flag_status {r['flag_status']!r} with an empty flag_note")
+    if (r.get("flag_note") or "").strip() and not r.get("flag_status"):
+        fail("5 vocabulary", f"{r['id']}: flag_note set but flag_status is empty")
+    # dual-write window: review_flag is still carried until the dashboard is rebound.
+    if r.get("review_flag") and not r.get("flag_status"):
+        warn("5 vocabulary",
+             f"{r['id']}: review_flag set but no flag_status — written by a run that predates "
+             f"the flag_status field, or SKILL.md has not been updated")
+
+# condition_good_excellent and condition_very_poor_poor are opposite readings of the same rating
+# scale and must NEVER be converted into each other: 93% very-poor-to-poor does not imply 7%
+# good-to-excellent, because the "fair" band sits between them. Same reasoning as rainfall_mm /
+# rainfall_in — the sense lives in the metric name so each series stays internally consistent.
+CONDITION_PAIR = {"condition_good_excellent", "condition_very_poor_poor"}
+_cond_series = {}
+for r in ALL:
+    if r.get("metric_name") in CONDITION_PAIR and r.get("series_key"):
+        _cond_series.setdefault(r["series_key"], set()).add(r["metric_name"])
+for sk, metrics in _cond_series.items():
+    if metrics == CONDITION_PAIR:
+        fail("5 vocabulary",
+             f"series {sk!r} mixes condition_good_excellent and condition_very_poor_poor — "
+             f"opposite senses of one scale in a single series")
 
 # 01 §14: rainfall_mm must hold millimetres. An inch value under this metric is a wrong
 # dimension, not a wording problem — any chart of the metric would be wrong by a factor of 25.4.

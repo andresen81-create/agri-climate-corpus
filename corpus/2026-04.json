@@ -24,6 +24,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "GB|mixed_grains|2026 harvest|rainfall_pct_normal|38|down",
   "series_key": "GB|england|mixed_grains|rainfall_pct_normal|ECIU",

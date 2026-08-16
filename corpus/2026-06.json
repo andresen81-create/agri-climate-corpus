@@ -34,6 +34,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|great plains|winter_wheat|production|USDA NASS"
  },
  {
@@ -65,6 +67,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|great plains|winter_wheat|abandonment_rate|USDA NASS"
  },
  {
@@ -96,6 +100,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|hard red winter belt|winter_wheat|production|USDA ERS"
  },
  {
@@ -127,6 +133,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|united states winter wheat belt|winter_wheat|condition_good_excellent|USDA ERS"
  },
  {
@@ -155,6 +163,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-06-28",
   "month": "2026-06",
   "companies": [],
@@ -189,6 +199,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|california|rice|temperature_anomaly|USDA ERS"
  },
  {
@@ -220,6 +232,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|iowa — washington and monroe counties|maize|rainfall_in|Iowa State University Extension"
  },
  {
@@ -251,6 +265,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "AU|australia|mixed_grains|production|ABARES"
  },
  {
@@ -293,6 +309,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "AU|australia|wheat|production|ABARES"
  },
  {
@@ -330,6 +348,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "AU|australia|oilseed_rape|production|Grain Central"
  },
  {
@@ -361,6 +381,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "AU|queensland|mixed_grains|production|ABARES"
  },
  {
@@ -392,6 +414,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "AU|new south wales|mixed_grains|production|ABARES"
  },
  {
@@ -423,6 +447,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "AU|western australia|mixed_grains|production|ABARES"
  },
  {
@@ -451,6 +477,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-06-22",
   "month": "2026-06",
   "companies": [],
@@ -485,6 +513,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|england|oilseed_rape|condition_good_excellent|FarmingUK"
  },
  {
@@ -516,6 +546,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|england — cam and ely ouse|spring_barley|reservoir_fill|Environment Agency"
  },
  {
@@ -547,6 +579,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|eastern england|winter_barley|grain_moisture|Farmers Weekly"
  },
  {
@@ -578,6 +612,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|elveden estate|winter_barley|yield|Farmers Weekly"
  },
  {
@@ -609,6 +645,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|hawk mill farms|oilseed_rape|grain_moisture|Farmers Weekly"
  },
  {
@@ -646,6 +684,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "FR|france|maize|condition_good_excellent|AHDB"
  },
  {
@@ -677,6 +717,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|eu-27|wheat|production|AHDB"
  },
  {
@@ -708,6 +750,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "FR|euronext paris|oilseed_rape|futures_price|AHDB"
  },
  {
@@ -739,6 +783,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|united kingdom / us midwest|wheat|futures_price|AHDB"
  },
  {
@@ -778,6 +824,8 @@
   ],
   "corroboration_count": 3,
   "review_flag": "original blocks automated fetch; quote verified via syndicated reposts",
+  "flag_status": "caveated",
+  "flag_note": "original blocks automated fetch; quote verified via syndicated reposts",
   "event_date": "2026-06",
   "month": "2026-06",
   "companies": [],
@@ -812,6 +860,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|western|mixed_grains|na|European Commission JRC"
  },
  {
@@ -837,6 +887,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "HU|southern czechia|mixed_grains|na|European Commission JRC"
  },
  {
@@ -862,6 +914,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|main eu rice regions|rice|na|European Commission JRC"
  },
  {
@@ -887,6 +941,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "UA|western ukraine|oilseed_rape|na|European Commission JRC"
  },
  {
@@ -918,6 +974,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "FR|champagne|grapes_wine|crop_damage_pct|The Drinks Business"
  },
  {
@@ -949,6 +1007,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|virginia|grapes_wine|crop_damage_pct|The Drinks Business"
  },
  {
@@ -980,6 +1040,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "IN|all-india|mixed_grains|planted_area|Business Standard"
  },
  {
@@ -1011,6 +1073,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "IN|all-india|mixed_grains|rainfall_pct_normal|Down To Earth"
  },
  {
@@ -1039,6 +1103,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-06",
   "month": "2026-06",
   "companies": [],
@@ -1073,6 +1139,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "BR|maranhão|rice|yield|CONAB"
  },
  {
@@ -1104,6 +1172,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "BR|piauí|rice|planted_area|CONAB"
  },
  {
@@ -1138,6 +1208,8 @@
   ],
   "corroboration_count": 2,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-06",
   "month": "2026-06",
   "companies": [],
@@ -1172,6 +1244,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "BR|minas gerais|coffee|rainfall_pct_normal|Barchart"
  },
  {
@@ -1200,6 +1274,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-06",
   "month": "2026-06",
   "companies": [],
@@ -1231,6 +1307,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": "primary driver is disease (citrus greening), not a weather extreme — borderline against capture bar",
+  "flag_status": "caveated",
+  "flag_note": "primary driver is disease (citrus greening), not a weather extreme — borderline against capture bar",
   "event_date": "2026-06",
   "month": "2026-06",
   "companies": [],
@@ -1266,6 +1344,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-06-24",
   "month": "2026-06",
   "series_key": "CI|west africa|cocoa|futures_price|CocoaIntel"
@@ -1307,6 +1387,8 @@
   "event_date": "2026-06",
   "month": "2026-06",
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "CI|côte d'ivoire|cocoa|export_volume|CNBC Africa"
  },
  {
@@ -1330,6 +1412,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "month": "2026-06",
   "companies": [],
   "series_key": "CI|abengourou|cocoa|na|The Voice of Africa"
@@ -1363,6 +1447,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "ZA|free state and north west provinces|maize|deliveries|IOL Business Report"
  },
  {
@@ -1394,6 +1480,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "ZA|southern africa — south africa|maize|production|European Commission JRC"
  },
  {
@@ -1419,6 +1507,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GT|central america|maize|na|European Commission JRC"
  },
  {
@@ -1450,6 +1540,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "SO|bay region and major sorghum-producing areas|sorghum|yield|GEOGLAM Crop Monitor"
  },
  {
@@ -1481,6 +1573,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "ET|eastern amhara|sorghum|yield|GEOGLAM Crop Monitor"
  },
  {
@@ -1512,6 +1606,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "SO|somalia|livestock|rainfall_pct_normal|FEWS NET"
  },
  {
@@ -1537,6 +1633,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "SO|east africa — somalia|maize|na|GEOGLAM Crop Monitor"
  },
  {
@@ -1568,6 +1666,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "BD|north-eastern haor|rice|damaged_area|GEOGLAM Crop Monitor"
  },
  {
@@ -1593,6 +1693,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "KE|mombasa and kwale counties|mixed_grains|na|GEOGLAM Crop Monitor"
  },
  {
@@ -1618,6 +1720,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "PK|punjab|wheat|na|USDA ERS"
  },
  {
@@ -1649,6 +1753,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "PK|punjab — kot addu|mango|crop_damage_pct|Pakistan Today"
  },
  {
@@ -1680,6 +1786,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "CN|china wheat belt|wheat|damaged_area|Frontier Agriculture"
  },
  {
@@ -1708,6 +1816,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-06-25",
   "month": "2026-06",
   "companies": [],
@@ -1734,6 +1844,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": "borderline — forward-looking risk framing with no named place/figure; sits close to the capture-bar exclusion",
+  "flag_status": "caveated",
+  "flag_note": "borderline — forward-looking risk framing with no named place/figure; sits close to the capture-bar exclusion",
   "month": "2026-06",
   "companies": [],
   "series_key": "GLOBAL|global|potato|na|PotatoPro"
@@ -1761,6 +1873,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "CA|canadian prairies and eastern canada|spring_wheat|na|GEOGLAM Crop Monitor"
  },
  {
@@ -1788,6 +1902,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "DE|mixed_grains|2026|temperature_anomaly|0.6|up",
   "series_key": "DE|mockern, eastern germany|mixed_grains|temperature_anomaly|Munich Re",
@@ -1820,6 +1936,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": "Climate-attribution figure, not a crop measurement. The quote supports the 3.5 C figure exactly, but the row's link to agricultural impact is contextual rather than measured.",
+  "flag_status": "caveated",
+  "flag_note": "Climate-attribution figure, not a crop measurement. The quote supports the 3.5 C figure exactly, but the row's link to agricultural impact is contextual rather than measured.",
   "source_badge": "Official",
   "claim_key": "EU|mixed_grains|2026|temperature_anomaly|3.5|up",
   "series_key": "EU|central and western europe|mixed_grains|temperature_anomaly|Munich Re",

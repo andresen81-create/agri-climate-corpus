@@ -34,6 +34,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|great plains|winter_wheat|production|USDA NASS"
  },
  {
@@ -65,6 +67,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|great plains|winter_wheat|abandonment_rate|USDA NASS"
  },
  {
@@ -96,6 +100,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|hard red winter belt|winter_wheat|production|USDA ERS"
  },
  {
@@ -127,6 +133,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|united states winter wheat belt|winter_wheat|condition_good_excellent|USDA ERS"
  },
  {
@@ -155,6 +163,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-06-28",
   "month": "2026-06",
   "companies": [],
@@ -189,6 +199,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|california|rice|temperature_anomaly|USDA ERS"
  },
  {
@@ -220,6 +232,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|iowa — washington and monroe counties|maize|rainfall_in|Iowa State University Extension"
  },
  {
@@ -251,6 +265,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "AU|australia|mixed_grains|production|ABARES"
  },
  {
@@ -293,6 +309,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "AU|australia|wheat|production|ABARES"
  },
  {
@@ -330,6 +348,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "AU|australia|oilseed_rape|production|Grain Central"
  },
  {
@@ -361,6 +381,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "AU|queensland|mixed_grains|production|ABARES"
  },
  {
@@ -392,6 +414,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "AU|new south wales|mixed_grains|production|ABARES"
  },
  {
@@ -423,6 +447,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "AU|western australia|mixed_grains|production|ABARES"
  },
  {
@@ -457,6 +483,8 @@
   ],
   "corroboration_count": 2,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-05-31",
   "month": "2026-05",
   "companies": [],
@@ -488,6 +516,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-06-22",
   "month": "2026-06",
   "companies": [],
@@ -522,6 +552,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|england|oilseed_rape|condition_good_excellent|FarmingUK"
  },
  {
@@ -553,6 +585,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|england — cam and ely ouse|spring_barley|reservoir_fill|Environment Agency"
  },
  {
@@ -584,6 +618,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|eastern england|winter_barley|grain_moisture|Farmers Weekly"
  },
  {
@@ -615,6 +651,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|elveden estate|winter_barley|yield|Farmers Weekly"
  },
  {
@@ -646,6 +684,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|hawk mill farms|oilseed_rape|grain_moisture|Farmers Weekly"
  },
  {
@@ -683,6 +723,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "FR|france|maize|condition_good_excellent|AHDB"
  },
  {
@@ -714,6 +756,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|eu-27|wheat|production|AHDB"
  },
  {
@@ -745,6 +789,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "FR|euronext paris|oilseed_rape|futures_price|AHDB"
  },
  {
@@ -776,6 +822,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|united kingdom / us midwest|wheat|futures_price|AHDB"
  },
  {
@@ -815,6 +863,8 @@
   ],
   "corroboration_count": 3,
   "review_flag": "original blocks automated fetch; quote verified via syndicated reposts",
+  "flag_status": "caveated",
+  "flag_note": "original blocks automated fetch; quote verified via syndicated reposts",
   "event_date": "2026-06",
   "month": "2026-06",
   "companies": [],
@@ -849,6 +899,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|western|mixed_grains|na|European Commission JRC"
  },
  {
@@ -874,6 +926,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "HU|southern czechia|mixed_grains|na|European Commission JRC"
  },
  {
@@ -899,6 +953,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|main eu rice regions|rice|na|European Commission JRC"
  },
  {
@@ -924,6 +980,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "UA|western ukraine|oilseed_rape|na|European Commission JRC"
  },
  {
@@ -955,6 +1013,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "FR|champagne|grapes_wine|crop_damage_pct|The Drinks Business"
  },
  {
@@ -986,6 +1046,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|virginia|grapes_wine|crop_damage_pct|The Drinks Business"
  },
  {
@@ -1017,6 +1079,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "IN|all-india|mixed_grains|planted_area|Business Standard"
  },
  {
@@ -1048,6 +1112,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "IN|all-india|mixed_grains|rainfall_pct_normal|Down To Earth"
  },
  {
@@ -1076,6 +1142,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-06",
   "month": "2026-06",
   "companies": [],
@@ -1110,6 +1178,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "BR|maranhão|rice|yield|CONAB"
  },
  {
@@ -1141,6 +1211,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "BR|piauí|rice|planted_area|CONAB"
  },
  {
@@ -1175,6 +1247,8 @@
   ],
   "corroboration_count": 2,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-06",
   "month": "2026-06",
   "companies": [],
@@ -1209,6 +1283,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "BR|minas gerais|coffee|rainfall_pct_normal|Barchart"
  },
  {
@@ -1237,6 +1313,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-06",
   "month": "2026-06",
   "companies": [],
@@ -1268,6 +1346,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": "primary driver is disease (citrus greening), not a weather extreme — borderline against capture bar",
+  "flag_status": "caveated",
+  "flag_note": "primary driver is disease (citrus greening), not a weather extreme — borderline against capture bar",
   "event_date": "2026-06",
   "month": "2026-06",
   "companies": [],
@@ -1303,6 +1383,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-06-24",
   "month": "2026-06",
   "series_key": "CI|west africa|cocoa|futures_price|CocoaIntel"
@@ -1344,6 +1426,8 @@
   "event_date": "2026-06",
   "month": "2026-06",
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "CI|côte d'ivoire|cocoa|export_volume|CNBC Africa"
  },
  {
@@ -1367,6 +1451,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "month": "2026-06",
   "companies": [],
   "series_key": "CI|abengourou|cocoa|na|The Voice of Africa"
@@ -1400,6 +1486,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "ZA|free state and north west provinces|maize|deliveries|IOL Business Report"
  },
  {
@@ -1431,6 +1519,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "ZA|southern africa — south africa|maize|production|European Commission JRC"
  },
  {
@@ -1456,6 +1546,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GT|central america|maize|na|European Commission JRC"
  },
  {
@@ -1487,6 +1579,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "SO|bay region and major sorghum-producing areas|sorghum|yield|GEOGLAM Crop Monitor"
  },
  {
@@ -1518,6 +1612,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "ET|eastern amhara|sorghum|yield|GEOGLAM Crop Monitor"
  },
  {
@@ -1549,6 +1645,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "SO|somalia|livestock|rainfall_pct_normal|FEWS NET"
  },
  {
@@ -1574,6 +1672,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "SO|east africa — somalia|maize|na|GEOGLAM Crop Monitor"
  },
  {
@@ -1605,6 +1705,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "BD|north-eastern haor|rice|damaged_area|GEOGLAM Crop Monitor"
  },
  {
@@ -1630,6 +1732,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "KE|mombasa and kwale counties|mixed_grains|na|GEOGLAM Crop Monitor"
  },
  {
@@ -1655,6 +1759,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "PK|punjab|wheat|na|USDA ERS"
  },
  {
@@ -1686,6 +1792,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "PK|punjab — kot addu|mango|crop_damage_pct|Pakistan Today"
  },
  {
@@ -1717,6 +1825,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "CN|china wheat belt|wheat|damaged_area|Frontier Agriculture"
  },
  {
@@ -1745,6 +1855,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "event_date": "2026-06-25",
   "month": "2026-06",
   "companies": [],
@@ -1771,6 +1883,8 @@
   "corroborations": [],
   "corroboration_count": 1,
   "review_flag": "borderline — forward-looking risk framing with no named place/figure; sits close to the capture-bar exclusion",
+  "flag_status": "caveated",
+  "flag_note": "borderline — forward-looking risk framing with no named place/figure; sits close to the capture-bar exclusion",
   "month": "2026-06",
   "companies": [],
   "series_key": "GLOBAL|global|potato|na|PotatoPro"
@@ -1798,6 +1912,8 @@
   "month": "2026-06",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "CA|canadian prairies and eastern canada|spring_wheat|na|GEOGLAM Crop Monitor"
  },
  {
@@ -1824,6 +1940,8 @@
   "corroboration_count": 3,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "EU grain maize and sunflower yield forecasts cut 6-7% after repeated heatwaves",
   "month": "2026-07",
@@ -1855,6 +1973,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "EU winter crop yields revised down 1-4%; total cereals 1% below five-year average",
   "month": "2026-07",
@@ -1886,6 +2006,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "June heatwave knocks EUR 2 billion off European harvest prospects",
   "month": "2026-07",
@@ -1917,6 +2039,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "European harvest forecast 9 million tonnes smaller than expected in June",
   "month": "2026-07",
@@ -1948,6 +2072,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "French maize production forecast cut by 3.4 million tonnes; grain losses worth EUR 891m",
   "month": "2026-07",
@@ -1979,6 +2105,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "COCERAL cuts EU maize forecast to 52.7 Mt in extraordinary out-of-cycle release",
   "month": "2026-07",
@@ -2011,6 +2139,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "COCERAL cuts EU soft wheat forecast to 140.8 Mt",
   "month": "2026-07",
@@ -2043,6 +2173,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "French maize rated 38% good or excellent by 20 July, against 69% a year earlier",
   "month": "2026-07",
@@ -2074,6 +2206,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "French maize ratings plunge to 13-year low at 58% good/excellent",
   "month": "2026-07",
@@ -2105,6 +2239,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Argus field survey puts French soft wheat at 30.80 Mt, down 7.6% on 2025",
   "month": "2026-07",
@@ -2136,6 +2272,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Argus estimates French soft wheat yield at 6.67 t/ha, 6.5% below the 10-year average",
   "month": "2026-07",
@@ -2167,6 +2305,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Expana projects French maize at 8.9 Mt, a third below 2025, as farmers fear a repeat of 1976",
   "month": "2026-07",
@@ -2199,6 +2339,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Drought threatens French sugar beet; EU 2026/27 sugar output pegged at 14.13 Mt, down 15%",
   "month": "2026-07",
@@ -2230,6 +2372,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": "syndicated via aggregator; original is DRV",
+  "flag_status": "caveated",
+  "flag_note": "syndicated via aggregator; original is DRV",
   "corroborations": [],
   "summary": "German winter wheat forecast cut to 22.57 Mt, down 11.7%, after heat cut grain numbers and size",
   "month": "2026-07",
@@ -2262,6 +2406,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.dtnpf.com/agriculture/web/ag/news/article/2026/08/12/usda-releases-august-crop-production-4",
@@ -2299,6 +2445,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "US winter wheat yield forecast at 46.7 bu/acre, lowest since 2015",
   "month": "2026-07",
@@ -2330,6 +2478,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": "UNRESOLVED, DELIBERATELY NOT GUESSED. Filed as condition_good_excellent=93 with a quote fragment reading '93 percent very poor to poor' - opposite meanings from the same number. Nebraska sat outside the 2026 Southern Plains drought belt (Kansas 33 bu/ac, Oklahoma 28), which argues for good-to-excellent; but Nebraska corn was down 12.8% year on year and the companion rangeland figure argues for very-poor-to-poor. Re-verification against crop0726.pdf was attempted and did not settle it. Set is_quantified false so the number cannot join a chart under an unconfirmed assumption. Also note the quote is a fragment, not a sentence. A human should read the source and either restore it as condition_good_excellent or add a condition_very_poor_poor metric to the vocabulary - there is no inverse-condition metric today, which is the underlying schema gap.",
+  "flag_status": "unverified",
+  "flag_note": "UNRESOLVED, DELIBERATELY NOT GUESSED. Filed as condition_good_excellent=93 with a quote fragment reading '93 percent very poor to poor' - opposite meanings from the same number. Nebraska sat outside the 2026 Southern Plains drought belt (Kansas 33 bu/ac, Oklahoma 28), which argues for good-to-excellent; but Nebraska corn was down 12.8% year on year and the companion rangeland figure argues for very-poor-to-poor. Re-verification against crop0726.pdf was attempted and did not settle it. Set is_quantified false so the number cannot join a chart under an unconfirmed assumption. Also note the quote is a fragment, not a sentence. A human should read the source and either restore it as condition_good_excellent or add a condition_very_poor_poor metric to the vocabulary - there is no inverse-condition metric today, which is the underlying schema gap.",
   "corroborations": [],
   "summary": "Nebraska winter wheat reported at 93% and rangeland at 66% in the July USDA Crop Production release. WITHDRAWN AS A MEASUREMENT: the row was filed as 93% good-to-excellent while its own summary and quote fragment read 'very poor to poor', which are opposite meanings, and neither reading could be confirmed against the source. The figure is preserved here and in the quote; it carries no metric until a human resolves it.",
   "month": "2026-07",
@@ -2361,6 +2511,8 @@
   "corroboration_count": 3,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "US corn falls to 63% good-to-excellent, biggest late-July weekly drop in nearly two decades",
   "month": "2026-07",
@@ -2392,6 +2544,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "US spring wheat at 58% good-to-excellent, 18 points behind prior year",
   "month": "2026-07",
@@ -2423,6 +2577,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Kansas wheat harvest yields 7-35 bu/acre in Sherman County after drought, freeze and hail",
   "month": "2026-07",
@@ -2454,6 +2610,8 @@
   "corroboration_count": 4,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.fwi.co.uk/arable/harvest/report-shows-wheat-yields-below-average-on-90-of-farms",
@@ -2491,6 +2649,8 @@
   "corroboration_count": 3,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "POSITIVE: UK oilseed rape 3.9 t/ha, 17% above the five-year average",
   "month": "2026-07",
@@ -2522,6 +2682,8 @@
   "corroboration_count": 3,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.fwi.co.uk/arable/harvest/report-shows-wheat-yields-below-average-on-90-of-farms",
@@ -2564,6 +2726,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "England receives just 7% of average July rainfall, on track for driest July since 1836",
   "month": "2026-07",
@@ -2595,6 +2759,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "English reservoir storage falls to 72%; seven areas move to drought status",
   "month": "2026-07",
@@ -2626,6 +2792,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "English reservoir storage at 75.3%; livestock farmers begin using winter forage reserves",
   "month": "2026-07",
@@ -2657,6 +2825,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "England at 3% of average July rainfall to 16 July; spring barley yields expected to be hit",
   "month": "2026-07",
@@ -2688,6 +2858,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "NFU reports 1,506 abstraction licence restrictions; East Anglian irrigators forced to stop taking river water",
   "month": "2026-07",
@@ -2719,6 +2891,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Devon grower Jeremy Oatey reports crisping potato yields at 80-85% of normal across 242ha",
   "month": "2026-07",
@@ -2750,6 +2924,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": "secondary source citing AHDB",
+  "flag_status": "caveated",
+  "flag_note": "secondary source citing AHDB",
   "corroborations": [],
   "summary": "AHDB estimates GB milk production down 18.5 million litres after May and June heatwaves",
   "month": "2026-07",
@@ -2782,6 +2958,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": "primarily price-driven; heat is a secondary risk factor",
+  "flag_status": "caveated",
+  "flag_note": "primarily price-driven; heat is a secondary risk factor",
   "corroborations": [],
   "summary": "NEPG: NW European ware potato area falls 11% to 536,900 ha; Belgium -16.6%, Netherlands -15.1%",
   "month": "2026-07",
@@ -2813,6 +2991,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.potatonewstoday.com/2026/08/13/drought-pressure-spreads-across-north-west-europes-potato-belt/",
@@ -2850,6 +3030,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "POSITIVE: CONAB raises Brazil soybeans to 180.6 Mt; total grain a record 360.1 Mt",
   "month": "2026-07",
@@ -2881,6 +3063,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Abic warns El Niño could cut Brazil's coffee crop 15-20% from 66.7 million bags",
   "month": "2026-07",
@@ -2912,6 +3096,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Ivorian cocoa output seen falling to 1.7-1.8 Mt as El Niño fears push cocoa to six-month highs",
   "month": "2026-07",
@@ -2943,6 +3129,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.cnbcafrica.com/2026/ghanas-cocoa-production-is-expected-to-fall-16-next-season",
@@ -2980,6 +3168,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Paddy sown on 11.47 million ha by 10 July, 1.08 million ha below last year; 397 of 741 districts rainfall-deficient",
   "month": "2026-07",
@@ -3011,6 +3201,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Monsoon revival narrows India's deficit to 16%, but summer-sown area still 78.7 million ha vs 82.6 million",
   "month": "2026-07",
@@ -3042,6 +3234,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Indian maize planted area down 9.7% to 7.8 million ha, sharpest fall among major kharif crops",
   "month": "2026-07",
@@ -3073,6 +3267,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "MPOB projects 2-4% fall in Malaysian palm oil output from Q4 as El Niño peaks",
   "month": "2026-07",
@@ -3104,6 +3300,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "BMKG: 86% of Indonesia forecast below-normal rainfall in August, rising to 87.6% in September",
   "month": "2026-07",
@@ -3135,6 +3333,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Vietnam warns severe El Niño may affect rice across 350,000 hectares; Thai prices at 18-month high",
   "month": "2026-07",
@@ -3166,6 +3366,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "GEOGLAM: 30-50% of Lesotho potato and bean crops lost to waterlogging and flooding",
   "month": "2026-07",
@@ -3197,6 +3399,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "GEOGLAM: an estimated 85% of irrigation systems non-functional in flood-affected Syrian areas",
   "month": "2026-07",
@@ -3228,6 +3432,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "GEOGLAM downgrades Kenya to watch; western Kenya rainfall 30-60% of average under El Niño",
   "month": "2026-07",
@@ -3259,6 +3465,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Bangladesh monsoon rains damage 1.34 lakh tonnes of crops across 24,138 hectares",
   "month": "2026-07",
@@ -3290,6 +3498,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "FEWS NET: Zimbabwe maize prices 0.34-0.57 USD/kg in deficit districts against 0.22 in surplus areas",
   "month": "2026-07",
@@ -3321,6 +3531,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "GIWA forecasts a 22.7 Mt Western Australian crop with 20% variability; drier, hotter spring signal strengthening",
   "month": "2026-07",
@@ -3352,6 +3564,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Dry week lifts Australian feedgrain prices; Downs barley to A$400/t",
   "month": "2026-07",
@@ -3386,6 +3600,8 @@
    "British Sugar"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "ABF guides Sugar to a GBP 25-60m adjusted operating loss, citing unseasonal weather",
   "month": "2026-07",
@@ -3419,6 +3635,8 @@
    "Lamb Weston"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "POSITIVE: Lamb Weston says NA and EU potato crop years off to a favourable start; takes $33.1m potato write-off",
   "month": "2026-07",
@@ -3452,6 +3670,8 @@
    "Barry Callebaut"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Barry Callebaut reports average cocoa bean prices down 47%; strong West African main crop arrivals",
   "month": "2026-07",
@@ -3485,6 +3705,8 @@
    "Lindt & Sprüngli"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Lindt growth slows to 4.3% as cocoa-cost-driven price rises weigh on volumes",
   "month": "2026-07",
@@ -3518,6 +3740,8 @@
    "Mondelez International"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Mondelez flags historically high cocoa surplus and notes an unusual heatwave hurt European chocolate consumption",
   "month": "2026-07",
@@ -3552,6 +3776,8 @@
    "Munich Re"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Munich Re puts H1 insured natural catastrophe losses at $44bn, flagging weak Indian monsoon and El Niño drought risk",
   "month": "2026-07",
@@ -3583,6 +3809,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Frost forecasts trigger coffee rally: NY arabica up over 16%, London robusta nearly 9%",
   "month": "2026-07",
@@ -3614,6 +3842,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Hail and windstorm devastate cotton, maize and walnut orchards around Alexandroupoli",
   "month": "2026-07",
@@ -3645,6 +3875,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Nigerian flooding sweeps away three of seven sections of a Lagos vegetable farm; corn harvest cut from 1.2t to 650kg",
   "month": "2026-07",
@@ -3676,6 +3908,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://texasagriculture.texasfarmbureau.org/articles/farmers-ranchers-begin-recovery-after-devastating-july-floods",
@@ -3713,6 +3947,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "POSITIVE: July WASDE raises Russian and Ukrainian wheat on continued favourable winter wheat conditions",
   "month": "2026-07",
@@ -3744,6 +3980,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "July WASDE: record heat cuts French wheat to potentially the lowest in more than three decades",
   "month": "2026-07",
@@ -3787,6 +4025,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|united kingdom|spring_barley|yield|AHDB"
  },
  {
@@ -3819,6 +4059,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|united kingdom|oats|yield|AHDB"
  },
  {
@@ -3851,6 +4093,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "HU|hungary and western romania|mixed_grains|na|European Commission JRC (MARS)"
  },
  {
@@ -3883,6 +4127,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "IT|northern and central italy|maize|na|European Commission JRC (MARS)"
  },
  {
@@ -3915,6 +4161,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "IT|northern italy, slovenia, croatia and germany|mixed_grains|na|European Commission JRC (MARS)"
  },
  {
@@ -3947,6 +4195,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "PL|north-eastern poland, western latvia and western lithuania|mixed_grains|na|European Commission JRC (MARS)"
  },
  {
@@ -3979,6 +4229,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "ES|castilla y león|winter_wheat|na|European Commission JRC (MARS)"
  },
  {
@@ -4017,6 +4269,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": "decline attributed jointly to El Niño and excess May-June rain, the cocoa tree's alternating bearing cycle, swollen shoot disease, ageing farms and illegal gold mining — weather is one of several drivers, so the 16% is not cleanly weather-attributable",
+  "flag_status": "caveated",
+  "flag_note": "decline attributed jointly to El Niño and excess May-June rain, the cocoa tree's alternating bearing cycle, swollen shoot disease, ageing farms and illegal gold mining — weather is one of several drivers, so the 16% is not cleanly weather-attributable",
   "series_key": "GH|western and western north regions|cocoa|production|Reuters"
  },
  {
@@ -4043,6 +4297,8 @@
   "corroboration_count": 5,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.fwi.co.uk/news/weather/drought-could-cost-arable-farmers-390m-in-lost-revenue",
@@ -4080,6 +4336,8 @@
   "corroboration_count": 5,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://eciu.net/media/press-releases/uk-harvest-on-track-for-historic-lows-after-drought-and-heatwaves-desiccate-crops-new-analysis",
@@ -4117,6 +4375,8 @@
   "corroboration_count": 3,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "UK wheat yield at 6.8 t/ha against a ten-year average of 7.9 t/ha, with 54% of the crop cut",
   "month": "2026-08",
@@ -4148,6 +4408,8 @@
   "corroboration_count": 3,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.fwi.co.uk/arable/harvest/report-shows-wheat-yields-below-average-on-90-of-farms",
@@ -4195,6 +4457,8 @@
    "Aldi"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.grocerygazette.co.uk/2026/08/04/uk-potato-crop-faces-heatwave-squeeze-as-wholesale-prices-surge-40/",
@@ -4241,6 +4505,8 @@
    "Fen Peas"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.grocerygazette.co.uk/2026/08/04/uk-potato-crop-faces-heatwave-squeeze-as-wholesale-prices-surge-40/",
@@ -4279,6 +4545,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.grocerygazette.co.uk/2026/08/04/uk-potato-crop-faces-heatwave-squeeze-as-wholesale-prices-surge-40/",
@@ -4318,6 +4586,8 @@
    "3Ms"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.grocerygazette.co.uk/2026/08/04/uk-potato-crop-faces-heatwave-squeeze-as-wholesale-prices-surge-40/",
@@ -4357,6 +4627,8 @@
    "Dewing Grain"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Dewing Grain reports Norfolk spring barley yields 30% down and wheat 20% down",
   "month": "2026-08",
@@ -4390,6 +4662,8 @@
    "Harlow Ag Merchants"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Harlow Ag Merchants report wheat yields down 15-19% across Herts and Essex, though quality is strong",
   "month": "2026-08",
@@ -4421,6 +4695,8 @@
   "corroboration_count": 3,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.fwi.co.uk/arable/harvest/harvest-2026-promising-yields-in-yorks-and-on-lincs-coast",
@@ -4458,6 +4734,8 @@
   "corroboration_count": 3,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.fwi.co.uk/arable/harvest/harvest-2026-promising-yields-in-yorks-and-on-lincs-coast",
@@ -4495,6 +4773,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "POSITIVE: Edrington Mains Farm, Scottish Borders reports OSR at 5.3-5.8 t/ha",
   "month": "2026-08",
@@ -4526,6 +4806,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": "Figure and baseline both verified against the source. Attribution caveat, not a data fault: the source attributes the jump from 1.97 to 4.7 t/ha to the absence of cabbage stem flea beetle, a pest, not to weather - 'Last year cabbage stem flea beetle decimated the crop; we averaged about 1.97t/ha.' Kept as a positive row with attribution downgraded to unattributed.",
+  "flag_status": "caveated",
+  "flag_note": "Figure and baseline both verified against the source. Attribution caveat, not a data fault: the source attributes the jump from 1.97 to 4.7 t/ha to the absence of cabbage stem flea beetle, a pest, not to weather - 'Last year cabbage stem flea beetle decimated the crop; we averaged about 1.97t/ha.' Kept as a positive row with attribution downgraded to unattributed.",
   "corroborations": [
    {
     "url": "https://www.fwi.co.uk/arable/harvest/harvest-2026-promising-yields-in-yorks-and-on-lincs-coast",
@@ -4563,6 +4845,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "ECIU: GB grass growth 46% below the 2019-24 average in the week to 31 July; season projected at 81% of average",
   "month": "2026-08",
@@ -4594,6 +4878,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "NFU Dairy Board: 18.5m litres wiped off UK milk yields as drought restricts grass growth",
   "month": "2026-08",
@@ -4625,6 +4911,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.gov.uk/government/publications/dry-weather-and-drought-in-england-2026-summary-reports/dry-weather-and-drought-in-england-24-to-30-july-2026",
@@ -4662,6 +4950,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "ICMSA reports 100mm soil moisture deficit; Carlow grass growth down to 13kg DM/ha/day",
   "month": "2026-08",
@@ -4693,6 +4983,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Irish grass growth falls to 17kg DM/ha in Leinster, 30kg national average, forcing fodder budgeting",
   "month": "2026-08",
@@ -4724,6 +5016,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Nov-26 UK feed wheat futures fall to £196.50/t despite the drought-hit domestic harvest",
   "month": "2026-08",
@@ -4755,6 +5049,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "French maize falls to 34% good or excellent, against 69% a year earlier",
   "month": "2026-08",
@@ -4786,6 +5082,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "French agriculture ministry forecasts a 9 Mt maize harvest, down 35% — the lowest since 1980",
   "month": "2026-08",
@@ -4818,6 +5116,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Polish winter wheat forecast down 11% to 11.6 Mt after frost, heat, storms and hail",
   "month": "2026-08",
@@ -4849,6 +5149,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "European Commission cuts 2026/27 EU soft wheat forecast to 124.4 Mt",
   "month": "2026-08",
@@ -4880,6 +5182,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "South German beet growers expect sugar output a third below last year — the lowest since reunification",
   "month": "2026-08",
@@ -4911,6 +5215,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "NFU Beet Brief: UK spot sugar around EUR 560/t as August rainfall becomes critical for the bulking crop",
   "month": "2026-08",
@@ -4942,6 +5248,8 @@
   "corroboration_count": 3,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://www.dtnpf.com/agriculture/web/ag/news/article/2026/08/10/usda-crop-progress-corn-rated-61-62",
@@ -4979,6 +5287,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "POSITIVE: US spring wheat improves to 55% good-to-excellent; Montana ratings jump 12 points",
   "month": "2026-08",
@@ -5010,6 +5320,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "US spring wheat acreage in drought surges 16 points to 58%; durum acres in drought jump to 49%",
   "month": "2026-08",
@@ -5043,6 +5355,8 @@
    "StoneX"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "POSITIVE: Midwest rain eases heat stress; StoneX raises US corn yield call to 184.8 bu/acre",
   "month": "2026-08",
@@ -5074,6 +5388,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Arabica trades around 331c/lb, supported by dry weather in Minas Gerais threatening flowering",
   "month": "2026-08",
@@ -5105,6 +5421,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "India kharif sowing down nearly 39 lakh hectares to end-July amid a deficient monsoon",
   "month": "2026-08",
@@ -5136,6 +5454,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "GEOGLAM: extreme heat and dryness cut EU maize yields, most notably in Czechia, France, Germany and Slovakia",
   "month": "2026-08",
@@ -5167,6 +5487,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/heatwaves-impact-summer-and-winter-crops-2026-07-27_en",
@@ -5204,6 +5526,8 @@
   "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [
    {
     "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/heatwaves-impact-summer-and-winter-crops-2026-07-27_en",
@@ -5243,6 +5567,8 @@
    "AGCO"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "AGCO cites persistent European heat and drought behind a more measured farm machinery demand environment",
   "month": "2026-08",
@@ -5274,6 +5600,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "corroborations": [],
   "summary": "Reuters: Britain heads for worst cereal harvest in four decades; four of the five worst have come this decade",
   "month": "2026-08",
@@ -5311,6 +5639,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|eu-27|maize|production|AHDB"
  },
  {
@@ -5343,6 +5673,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|eu-27|barley|production|AHDB"
  },
  {
@@ -5375,6 +5707,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "FR|paris (euronext)|oilseed_rape|futures_price|AHDB"
  },
  {
@@ -5407,6 +5741,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "CA|canadian prairies|oilseed_rape|na|AHDB"
  },
  {
@@ -5439,6 +5775,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|midwest|soybean|na|AHDB"
  },
  {
@@ -5471,6 +5809,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|midwest / corn belt|soybean|condition_good_excellent|DTN"
  },
  {
@@ -5503,6 +5843,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|north dakota|maize|condition_good_excellent|DTN"
  },
  {
@@ -5535,6 +5877,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|montana|spring_wheat|condition_good_excellent|DTN"
  },
  {
@@ -5567,6 +5911,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|united states|winter_wheat|harvested_area|DTN"
  },
  {
@@ -5599,6 +5945,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "BR|minas gerais|coffee|rainfall_mm|Barchart"
  },
  {
@@ -5631,6 +5979,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "BR|minas gerais|coffee|harvested_area|Barchart"
  },
  {
@@ -5663,6 +6013,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": "CONFLICT with a031 — Czapp reports Brazilian coffee futures UP on the same published date (2026-08-03) on weather grounds, while Barchart reports September arabica DOWN 3.04% on weather grounds; different contracts and units, not reconciled",
+  "flag_status": "contested",
+  "flag_note": "CONFLICT with a031 — Czapp reports Brazilian coffee futures UP on the same published date (2026-08-03) on weather grounds, while Barchart reports September arabica DOWN 3.04% on weather grounds; different contracts and units, not reconciled",
   "series_key": "BR|ice arabica (global benchmark)|coffee|futures_price|Barchart"
  },
  {
@@ -5698,6 +6050,8 @@
    "Aldi"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|england|field_veg|spot_price|Grocery Gazette"
  },
  {
@@ -5730,6 +6084,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|england|mixed_grains|damaged_area|Environment Agency"
  },
  {
@@ -5762,6 +6118,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "ES|spain|mixed_grains|production|eComercio Agrario"
  },
  {
@@ -5794,6 +6152,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "ES|spain|wheat|production|eComercio Agrario"
  },
  {
@@ -5826,6 +6186,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "ES|spain|mixed_grains|yield|eComercio Agrario"
  },
  {
@@ -5858,6 +6220,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "ES|spain|mixed_grains|temperature_anomaly|eComercio Agrario"
  },
  {
@@ -5890,6 +6254,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "ES|spain|mixed_grains|rainfall_pct_normal|eComercio Agrario"
  },
  {
@@ -5922,6 +6288,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|eu and uk|mixed_grains|production|World Grain"
  },
  {
@@ -5954,6 +6322,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": "CONFLICT of scope with w002 — the European Commission's 30 July balance sheet puts EU 2026/27 barley at 51.1 Mt while COCERAL puts EU+UK 2026 barley at 57.6 Mt. The two are not directly comparable (EU vs EU+UK, marketing year vs calendar crop year) and neither is treated as superseding the other",
+  "flag_status": "contested",
+  "flag_note": "CONFLICT of scope with w002 — the European Commission's 30 July balance sheet puts EU 2026/27 barley at 51.1 Mt while COCERAL puts EU+UK 2026 barley at 57.6 Mt. The two are not directly comparable (EU vs EU+UK, marketing year vs calendar crop year) and neither is treated as superseding the other",
   "series_key": "EU|eu and uk|barley|production|World Grain"
  },
  {
@@ -5986,6 +6356,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|eu and uk|oilseed_rape|production|World Grain"
  },
  {
@@ -6018,6 +6390,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": "CONFLICT with a022 — RFI (2026-08-08) reports the French 2026 maize crop at 9 Mt while COCERAL (2026-07-10) has 9.4 Mt. A month apart and close in magnitude; both retained",
+  "flag_status": "contested",
+  "flag_note": "CONFLICT with a022 — RFI (2026-08-08) reports the French 2026 maize crop at 9 Mt while COCERAL (2026-07-10) has 9.4 Mt. A month apart and close in magnitude; both retained",
   "series_key": "FR|france|maize|production|World Grain"
  },
  {
@@ -6050,6 +6424,8 @@
   "month": "2026-07",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|eu and uk|oilseed_rape|planted_area|World Grain"
  },
  {
@@ -6082,6 +6458,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": "QUOTE IS THE HEADLINE, NOT BODY TEXT — the exact sentence carrying the figure could only be verified in the article title. The figures are unambiguous in that title but the row should be re-cited against a Buenos Aires Grain Exchange or badge-mapped copy when one becomes reachable",
+  "flag_status": "caveated",
+  "flag_note": "QUOTE IS THE HEADLINE, NOT BODY TEXT — the exact sentence carrying the figure could only be verified in the article title. The figures are unambiguous in that title but the row should be re-cited against a Buenos Aires Grain Exchange or badge-mapped copy when one becomes reachable",
   "series_key": "AR|argentina|wheat|production|MarketScreener"
  },
  {
@@ -6114,6 +6492,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|lincolnshire|winter_barley|yield|Farmers Weekly"
  },
  {
@@ -6146,6 +6526,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|north yorkshire|winter_barley|yield|Farmers Weekly"
  },
  {
@@ -6178,6 +6560,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|east yorkshire|winter_wheat|yield|Farmers Weekly"
  },
  {
@@ -6210,6 +6594,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|gloucestershire|winter_barley|yield|Farmers Weekly"
  },
  {
@@ -6242,6 +6628,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|lincolnshire|oilseed_rape|yield|Farmers Weekly"
  },
  {
@@ -6274,6 +6662,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|east yorkshire|oats|yield|Farmers Weekly"
  },
  {
@@ -6306,6 +6696,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": "conflict: a032 (ThePrint, 2026-08-06) and j038 (Reuters, 2026-07-28) report 78.7 Mha for the same end-July ministry series; a ~10.7 Mha gap is unresolved",
+  "flag_status": "contested",
+  "flag_note": "conflict: a032 (ThePrint, 2026-08-06) and j038 (Reuters, 2026-07-28) report 78.7 Mha for the same end-July ministry series; a ~10.7 Mha gap is unresolved",
   "series_key": "IN|india (national)|mixed_grains|planted_area|Down To Earth"
  },
  {
@@ -6338,6 +6730,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": null
  },
  {
@@ -6370,6 +6764,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "IN|india (national)|rice|planted_area|Down To Earth"
  },
  {
@@ -6402,6 +6798,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "IN|india (national)|maize|planted_area|Down To Earth"
  },
  {
@@ -6434,6 +6832,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "IN|india (national)|sugar|planted_area|Down To Earth"
  },
  {
@@ -6466,6 +6866,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "IN|india (national)|mixed_grains|rainfall_pct_normal|Down To Earth"
  },
  {
@@ -6498,6 +6900,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "IN|india (national)|mixed_grains|forecast_rainfall_pct|Down To Earth"
  },
  {
@@ -6530,6 +6934,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": null
  },
  {
@@ -6562,6 +6968,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": null
  },
  {
@@ -6594,6 +7002,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": "counting-basis caveat stated by the source: rain-gauge network expanded in 2026, so the event counts are not comparable with prior years",
+  "flag_status": "caveated",
+  "flag_note": "counting-basis caveat stated by the source: rain-gauge network expanded in 2026, so the event counts are not comparable with prior years",
   "series_key": null
  },
  {
@@ -6621,6 +7031,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "FR|maize|2026/27|production|10|down",
   "series_key": "FR|france|maize|production|USDA Foreign Agricultural Service",
@@ -6653,6 +7065,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "FR|maize|2026/27|yield|7.63|down",
   "series_key": "FR|france|maize|yield|USDA Foreign Agricultural Service",
@@ -6685,6 +7099,8 @@
   "attribution": "implied",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "FR|maize|2026/27|harvested_area|1.3|down",
   "series_key": "FR|france|maize|harvested_area|USDA Foreign Agricultural Service",
@@ -6717,6 +7133,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "EU|maize|2026/27|production|-11|down",
   "series_key": "EU|european union|maize|production|USDA Foreign Agricultural Service",
@@ -6749,6 +7167,8 @@
   "attribution": "enso_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "KE|maize|2026/27|production|3|down",
   "series_key": "KE|kenya|maize|production|USDA Foreign Agricultural Service",
@@ -6781,6 +7201,8 @@
   "attribution": "enso_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "ZA|maize|2025/26|production|18|up",
   "series_key": "ZA|south africa|maize|production|USDA Foreign Agricultural Service",
@@ -6813,6 +7235,8 @@
   "attribution": "enso_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "ZA|maize|2025/26|yield|5.78|up",
   "series_key": "ZA|south africa|maize|yield|USDA Foreign Agricultural Service",
@@ -6845,6 +7269,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "AR|maize|2025/26|production|63|up",
   "series_key": "AR|argentina|maize|production|USDA Foreign Agricultural Service",
@@ -6877,6 +7303,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "PK|maize|2025/26|yield|5.54|down",
   "series_key": "PK|punjab and sindh|maize|yield|USDA Foreign Agricultural Service",
@@ -6909,6 +7337,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "RU|wheat|2026/27|yield|3.53|up",
   "series_key": "RU|krasnodar and stavropol|wheat|yield|USDA Foreign Agricultural Service",
@@ -6941,6 +7371,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "BR|cotton|2026/27|yield|1960|up",
   "series_key": "BR|mato grosso and bahia|cotton|yield|USDA Foreign Agricultural Service",
@@ -6973,6 +7405,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "DE|mixed_grains|2026|temperature_anomaly|0.6|up",
   "series_key": "DE|mockern, eastern germany|mixed_grains|temperature_anomaly|Munich Re",
@@ -7005,6 +7439,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": "Climate-attribution figure, not a crop measurement. The quote supports the 3.5 C figure exactly, but the row's link to agricultural impact is contextual rather than measured.",
+  "flag_status": "caveated",
+  "flag_note": "Climate-attribution figure, not a crop measurement. The quote supports the 3.5 C figure exactly, but the row's link to agricultural impact is contextual rather than measured.",
   "source_badge": "Official",
   "claim_key": "EU|mixed_grains|2026|temperature_anomaly|3.5|up",
   "series_key": "EU|central and western europe|mixed_grains|temperature_anomaly|Munich Re",
@@ -7037,6 +7473,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "CN|mixed_grains|2026|rainfall_mm|400|up",
   "series_key": "CN|central and southern china|mixed_grains|rainfall_mm|Munich Re",
@@ -7069,6 +7507,8 @@
   "attribution": "enso_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "IN|mixed_grains|drought|food_security|2026-07-B",
   "series_key": null,
@@ -7101,6 +7541,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "GB|mixed_grains|2026 harvest|production|-2.5|down",
   "series_key": "GB|united kingdom (shortfall against earlier forecasts)|mixed_grains|production|ECIU",
@@ -7133,6 +7575,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Official",
   "claim_key": "GB|mixed_grains|2026 harvest|rainfall_pct_normal|38|down",
   "series_key": "GB|england|mixed_grains|rainfall_pct_normal|ECIU",
@@ -7165,6 +7609,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "US|livestock|2026|condition_good_excellent|3|down",
   "series_key": "US|colorado|livestock|condition_good_excellent|DTN",
@@ -7197,6 +7643,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "US|livestock|2026|condition_good_excellent|2|down",
   "series_key": "US|wyoming|livestock|condition_good_excellent|DTN",
@@ -7229,6 +7677,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "US|livestock|2026|condition_good_excellent|5|down",
   "series_key": "US|new mexico|livestock|condition_good_excellent|DTN",
@@ -7261,6 +7711,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "US|livestock|2026|condition_good_excellent|22|up",
   "series_key": "US|south dakota|livestock|condition_good_excellent|DTN",
@@ -7293,6 +7745,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "US|livestock|2026|condition_good_excellent|80|up",
   "series_key": "US|missouri|livestock|condition_good_excellent|DTN",
@@ -7325,6 +7779,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "GB|winter_wheat|drought|yield|2026-07-B",
   "series_key": null,
@@ -7357,6 +7813,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "GB|winter_barley|2026 harvest|harvested_area|95|up",
   "series_key": "GB|united kingdom|winter_barley|harvested_area|AHDB",
@@ -7389,6 +7847,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "GB|winter_wheat|2026 harvest|harvested_area|54|up",
   "series_key": "GB|united kingdom|winter_wheat|harvested_area|AHDB",
@@ -7421,6 +7881,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "GB|oilseed_rape|2026 harvest|harvested_area|73|up",
   "series_key": "GB|united kingdom|oilseed_rape|harvested_area|AHDB",
@@ -7453,6 +7915,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "GB|spring_barley|2026 harvest|harvested_area|8|up",
   "series_key": "GB|united kingdom|spring_barley|harvested_area|AHDB",
@@ -7485,6 +7949,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "GB|winter_wheat|drought|farmer_livelihood|2026-07-B",
   "series_key": null,
@@ -7517,6 +7983,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "GB|wheat|favourable|yield|2026-07-B",
   "series_key": null,
@@ -7549,6 +8017,8 @@
   "attribution": "implied",
   "companies": [],
   "review_flag": "Hazard attribution inferred from regional context, not stated for Cameroon. The source ties adverse West African weather to the 2026/27 outlook, not to this 2025/26 decline. Figure itself is exact and quoted.",
+  "flag_status": "caveated",
+  "flag_note": "Hazard attribution inferred from regional context, not stated for Cameroon. The source ties adverse West African weather to the 2026/27 outlook, not to this 2025/26 decline. Figure itself is exact and quoted.",
   "source_badge": "Trade",
   "claim_key": "CM|cocoa|2025/26|production|247914|down",
   "series_key": "CM|cameroon (national)|cocoa|production|CocoaIntel",
@@ -7581,6 +8051,8 @@
   "attribution": "implied",
   "companies": [],
   "review_flag": "Hazard attribution inferred from regional context, not stated for Cameroon. The source ties adverse West African weather to the 2026/27 outlook, not to this 2025/26 decline. Figure itself is exact and quoted.",
+  "flag_status": "caveated",
+  "flag_note": "Hazard attribution inferred from regional context, not stated for Cameroon. The source ties adverse West African weather to the 2026/27 outlook, not to this 2025/26 decline. Figure itself is exact and quoted.",
   "source_badge": "Trade",
   "claim_key": "CM|cocoa|2025/26|export_volume|125469|down",
   "series_key": "CM|cameroon (national)|cocoa|export_volume|CocoaIntel",
@@ -7613,6 +8085,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "GH|cocoa|flood|yield|2026-08-A",
   "series_key": null,
@@ -7645,6 +8119,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "CI|cocoa|flood|yield|2026-08-A",
   "series_key": null,
@@ -7677,6 +8153,8 @@
   "attribution": "implied",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "GLOBAL|cocoa|2026/27|futures_price|5776|down",
   "series_key": "GLOBAL|ice new york (september 2026 contract)|cocoa|futures_price|CocoaIntel",
@@ -7709,6 +8187,8 @@
   "attribution": "implied",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "BR|coffee|2026/27|spot_price|1473|up",
   "series_key": "BR|paraná|coffee|spot_price|CocoaIntel",
@@ -7741,6 +8221,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "BR|coffee|2026/27|harvested_area|77|up",
   "series_key": "BR|paraná|coffee|harvested_area|CocoaIntel",
@@ -7773,6 +8255,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "BR|coffee|storm|yield|2026-08-A",
   "series_key": null,
@@ -7805,6 +8289,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "US|mixed_grains|2026|rainfall_in|15|up",
   "series_key": "US|uvalde county, texas|mixed_grains|rainfall_in|Texas Farm Bureau",
@@ -7837,6 +8323,8 @@
   "attribution": "weather_explicit",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "source_badge": "Trade",
   "claim_key": "US|mixed_grains|flood|yield|2026-07-B",
   "series_key": null,
@@ -7868,6 +8356,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "id": "r001",
   "claim_key": "GB|mixed_grains|2026|reservoir_fill|69|down",
   "summary": "The Environment Agency's 31 July to 6 August drought report puts England reservoir storage at 69% for the week ending 4 August, down 3 percentage points in a week and 11.6% below the long-term average. Five reservoirs are now classed as exceptionally low, including Hanningfield and Wimbleball. Storage remains above the equivalent point in 2022 and 2025.",
@@ -7900,6 +8390,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": "Revises the agency's own earlier figure for the same month: j024 (published 2026-07-31) recorded 7% of average as an in-month projection; this is the completed-month figure at 10%. Both are Environment Agency, same metric, same event_date '2026-07'. Kept as two readings, not overwritten.",
+  "flag_status": "contested",
+  "flag_note": "Revises the agency's own earlier figure for the same month: j024 (published 2026-07-31) recorded 7% of average as an in-month projection; this is the completed-month figure at 10%. Both are Environment Agency, same metric, same event_date '2026-07'. Kept as two readings, not overwritten.",
   "id": "r002",
   "claim_key": "GB|mixed_grains|2026|rainfall_pct_normal|10|down",
   "summary": "The Environment Agency reports the Met Office July figure as final: England received 10% of the long-term average rainfall in July 2026, the driest July on record since 1836. Regional totals ranged from 25% of average in north-west England to 1% in the south-east. This revises upward the 7% 'on track' figure the agency published a week earlier (row j024).",
@@ -7932,6 +8424,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "id": "r003",
   "claim_key": "GB|mixed_grains|2026|damaged_area|1534|up",
   "summary": "Abstraction restrictions in England rose to 1,534 in the week to 6 August, from 1,395 a week earlier. The Environment Agency reports farm reservoirs remain low and river levels between below normal and exceptionally low across much of the country.",
@@ -7964,6 +8458,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "id": "r004",
   "claim_key": "GB|mixed_grains|2026|rainfall_pct_normal|4|down",
   "summary": "August has opened as dry as July closed. England received 4% of the long-term average rainfall in the first week of August, with no part of the country above 10%. It was the seventh consecutive week of under 10mm of rainfall across England, and east and south-east England received less than 1mm.",
@@ -7996,6 +8492,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "id": "r005",
   "claim_key": "GB|mixed_grains|drought|farmer_livelihood|2026-08-A",
   "summary": "The Environment Agency is imposing formal Section 57 abstraction restrictions on 302 abstractors in East Anglia, cutting most of them to half their licensed volume, to protect exceptionally low river flows. Formal restrictions may follow in the Wye catchment in the West Midlands later in August. This is the first move from voluntary hands-off-flow restrictions to statutory curtailment this season.",
@@ -8028,6 +8526,8 @@
   "corroboration_count": 1,
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "id": "r006",
   "claim_key": "GB|field_veg|favourable|yield|2026-08-A",
   "summary": "POSITIVE, and the only upside in the Environment Agency's agriculture section: berry producers recorded strong yields through the drought, and salad production finished two weeks earlier than usual rather than failing. The same section records reduced crop yields, poor grass growth and pressure on winter livestock forage stocks.",
@@ -8072,6 +8572,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|united kingdom|winter_wheat|yield|AHDB"
  },
  {
@@ -8110,6 +8612,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|united kingdom|spring_barley|yield|AHDB"
  },
  {
@@ -8148,6 +8652,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|united kingdom|oats|yield|AHDB"
  },
  {
@@ -8180,6 +8686,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|united kingdom|winter_wheat|harvested_area|AHDB"
  },
  {
@@ -8212,6 +8720,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|united kingdom|spring_barley|harvested_area|AHDB"
  },
  {
@@ -8244,6 +8754,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|united kingdom|winter_barley|harvested_area|AHDB"
  },
  {
@@ -8276,6 +8788,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|united kingdom|oats|harvested_area|AHDB"
  },
  {
@@ -8308,6 +8822,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|united kingdom|oilseed_rape|harvested_area|AHDB"
  },
  {
@@ -8340,6 +8856,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|england|mixed_grains|reservoir_fill|Environment Agency"
  },
  {
@@ -8372,6 +8890,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|england|mixed_grains|rainfall_pct_normal|Environment Agency"
  },
  {
@@ -8404,6 +8924,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|england|mixed_grains|damaged_area|Environment Agency"
  },
  {
@@ -8436,6 +8958,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": "Figure conflicts with r005 (302 abstractors, reported 2026-08-07); recorded as a revision, not resolved.",
+  "flag_status": "contested",
+  "flag_note": "Figure conflicts with r005 (302 abstractors, reported 2026-08-07); recorded as a revision, not resolved.",
   "series_key": "GB|england|mixed_grains|na|Environment Agency"
  },
  {
@@ -8468,6 +8992,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|england|mixed_grains|na|Environment Agency"
  },
  {
@@ -8500,6 +9026,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "GB|england|mixed_grains|na|Environment Agency"
  },
  {
@@ -8532,6 +9060,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|european union and united kingdom|mixed_grains|damaged_area|JRC"
  },
  {
@@ -8564,6 +9094,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|european union|mixed_grains|damaged_area|JRC"
  },
  {
@@ -8596,6 +9128,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": null
  },
  {
@@ -8634,6 +9168,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|united states|maize|yield|USDA NASS"
  },
  {
@@ -8672,6 +9208,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|united states|maize|production|USDA NASS"
  },
  {
@@ -8710,6 +9248,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|united states|soybean|production|USDA NASS"
  },
  {
@@ -8748,6 +9288,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|united states|winter_wheat|yield|USDA NASS"
  },
  {
@@ -8786,6 +9328,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|united states|wheat|production|USDA NASS"
  },
  {
@@ -8824,6 +9368,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|united states|wheat|yield|USDA NASS"
  },
  {
@@ -8862,6 +9408,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|united states durum belt|wheat|production|USDA NASS"
  },
  {
@@ -8900,6 +9448,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|united states|spring_wheat|production|USDA NASS"
  },
  {
@@ -8932,6 +9482,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": "Verbatim quote is a table row from the NASS Agricultural Statistics Board briefing, not a prose sentence; the figures are read directly from the Planted/Harvested/Yield/Production columns.",
+  "flag_status": "caveated",
+  "flag_note": "Verbatim quote is a table row from the NASS Agricultural Statistics Board briefing, not a prose sentence; the figures are read directly from the Planted/Harvested/Yield/Production columns.",
   "series_key": "US|kansas|winter_wheat|production|USDA NASS"
  },
  {
@@ -8970,6 +9522,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|european union|maize|production|USDA WAOB"
  },
  {
@@ -9008,6 +9562,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|european union|wheat|production|USDA WAOB"
  },
  {
@@ -9046,6 +9602,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "UA|ukraine|maize|production|USDA WAOB"
  },
  {
@@ -9078,6 +9636,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|midwest / corn belt|soybean|condition_good_excellent|DTN"
  },
  {
@@ -9110,6 +9670,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|northern plains|spring_wheat|condition_good_excellent|DTN"
  },
  {
@@ -9142,6 +9704,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|kansas|maize|condition_good_excellent|DTN"
  },
  {
@@ -9174,6 +9738,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|north dakota|soybean|condition_good_excellent|DTN"
  },
  {
@@ -9206,6 +9772,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "US|iowa|maize|condition_good_excellent|DTN"
  },
  {
@@ -9238,6 +9806,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "FR|france|maize|production|Reuters"
  },
  {
@@ -9270,6 +9840,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": "Recorded unquantified deliberately: the source says 'less than 7 million tons', an upper bound, and turning that into a point value would be inferring a number.",
+  "flag_status": "caveated",
+  "flag_note": "Recorded unquantified deliberately: the source says 'less than 7 million tons', an upper bound, and turning that into a point value would be inferring a number.",
   "series_key": null
  },
  {
@@ -9302,6 +9874,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "DE|germany|maize|production|Reuters"
  },
  {
@@ -9334,6 +9908,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "PL|poland|maize|production|Reuters"
  },
  {
@@ -9366,6 +9942,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "RO|romania|maize|production|Reuters"
  },
  {
@@ -9398,6 +9976,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "BE|belgium|potato|yield|European Commission"
  },
  {
@@ -9430,6 +10010,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "DE|germany|potato|yield|European Commission"
  },
  {
@@ -9462,6 +10044,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "FR|france|potato|yield|European Commission"
  },
  {
@@ -9494,6 +10078,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": "EU|north-western europe|potato|planted_area|NEPG"
  },
  {
@@ -9526,6 +10112,8 @@
   "month": "2026-08",
   "companies": [],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": null
  },
  {
@@ -9560,6 +10148,8 @@
    "Lamb Weston"
   ],
   "review_flag": null,
+  "flag_status": null,
+  "flag_note": null,
   "series_key": null
  }
 ]
