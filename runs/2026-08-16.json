@@ -1,0 +1,113 @@
+{
+ "date": "2026-08-16",
+ "run": "first sweep of 2026-08-16",
+ "window": {
+  "start": "2026-08-10",
+  "end": "2026-08-16",
+  "days": 6,
+  "note": "Normal case (STEP 1B, no exception). run_state.window_end was 2026-08-10 so window_start is the previous window_end. Not extended to 14 days. Six days, one short of a normal week, but it contained six of the corpus's most productive sources."
+ },
+ "counts": {
+  "inserted": 45,
+  "merged_as_corroboration": 6,
+  "key_collisions_suffixed": 0,
+  "rows_in_corpus_after": 295,
+  "claims_index_keys_after": 294,
+  "series_after": 221,
+  "series_new": 24,
+  "series_extended": 14
+ },
+ "route_note": "raw.githubusercontent.com was NOT reachable from this agent: every raw URL was refused before the request left the sandbox with 'URL not in provenance set' from the fetch tool, not an HTTP status from GitHub. Fell back to the git route as STEP 1 instructs and cloned the repo with the token; all eight state files read cleanly from the working copy. Both load-bearing files (claims_index.json, badge_map.json) were read, so the run proceeded.",
+ "sources_checked": [
+  "AHDB (GB Harvest Progress, Arable Market Report)",
+  "USDA NASS Crop Progress",
+  "Environment Agency dry weather reports",
+  "JRC MARS",
+  "WASDE",
+  "USDA FAS World Agricultural Production",
+  "MPOB",
+  "NEPG",
+  "Buenos Aires Grain Exchange",
+  "GEOGLAM Crop Monitor",
+  "CONAB",
+  "FAO GIEWS",
+  "GB Potatoes",
+  "ICCO",
+  "SA Crop Estimates Committee",
+  "ABARES Australian Crop Report",
+  "India Ministry of Agriculture advance estimates",
+  "IMD",
+  "ECIU",
+  "COCERAL",
+  "Munich Re"
+ ],
+ "sources_not_checked": [],
+ "sources_checked_with_nothing_in_window": {
+  "CONAB": "Next grain survey due September; last publication 2026-07-14. Calendar explains it.",
+  "GEOGLAM Crop Monitor": "Published 2026-08-06, before window_start, and already captured by the runs of 2026-08-09.",
+  "ABARES Australian Crop Report": "Nothing since 2026-06-02, 2.5 months. Quarterly; next due September. Calendar explains it. Australian coverage this week was searched via Grain Central and GIWA and produced nothing published inside the window.",
+  "ICCO": "last_publication still null. Quarterly. Nothing found in window.",
+  "SA Crop Estimates Committee": "last_publication still null. Nothing found in window; Southern Africa maize is out of season.",
+  "GB Potatoes": "last_publication still null. GB Potatoes CEO Scott Walker is quoted inside a Potato News Today piece in window, but no GB Potatoes publication of its own was found.",
+  "IMD / India Ministry of Agriculture": "IMD's August forecast and the kharif sowing figures found in this sweep all pre-date window_start (published late July / 1-4 August) and were captured by earlier runs. No new Indian rows this week.",
+  "Munich Re": "Nothing in window; last publication 2026-07-30.",
+  "MPOB": "July 2026 supply and demand report published 2026-08-10 and reported by Palm Oil Magazine on 2026-08-13: stocks 2.63 Mt (+3.32%), CPO output 1.79 Mt (+9.41%), exports 1.39 Mt (+14.50%). DELIBERATELY NOT RECORDED - no weather attribution anywhere in the coverage; the movement is described as seasonal output and inventory driven. This follows the precedent set on 2026-08-10, when a Palm Oil Magazine CPO price row was excluded for the same reason."
+ },
+ "out_of_window_source_taken": null,
+ "never_checked_exception_used": false,
+ "passes_run": {
+  "pass1_by_source": "AHDB second harvest report of 2026 (published 2026-08-14, data to 10 August) - 10 rows, 2 merged. Environment Agency 7-13 August drought report (published 2026-08-14) - 6 rows. USDA August Crop Production and WASDE (published 2026-08-12) - 12 rows, 1 merged. USDA NASS Crop Progress week ending 9 August (published 2026-08-10) - 6 rows, 1 merged. JRC/Copernicus drought and wildfire update (published 2026-08-12) - 3 rows. NEPG area figures via Potato News Today (2026-08-13) - 1 row. MPOB checked and excluded, see above.",
+  "pass2_by_crop_region": "UK cereals and potatoes (AHDB, FarmingUK, Potato News Today), EU wheat/maize/potatoes (JRC, WASDE, Reuters, Potato News Today), US maize/soy/wheat (NASS, DTN), Brazil coffee (nothing in window - the CONAB and hedgepoint material found is June/July), Australia (nothing in window), India rice and sugar (nothing in window), Southern Africa maize (nothing in window), West Africa cocoa (the Ivory Coast 2026/27 pod-counter story is Reuters of 2026-07-10, out of window, and already sits in the corpus as q010/q011), SE Asia palm oil (MPOB, excluded on attribution).",
+  "pass3_by_hazard": "European drought and heatwave (JRC, Reuters, Potato News Today), England drought (Environment Agency, Potato News Today), EU wildfires on and around farmland (JRC/EFFIS, 505,683 ha), US South-Central heat ridge (DTN crop progress state ratings), favourable outcomes deliberately sought and found: Polish maize, Ukrainian maize, Iowa corn, UK oilseed rape, French potato yield, US record soybean crop.",
+  "pass4_by_company": "Lamb Weston CFO James Gray at the Bank of America SMID Cap Virtual Conference, reported 2026-08-16 - 1 row, the only company row of the week. Barry Callebaut, McCain, Hershey, Lindt, Mondelez, Nestle, JDE Peet's, ADM, Bunge, Cargill, Louis Dreyfus, ABF, Tate & Lyle and AGCO produced nothing in window; this pass is quarterly by nature and Lamb Weston's FY26 results were 24 July, before the window. Weather-attributed commodity price moves: UK wholesale potato prices +40% merged into a005 rather than inserting."
+ },
+ "merged_as_corroboration": [
+  {"key": "GB|winter_barley|2026 harvest|yield|6.8|down", "into": "j023", "shard": "2026-07"},
+  {"key": "GB|oilseed_rape|2026 harvest|yield|3.9|up", "into": "a004", "shard": "2026-08"},
+  {"key": "US|winter_wheat|2026|production|990|down", "into": "j015", "shard": "2026-07"},
+  {"key": "US|maize|2026|condition_good_excellent|61|down", "into": "a027", "shard": "2026-08"},
+  {"key": "NL|potato|2026|yield|43.3|down", "into": "j032", "shard": "2026-07"},
+  {"key": "GB|potato|2026|spot_price|40|up", "into": "a005", "shard": "2026-08"}
+ ],
+ "shards_affected": ["2026-07", "2026-08"],
+ "new_unmapped_domains": [
+  {"domain": "arabnews.com", "assigned": "Press", "example": "French drought could halve maize crop, deepen EU harvest losses", "row": "s035"}
+ ],
+ "anomalies": [
+  "BIG WEEK: 45 rows, above the ~40 threshold STEP 10 asks to flag. Not an error. The six-day window happened to contain the August WASDE and Crop Production (12 Aug), NASS Crop Progress (10 Aug), the AHDB second harvest report (14 Aug), the EA weekly drought report (14 Aug), the JRC drought/wildfire update (12 Aug) and the Reuters EU maize survey (14 Aug).",
+  "THE REPO VALIDATOR NOW FAILS ON FIVE ROWS AND A HUMAN MUST FIX IT, NOT THIS RUN. validate.py reports FAIL '4 badges' for s035-s039: host 'arabnews.com' matches nothing in badge_map. That is exactly the state STEP 7 prescribes for an unmapped host - badge Press, domain appended to unmapped_domains.json, no review_flag - but validate.py treats any unmapped host as a hard failure rather than a worklist item. The five rows carry the Reuters wire of 14 August on French, German, Polish and Romanian maize, which is the single most important EU story of the week. It was searched for on mapped hosts twice (world-grain.com, graincentral.com, agriland.ie, fwi.co.uk, farminguk.com, freshplaza.com, dtnpf.com, agweb.com, farmersguardian.com, barchart.com) and appears on none of them; the only reachable copies are unmapped syndication surfaces (arabnews.com, wtvbam.com, whtc.com, wtaq.com, wiky.com). badge_map.json was NOT edited, per STEP 7. A human should either add arabnews.com to badge_map Press, or teach validate.py to consult unmapped_domains.json.",
+  "REUTERS AND BLOOMBERG REMAIN UNREACHABLE BY THIS AGENT. reuters.com and theguardian.com are explicitly refused by the search tool's user agent; both are named in STEP 3 pass 2. Coverage of those desks is therefore indirect, via syndication. This is a standing limitation, reported on 2026-08-10 and still true.",
+  "raw.githubusercontent.com WAS UNREACHABLE. Every raw URL was refused by the fetch tool before leaving the sandbox ('URL not in provenance set') - a tool-side allowlist, not an HTTP status from GitHub, so no status code or x-deny-reason exists to report. The git clone route worked and all eight state files were read. Worth a human check on whether raw fetching is expected to work at all from this agent.",
+  "TWELVE SERIES NOW HAVE MORE THAN ONE READING AND NO LABEL. Listed in full under series_needing_labels below. Each is chartable:false and stays off Tab 2 until a human writes a label.",
+  "ONE ROW WITH A TABULAR RATHER THAN PROSE QUOTE: s026 (Kansas winter wheat, 191.4 mn bu, -44.8% YoY). The verbatim_quote is the NASS briefing table row, since that briefing publishes state figures only in tables. Carries a review_flag. Kept because it is the sharpest state-level fall in the report.",
+  "ONE ROW WHOSE QUOTE ONLY PARTLY SUPPORTS ITS FIGURE: the GB potato wholesale price. The source says 'more than 40%', an open-ended lower bound; 40 was recorded with the qualifier in the unit and a review_flag. It merged into a005, which already carried the same figure, so no new row was created.",
+  "ONE FIGURE DELIBERATELY LEFT UNQUANTIFIED: s036 (French maize, Expana/Argus). 'Less than 7 million tons' is a bound, not a value, and converting it would be inferring a number.",
+  "NO ROW HAS AN EVENT_DATE MORE THAN A YEAR BEFORE ITS PUBLISHED_DATE. The largest gap is 16 days (s015, JRC, event 2026-07-31, published 2026-08-12).",
+  "NO KEY COLLISIONS. All seven unquantified rows took fresh fortnight keys; no suffixing was needed. The three Environment Agency unquantified rows were deliberately given distinct impact_class values (farmer_livelihood, yield, food_security) so that three genuinely different facts from one report on one date would not collide on a single 2026-08-B key - the failure mode that nearly lost three India rows.",
+  "PRE-EXISTING VALIDATOR WARNINGS UNCHANGED BY THIS RUN: the j022/a004 exempt duplicate key, the 2026-08-09 summary's 59 id-less notable_numbers, and three manifest entries (SA Crop Estimates Committee, ICCO, GB Potatoes) whose last_publication is still null so the silence check cannot fire."
+ ],
+ "series_needing_labels": [
+  {"series_key": "GB|united kingdom|winter_wheat|yield|AHDB", "readings": [["2026-07-26", 6.8], ["2026-08-10", 6.7]], "suggested_label": "AHDB - UK wheat yield to date, harvest 2026 (t/ha)"},
+  {"series_key": "GB|united kingdom|spring_barley|yield|AHDB", "readings": [["2026-07-27", 5.3], ["2026-08-10", 4.1]], "suggested_label": "AHDB - UK spring barley yield to date, harvest 2026 (t/ha)"},
+  {"series_key": "GB|united kingdom|oats|yield|AHDB", "readings": [["2026-07-27", 4.9], ["2026-08-10", 4.2]], "suggested_label": "AHDB - UK oat yield to date, harvest 2026 (t/ha)"},
+  {"series_key": "GB|united kingdom|winter_wheat|harvested_area|AHDB", "readings": [["2026-07-26", 54], ["2026-08-10", 85]], "suggested_label": "AHDB - UK winter wheat harvest progress (% of area cut)"},
+  {"series_key": "GB|united kingdom|winter_barley|harvested_area|AHDB", "readings": [["2026-07-26", 95], ["2026-08-10", 98]], "suggested_label": "AHDB - UK winter barley harvest progress (% of area cut)"},
+  {"series_key": "GB|united kingdom|spring_barley|harvested_area|AHDB", "readings": [["2026-07-26", 8], ["2026-08-10", 54]], "suggested_label": "AHDB - UK spring barley harvest progress (% of area cut)"},
+  {"series_key": "GB|united kingdom|oilseed_rape|harvested_area|AHDB", "readings": [["2026-07-26", 73], ["2026-08-10", 95]], "suggested_label": "AHDB - UK oilseed rape harvest progress (% of area cut)"},
+  {"series_key": "GB|england|mixed_grains|rainfall_pct_normal|Environment Agency", "readings": [["2026-07", 7], ["2026-07", 10], ["2026-08", 4], ["2026-08", 6]], "suggested_label": "Environment Agency - England rainfall as % of long-term average (includes in-month revisions)"},
+  {"series_key": "GB|england|mixed_grains|damaged_area|Environment Agency", "readings": [["2026-07-30", 1395], ["2026-08-06", 1534], ["2026-08-13", 1544]], "suggested_label": "Environment Agency - England abstraction restrictions in force"},
+  {"series_key": "US|united states|winter_wheat|yield|USDA NASS", "readings": [["2026-07-01", 46.7], ["2026-08-01", 47.0]], "suggested_label": "USDA NASS - US winter wheat yield forecast (bu/acre)"},
+  {"series_key": "US|midwest / corn belt|soybean|condition_good_excellent|DTN", "readings": [["2026-08-02", 63], ["2026-08-09", 62]], "suggested_label": "DTN - US soybeans, condition good or excellent"},
+  {"series_key": "FR|france|maize|production|Reuters", "readings": [["2026-07", 8.9], ["2026-08-14", 9.0]], "suggested_label": "Reuters - France grain maize production forecast (Mt)"}
+ ],
+ "series_already_labelled_and_now_multi_reading": [
+  "GB|england|mixed_grains|reservoir_fill|Environment Agency now holds four readings (75.3, 72, 69, 65.9) and IS labelled, so it is chartable:true.",
+  "US|northern plains|spring_wheat|condition_good_excellent|DTN gained a third reading (51 on 2026-08-09) and IS labelled, so it remains chartable:true."
+ ],
+ "notes_on_judgement_calls": [
+  "US rows from the August Crop Production and WASDE cite the DTN article (Trade) as the document read, because that is where the prose sentences containing the figures are; publisher and origin_publisher are set to USDA NASS / USDA WAOB so the series_key stays on the agency and does not fork, and the NASS briefing PDF is attached as a corroboration on every one of them. This follows the corpus's own precedent (j030 'AHDB (via IndexBox)', c005 DTN-url/USDA-figure).",
+  "US winter wheat production of 990 mn bu correctly merged into j015 rather than inserting: the August survey confirmed the July forecast unchanged, and two quantified rows with the same country, crop, season, metric and value are the same fact by rule.",
+  "month was set from published_date for all 45 new rows, which is the dominant convention in the corpus (17 exceptions against 49 for the event_date rule). All 45 therefore land in the 2026-08 shard; the July shard changed only because three merges landed on July rows.",
+  "Shards were derived by filtering all.json on the month field after all inserts and merges, never from the insert list, and then verified field-for-field against all.json."
+ ]
+}

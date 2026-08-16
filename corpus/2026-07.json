@@ -458,10 +458,16 @@
   "published_date": "2026-07-10",
   "verbatim_quote": "Winter wheat production is forecast at 990 million bushels, down 4 percent from the June 1 forecast and down 29 percent from 2025.",
   "attribution": "weather_explicit",
-  "corroboration_count": 1,
+  "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
-  "corroborations": [],
+  "corroborations": [
+   {
+    "url": "https://www.dtnpf.com/agriculture/web/ag/news/article/2026/08/12/usda-releases-august-crop-production-4",
+    "publisher": "USDA NASS",
+    "date": "2026-08-12"
+   }
+  ],
   "summary": "USDA cuts US winter wheat to 990 million bushels, down 29% year on year",
   "month": "2026-07",
   "source_badge": "Official",
@@ -712,7 +718,7 @@
   "published_date": "2026-07-31",
   "verbatim_quote": "Based on the survey sample, the average yield is 6.8t/ha, 2% lower than the UK five-year average.",
   "attribution": "weather_explicit",
-  "corroboration_count": 2,
+  "corroboration_count": 3,
   "companies": [],
   "review_flag": null,
   "corroborations": [
@@ -720,6 +726,11 @@
     "url": "https://www.fwi.co.uk/arable/harvest/report-shows-wheat-yields-below-average-on-90-of-farms",
     "publisher": "AHDB / Farmers Weekly",
     "date": "2026-07-31"
+   },
+   {
+    "url": "https://ahdb.org.uk/cereals-oilseeds/gb-harvest-progress",
+    "publisher": "AHDB",
+    "date": "2026-08-14"
    }
   ],
   "summary": "UK winter barley 6.8 t/ha, only 2% below average, largely cut before the worst of the drought",
@@ -998,10 +1009,16 @@
   "published_date": "2026-07-05",
   "verbatim_quote": "Current JRC MARS forecasts already show yield expectations down 6% in the Netherlands, 5% in Belgium and 7% in Poland compared to 2025.",
   "attribution": "weather_explicit",
-  "corroboration_count": 1,
+  "corroboration_count": 2,
   "companies": [],
   "review_flag": null,
-  "corroborations": [],
+  "corroborations": [
+   {
+    "url": "https://www.potatonewstoday.com/2026/08/13/drought-pressure-spreads-across-north-west-europes-potato-belt/",
+    "publisher": "European Commission",
+    "date": "2026-08-13"
+   }
+  ],
   "summary": "JRC MARS cuts potato yield expectations 6% in the Netherlands, 5% Belgium, 7% Poland",
   "month": "2026-07",
   "source_badge": "Trade",
