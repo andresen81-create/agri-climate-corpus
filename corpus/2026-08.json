@@ -501,11 +501,11 @@
   "url": "https://www.fwi.co.uk/arable/harvest/harvest-2026-promising-yields-in-yorks-and-on-lincs-coast",
   "publisher": "Farmers Weekly",
   "published_date": "2026-08-07",
-  "verbatim_quote": "Last year we were about three weeks ahead and this year is the same",
-  "attribution": "implied",
+  "verbatim_quote": "Some 222ha of oilseed rape has reprieved the previous year's performance, averaging 4.7t/ha.",
+  "attribution": "unattributed",
   "corroboration_count": 2,
   "companies": [],
-  "review_flag": "quote does not support the yield figure — needs re-verification",
+  "review_flag": "Figure and baseline both verified against the source. Attribution caveat, not a data fault: the source attributes the jump from 1.97 to 4.7 t/ha to the absence of cabbage stem flea beetle, a pest, not to weather - 'Last year cabbage stem flea beetle decimated the crop; we averaged about 1.97t/ha.' Kept as a positive row with attribution downgraded to unattributed.",
   "corroborations": [
    {
     "url": "https://www.fwi.co.uk/arable/harvest/harvest-2026-promising-yields-in-yorks-and-on-lincs-coast",

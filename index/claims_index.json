@@ -247,10 +247,6 @@
   "id": "j016",
   "corroboration_count": 1
  },
- "US|winter_wheat|2026|condition_good_excellent|93|down": {
-  "id": "j017",
-  "corroboration_count": 1
- },
  "US|maize|2026|condition_good_excellent|63|down": {
   "id": "j018",
   "corroboration_count": 3
@@ -1173,6 +1169,10 @@
  },
  "EU|potato|heat|company_corporate|2026-08-B": {
   "id": "s045",
+  "corroboration_count": 1
+ },
+ "US|winter_wheat|drought|yield|2026-07-A": {
+  "id": "j017",
   "corroboration_count": 1
  }
 }

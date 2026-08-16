@@ -2031,23 +2031,6 @@
   "label": null,
   "chartable": false
  },
- "US|nebraska|winter_wheat|condition_good_excellent|USDA NASS": {
-  "country": "US",
-  "region": "Nebraska",
-  "crop": "winter_wheat",
-  "metric_name": "condition_good_excellent",
-  "metric_unit": "%",
-  "publisher": "USDA NASS",
-  "readings": [
-   {
-    "event_date": "2026-06",
-    "metric_value": 93,
-    "claim_id": "j017"
-   }
-  ],
-  "label": null,
-  "chartable": false
- },
  "US|northern plains|spring_wheat|condition_good_excellent|DTN": {
   "country": "US",
   "region": "Northern Plains",
