@@ -1238,5 +1238,77 @@
  "NL|potato|2026|spot_price|35|up": {
   "id": "t016",
   "corroboration_count": 1
+ },
+ "GB|mixed_grains|2026 harvest|production|18.5|down": {
+  "id": "u001",
+  "corroboration_count": 2
+ },
+ "GB|mixed_grains|2026 harvest|revenue|-550|down": {
+  "id": "u002",
+  "corroboration_count": 2
+ },
+ "GB|mixed_grains|2026 harvest|cost|65|up": {
+  "id": "u003",
+  "corroboration_count": 2
+ },
+ "US|maize|2026|yield|150|down": {
+  "id": "u004",
+  "corroboration_count": 1
+ },
+ "US|soybean|drought|yield|2026-08-B": {
+  "id": "u005",
+  "corroboration_count": 1
+ },
+ "US|maize|2026|yield|151|down": {
+  "id": "u006",
+  "corroboration_count": 1
+ },
+ "US|soybean|2026|yield|41|down": {
+  "id": "u007",
+  "corroboration_count": 1
+ },
+ "US|maize|2026|yield|183|down": {
+  "id": "u008",
+  "corroboration_count": 1
+ },
+ "US|soybean|2026|yield|58|up": {
+  "id": "u009",
+  "corroboration_count": 1
+ },
+ "US|maize|flood|yield|2026-08-B": {
+  "id": "u010",
+  "corroboration_count": 1
+ },
+ "US|maize|2026|condition_good_excellent|60|down": {
+  "id": "u011",
+  "corroboration_count": 1
+ },
+ "US|soybean|2026|condition_good_excellent|61|down": {
+  "id": "u012",
+  "corroboration_count": 1
+ },
+ "US|sorghum|2026|condition_good_excellent|28|down": {
+  "id": "u013",
+  "corroboration_count": 1
+ },
+ "US|livestock|2026|condition_good_excellent|23|down": {
+  "id": "u014",
+  "corroboration_count": 1
+ },
+ "US|livestock|2026|condition_very_poor_poor|48|up": {
+  "id": "u015",
+  "corroboration_count": 1
+ },
+ "US|cotton|2026|condition_good_excellent|38|down": {
+  "id": "u016",
+  "corroboration_count": 1
+ },
+ "US|rice|2026|condition_good_excellent|70|down": {
+  "id": "u017",
+  "corroboration_count": 1
+ },
+ "US|spring_wheat|2026|condition_good_excellent|52|up": {
+  "id": "u018",
+  "corroboration_count": 1
  }
 }

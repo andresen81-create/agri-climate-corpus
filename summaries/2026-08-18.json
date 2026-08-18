@@ -1,0 +1,134 @@
+{
+ "date": "2026-08-18",
+ "row_count": 18,
+ "headline": "AHDB cut the UK harvest forecast by another million tonnes to a record-low 18.5 Mt, taking ECIU's estimate of lost farm revenue to around £550 million, while in the United States Pro Farmer Crop Tour scouts opened in drought-hit south-east South Dakota at 150 bu/acre against 172 on the same stops last year.",
+ "key_points": [
+  "THE UK HARVEST FORECAST WAS CUT AGAIN AND THE CORPUS HAD MISSED IT. AHDB's updated figures put UK production of wheat, barley, oats and oilseed rape at 18.5 million tonnes, down from the 19.5 Mt already in the corpus as a001 and about 1.35 Mt below the previous record low of 2020. ECIU published the downgrade on 14 August, inside the previous run's window, and both sweeps of 16 August missed it; it was caught here through FarmingUK's in-window write-up of 17 August, with the ECIU release attached as a corroboration. This is a revision by the same source, so both readings stand and u001 is flagged contested against a001.",
+  "THE MONEY NUMBER MOVED WITH IT: £550 MILLION, FROM £390 MILLION. ECIU puts the extra loss from the downgrade at £160 million, taking the total hit against March forecasts to about £550 million. The value of cereals and oilseeds output is now forecast at £3.64 billion, roughly a third — £1.78 billion — below the inflation-adjusted 2014-23 average. Separately, England's farmers were offered a £65 million drought support package: £50 million into the Sustainable Farming Incentive and up to £15 million for on-farm reservoirs.",
+  "THE US CORN BELT SPLIT IS NOW BEING MEASURED FIELD BY FIELD. Day one of the Pro Farmer Crop Tour found average corn yields of 150 bu/acre across five south-east South Dakota stops against 172 on the same stops in 2025, with short ears, pollination damage and dry soil; USDA's August forecast has the state at 151 bu/acre, down 20 bushels year on year. On the eastern leg the problem was the opposite — standing water in Ohio and Indiana, residue caught on corn ear shanks where floodwater had risen almost to ear height, and nitrogen leaching showing in flagging lower leaves.",
+  "THE WEEKLY US CONDITION SERIES RESUMED, AND PASTURE IS THE WORST OF IT. In the week ending 16 August corn fell a point to 60% good to excellent and soybeans a point to 61%, but sorghum dropped seven points in one week to 28% and pasture and rangeland fell to 23% good to excellent with 48% poor to very poor. The pasture row is the first condition_very_poor_poor reading in the corpus, recorded from the source's own figure rather than derived from its opposite — the j017 failure this schema rule exists to prevent.",
+  "POSITIVES: SPRING WHEAT AND OHIO SOYBEANS. US spring wheat improved a point to 52% good to excellent with harvest at 41% against a 34% average, and USDA has Ohio soybeans at 58 bu/acre, up 5 bushels or 9.4% on last year — scouts found beans handled the state's excess water far better than corn. Two of eighteen rows are positive, below the roughly one-in-five the design asks for, on a two-day window.",
+  "A TWO-DAY WINDOW, AND THE COUNT IS APPROPRIATE TO IT. The window ran 16 to 18 August because the previous run advanced the pointer to 16 August. 18 rows in two days is not a thin week; it is a short window that happened to contain the Monday USDA Crop Progress release and day one of the Crop Tour."
+ ],
+ "notable_numbers": [
+  {
+   "label": "UK cereals and oilseeds harvest",
+   "value": "18.5 Mt",
+   "note": "AHDB's revised 2026 forecast, cut from 19.5 Mt; about 1.35 Mt below the previous record low of 2020",
+   "ids": [
+    "u001"
+   ]
+  },
+  {
+   "label": "UK arable revenue lost against March forecasts",
+   "value": "£550 mn",
+   "note": "ECIU; up from £390 mn, of which £160 mn comes from this downgrade alone. Output value now £3.64 bn",
+   "ids": [
+    "u002"
+   ]
+  },
+  {
+   "label": "England drought support package",
+   "value": "£65 mn",
+   "note": "£50 mn added to the Sustainable Farming Incentive, up to £15 mn for on-farm reservoirs, from within Defra's existing budget",
+   "ids": [
+    "u003"
+   ]
+  },
+  {
+   "label": "Pro Farmer Crop Tour, SE South Dakota corn",
+   "value": "150 bu/acre",
+   "note": "five stops, against 172 on the same stops in 2025; soybean pod counts 1,087 against 1,358",
+   "ids": [
+    "u004",
+    "u005"
+   ]
+  },
+  {
+   "label": "South Dakota corn, USDA August forecast",
+   "value": "151 bu/acre",
+   "note": "down 20 bushels from 171 in 2025; state soybeans 41 bu/acre, down 6",
+   "ids": [
+    "u006",
+    "u007"
+   ]
+  },
+  {
+   "label": "US pasture and rangeland poor to very poor",
+   "value": "48%",
+   "note": "week ending 16 August, up 1 point; only 23% good to excellent. First condition_very_poor_poor row in the corpus",
+   "ids": [
+    "u015",
+    "u014"
+   ]
+  },
+  {
+   "label": "US sorghum good to excellent",
+   "value": "28%",
+   "note": "down 7 points in a single week, the sharpest fall in the 17 August Crop Progress report",
+   "ids": [
+    "u013"
+   ]
+  },
+  {
+   "label": "US corn and soybean condition",
+   "value": "60% and 61%",
+   "note": "week ending 16 August, each down 1 point on the week",
+   "ids": [
+    "u011",
+    "u012"
+   ]
+  },
+  {
+   "label": "Ohio soybeans, USDA forecast",
+   "value": "58 bu/acre",
+   "note": "up 5 bushels or 9.4% on 2025 despite the state's excess rain; Ohio corn down 2 bushels to 183",
+   "ids": [
+    "u009",
+    "u008"
+   ]
+  }
+ ],
+ "what_changed": "Against the 16 August summary, which covered two sweeps of a six-day window and 61 rows, this run covers a two-day window and 18 rows, none of which merged — every claim_key was free. The substantive change is that the UK harvest number moved: the corpus has carried 19.5 Mt and a £390 million loss since early August, and both were superseded on 14 August by AHDB's cut to 18.5 Mt and ECIU's £550 million, which neither sweep of 16 August caught even though the release sat inside their window. The UK production series GB|united kingdom|mixed_grains|production|ECIU now holds two readings, 19.5 then 18.5, and would be chartable the moment a human writes it a label. The United States moved from report-level figures to field-level ones with the start of the Pro Farmer Crop Tour, and the weekly USDA condition series picked up again after the 10 August reading, with the notable new information being pasture and sorghum rather than corn and soybeans. Nothing new was found this week for Australia, Argentina, Brazil, India, southern Africa, West African cocoa or south-east Asia; Argentina and India have now produced zero rows across three consecutive runs.",
+ "conflicts": [
+  {
+   "ids": [
+    "a001",
+    "u001"
+   ],
+   "note": "AHDB REVISED ITS OWN UK HARVEST FORECAST AND BOTH READINGS STAND. a001 carries 19.5 million tonnes; u001 carries 18.5 million tonnes from the AHDB update of 14 August, reported by FarmingUK on 17 August. Same body, same measure, roughly two weeks apart. Recorded as a revision, not a correction; u001 is flagged contested and names a001."
+  },
+  {
+   "ids": [
+    "a002",
+    "u002"
+   ],
+   "note": "THE SAME REVISION ON THE MONEY FIGURE, PLUS A SERIES FORK A HUMAN SHOULD FIX. a002 carries the ECIU loss estimate of £390 million under publisher 'Farmers Weekly'; u002 carries the revised £550 million under publisher 'ECIU', because that is the body that produced it and the document read this week is FarmingUK's. The two readings therefore sit in two different series and will never form a chart. Rebuilding a002's key is forbidden, so this needs a human decision."
+  },
+  {
+   "ids": [
+    "u003"
+   ],
+   "note": "SCHEMA GAP, NOT A DISAGREEMENT. The £65 million government drought support package is neither a farm cost nor farm revenue, and metric_name has no value for a support or subsidy payment. Filed under 'cost' with direction 'up' and flagged caveated, following the t007 precedent for the Triodos GDP figure. This is the fourth schema gap logged in three runs."
+  },
+  {
+   "ids": [
+    "u005"
+   ],
+   "note": "SECOND SCHEMA GAP THIS RUN: NO METRIC FOR SOYBEAN POD COUNTS. 1,087 pods in a 3ft x 3ft plot against 1,358 last year is a real, in-window, weather-attributed measurement with nowhere correct to sit — it is not a yield and not an area. Recorded unquantified with the figures kept in the quote, rather than mis-typed. Pod counts appear every August and will recur."
+  },
+  {
+   "ids": [
+    "u004"
+   ],
+   "note": "QUOTE-FORM NOTE. The 150 bu/acre figure's verbatim sentence is an embedded social-media post from crop scout Karen Braun reproduced inside the AgWeb article, not AgWeb's own prose. It is also a five-stop route average, not a state estimate, so it sits in its own Pro Farmer Crop Tour series and must not be charted against USDA state yields."
+  },
+  {
+   "ids": [
+    "u014",
+    "u015"
+   ],
+   "note": "NOT A CONTRADICTION — THE TWO CONDITION METRICS SIDE BY SIDE FOR THE FIRST TIME. u014 records US pasture at 23% good to excellent and u015 records 48% poor to very poor, both stated in the same sentence of the source. They sum to 71%, not 100%, because the fair band sits between them. Neither was derived from the other."
+  }
+ ]
+}

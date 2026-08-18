@@ -1353,6 +1353,11 @@
     "event_date": "2026-08",
     "metric_value": 19.5,
     "claim_id": "a001"
+   },
+   {
+    "event_date": "2026-08-14",
+    "metric_value": 18.5,
+    "claim_id": "u001"
    }
   ],
   "label": null,
@@ -3961,6 +3966,261 @@
     "event_date": "2026-08-13",
     "metric_value": 35,
     "claim_id": "t016"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|united kingdom|mixed_grains|revenue|ECIU": {
+  "country": "GB",
+  "region": "United Kingdom",
+  "crop": "mixed_grains",
+  "metric_name": "revenue",
+  "metric_unit": "GBP million (revenue lost against March forecasts)",
+  "publisher": "ECIU",
+  "readings": [
+   {
+    "event_date": "2026-08-14",
+    "metric_value": -550,
+    "claim_id": "u002"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "GB|england|mixed_grains|cost|Defra": {
+  "country": "GB",
+  "region": "England",
+  "crop": "mixed_grains",
+  "metric_name": "cost",
+  "metric_unit": "GBP million (government support package)",
+  "publisher": "Defra",
+  "readings": [
+   {
+    "event_date": "2026-08-15",
+    "metric_value": 65,
+    "claim_id": "u003"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|southeast south dakota|maize|yield|Pro Farmer Crop Tour": {
+  "country": "US",
+  "region": "Southeast South Dakota",
+  "crop": "maize",
+  "metric_name": "yield",
+  "metric_unit": "bushels per acre",
+  "publisher": "Pro Farmer Crop Tour",
+  "readings": [
+   {
+    "event_date": "2026-08-17",
+    "metric_value": 150,
+    "claim_id": "u004"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|south dakota|maize|yield|USDA NASS": {
+  "country": "US",
+  "region": "South Dakota",
+  "crop": "maize",
+  "metric_name": "yield",
+  "metric_unit": "bushels per acre",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-08-01",
+    "metric_value": 151,
+    "claim_id": "u006"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|south dakota|soybean|yield|USDA NASS": {
+  "country": "US",
+  "region": "South Dakota",
+  "crop": "soybean",
+  "metric_name": "yield",
+  "metric_unit": "bushels per acre",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-08-01",
+    "metric_value": 41,
+    "claim_id": "u007"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|ohio|maize|yield|USDA NASS": {
+  "country": "US",
+  "region": "Ohio",
+  "crop": "maize",
+  "metric_name": "yield",
+  "metric_unit": "bushels per acre",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-08-01",
+    "metric_value": 183,
+    "claim_id": "u008"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|ohio|soybean|yield|USDA NASS": {
+  "country": "US",
+  "region": "Ohio",
+  "crop": "soybean",
+  "metric_name": "yield",
+  "metric_unit": "bushels per acre",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-08-01",
+    "metric_value": 58,
+    "claim_id": "u009"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states|maize|condition_good_excellent|USDA NASS": {
+  "country": "US",
+  "region": "United States",
+  "crop": "maize",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "percent of crop area",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-08-16",
+    "metric_value": 60,
+    "claim_id": "u011"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states|soybean|condition_good_excellent|USDA NASS": {
+  "country": "US",
+  "region": "United States",
+  "crop": "soybean",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "percent of crop area",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-08-16",
+    "metric_value": 61,
+    "claim_id": "u012"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states|sorghum|condition_good_excellent|USDA NASS": {
+  "country": "US",
+  "region": "United States",
+  "crop": "sorghum",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "percent of crop area",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-08-16",
+    "metric_value": 28,
+    "claim_id": "u013"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states|livestock|condition_good_excellent|USDA NASS": {
+  "country": "US",
+  "region": "United States",
+  "crop": "livestock",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "percent of crop area",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-08-16",
+    "metric_value": 23,
+    "claim_id": "u014"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states|livestock|condition_very_poor_poor|USDA NASS": {
+  "country": "US",
+  "region": "United States",
+  "crop": "livestock",
+  "metric_name": "condition_very_poor_poor",
+  "metric_unit": "percent of pasture and range area",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-08-16",
+    "metric_value": 48,
+    "claim_id": "u015"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states|cotton|condition_good_excellent|USDA NASS": {
+  "country": "US",
+  "region": "United States",
+  "crop": "cotton",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "percent of crop area",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-08-16",
+    "metric_value": 38,
+    "claim_id": "u016"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states|rice|condition_good_excellent|USDA NASS": {
+  "country": "US",
+  "region": "United States",
+  "crop": "rice",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "percent of crop area",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-08-16",
+    "metric_value": 70,
+    "claim_id": "u017"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states|spring_wheat|condition_good_excellent|USDA NASS": {
+  "country": "US",
+  "region": "United States",
+  "crop": "spring_wheat",
+  "metric_name": "condition_good_excellent",
+  "metric_unit": "percent of crop area",
+  "publisher": "USDA NASS",
+  "readings": [
+   {
+    "event_date": "2026-08-16",
+    "metric_value": 52,
+    "claim_id": "u018"
    }
   ],
   "label": null,
