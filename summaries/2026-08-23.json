@@ -1,0 +1,132 @@
+{
+ "date": "2026-08-23",
+ "row_count": 17,
+ "headline": "Pro Farmer closed its 2026 Crop Tour with a US corn yield of 173.2 bu/acre, 7.5 bushels below USDA's August forecast and the widest split between the two in six years, with Nebraska measured at 163.61 against 179.50 last year, while England's reservoirs fell a further 3.4 points to 62.6% and the National Drought Group moved to weekly meetings.",
+ "key_points": [
+  "THE CROP TOUR FINISHED BELOW USDA, AND THE GAP IS THE STORY. Pro Farmer's national corn estimate is 173.2 bu/acre and 15.344 billion bushels against USDA's 180.7 and 16.013 billion — 7.5 bushels and 669 million bushels apart, from more than 3,000 fields in seven states. Both figures now sit in the corpus, s018 and s019 for USDA and v011 and v012 for Pro Farmer, in separate series because they are separate publishers with separate methods; v011 is flagged contested and names s018. A survey-and-model estimate and a scout count of ears and grain length are not the same measurement and must not be charted as one line.",
+  "STATE BY STATE, THE DAMAGE IS WESTERN. Nebraska came in at 163.61 bu/acre against 179.50 on the same districts last year, a fall of 8.9% and the worst of the week, with ear counts down from 90.97 to 86.22 per 60 feet of row and growers on the route reporting no rain since 4 July. Illinois fell 7.7% to 184.19 with grain length down from 6.94 to 6.61 inches. Iowa was the mildest at 193.98, down only 2.2% and still above its three-year average. Four states measured, four different degrees of the same heat.",
+  "THE ATTRIBUTION MECHANISM WAS NAMED THIS WEEK, NOT JUST THE DAMAGE. Lachstock, via Grain Central, reported NOAA confirming July 2026 as the hottest month on record with Midwest daytime highs near 110F, and Rabo Research's Stephen Nicholson pointing at elevated overnight lows rather than daytime peaks as the mechanism: night temperatures deny the crop recovery time and disrupted pollination across a large share of the corn crop. That is the cause behind the tip-back and missing kernel rows the scouts counted in Nebraska and Illinois, and it is recorded at v017.",
+  "ENGLAND'S DROUGHT DEEPENED WHILE THE RAIN ARRIVED. Reservoir storage fell 3.4 points in a week to 62.6% on 18 August, 16.3% below average, with seven major reservoirs now exceptionally low against five a week earlier — the fifth consecutive fall in a series that has run 75.3, 72, 69, 65.9, 62.6 since 21 July. Abstraction restrictions rose to 1,562. August rainfall reached 17% of the long-term average, up from 6%, but the Environment Agency said it would not change the picture, the National Drought Group moved to weekly meetings after a COBR meeting on 20 August, and a Drought Order was sought on the River Severn. Attention has now shifted from cereal yields to lifting root crops out of ground too hard to work.",
+  "POSITIVES: SOYBEANS, AND TWO HARVESTS THE WEATHER IS HELPING. Pro Farmer put US soybeans at 53.3 bu/acre and 4.572 billion bushels, above USDA on both, with soil moisture expected to carry the crop to the end of the season. Saskatchewan began combining under low-to-mid 20s Celsius, 4% of the province off, the first Canadian row in this corpus. Rain is forecast into northern New South Wales and southern Queensland that would salvage winter crops and lift confidence for summer planting. Four of seventeen rows are positive, close to the one-in-five the design asks for.",
+  "A FIVE-DAY WINDOW, AND THE COUNT FITS IT. The window ran 18 to 23 August because the previous run advanced the pointer to 18 August. Seventeen rows in five days is not a thin week; it is a short window that happened to contain days two, three and four of the Crop Tour, its national estimate, and the Environment Agency's weekly report."
+ ],
+ "notable_numbers": [
+  {
+   "label": "Pro Farmer US corn yield",
+   "value": "173.2 bu/acre",
+   "note": "7.5 bushels below USDA's August 180.7; national crop 15.344 bn bu against USDA's 16.013 bn",
+   "ids": [
+    "v011",
+    "v012"
+   ]
+  },
+  {
+   "label": "Pro Farmer Crop Tour, Nebraska corn",
+   "value": "163.61 bu/acre",
+   "note": "against 179.50 on the same districts in 2025, down 8.9%; ear counts 86.22 per 60ft against 90.97",
+   "ids": [
+    "v007"
+   ]
+  },
+  {
+   "label": "Pro Farmer Crop Tour, Illinois corn",
+   "value": "184.19 bu/acre",
+   "note": "down 7.7% on last year's 199.57; grain length 6.61 inches against 6.94",
+   "ids": [
+    "v009"
+   ]
+  },
+  {
+   "label": "Pro Farmer Crop Tour, Iowa corn",
+   "value": "193.98 bu/acre",
+   "note": "down 2.2% on 2025 but above the 191.34 three-year Tour average — the mildest state measured",
+   "ids": [
+    "v010"
+   ]
+  },
+  {
+   "label": "Pro Farmer US soybean yield",
+   "value": "53.3 bu/acre",
+   "note": "above USDA's 52.7; crop 4.572 bn bu against USDA's 4.519 bn. The only major Tour number above USDA",
+   "ids": [
+    "v013",
+    "v014"
+   ]
+  },
+  {
+   "label": "England reservoir storage",
+   "value": "62.6%",
+   "note": "on 18 August, down 3.4 points in a week and 16.3% below average; seven reservoirs exceptionally low",
+   "ids": [
+    "v001"
+   ]
+  },
+  {
+   "label": "England abstraction licence restrictions",
+   "value": "1,562",
+   "note": "up from 1,544; 288 spray licences cut 50% under section 57 to 31 October, 14 Wensum abstractors stopped entirely",
+   "ids": [
+    "v003"
+   ]
+  },
+  {
+   "label": "England August rainfall",
+   "value": "17% of LTA",
+   "note": "month to date to 20 August, up from 6%; 5% of LTA in the south east, 33% in the north west",
+   "ids": [
+    "v002"
+   ]
+  },
+  {
+   "label": "Saskatchewan harvest progress",
+   "value": "4% of crop off",
+   "note": "low-to-mid 20s Celsius allowing progress; 1% of south-west canola combined. First Canadian row in the corpus",
+   "ids": [
+    "v015"
+   ]
+  }
+ ],
+ "what_changed": "Against the 18 August summary, which covered a two-day window and 18 rows, this run covers five days and 17 rows, none of which merged into an existing key — three were inserted under suffixed keys after collisions, and three existing rows in this run's own set picked up corroborations from a second outlet. The substantive change is that the United States moved from partial field data to a finished national number: last week the corpus held day one of the Crop Tour and USDA's August forecast; it now holds Nebraska, Illinois and Iowa state readings and Pro Farmer's completed national estimate, which lands 7.5 bushels under USDA and creates the first head-to-head contested pair on US corn yield. The England reservoir series, the only chartable UK series with a label, extended to a fifth reading and continues to fall without interruption. The English drought also changed character rather than severity: rain arrived, the drought-area figure did not move, and the reported pressure point shifted from cereal yields, which are now harvested, to root crops that cannot be lifted from hard ground. Argentina, Brazil, India, southern Africa, West African cocoa and south-east Asia produced no in-window rows again; India and Argentina have now returned zero rows across four consecutive runs. Canada appears in the corpus for the first time.",
+ "conflicts": [
+  {
+   "ids": [
+    "s018",
+    "v011"
+   ],
+   "note": "USDA AND PRO FARMER DISAGREE ON THE US CORN YIELD BY 7.5 BUSHELS AND BOTH READINGS STAND. s018 carries USDA NASS's August national corn yield of 180.7 bu/acre; v011 carries Pro Farmer's 173.2 from the Crop Tour. Same crop, same season, same country, different bodies and different methods — USDA's is a survey and model estimate, Pro Farmer's is a scout count of ear populations and grain length across 3,000-plus fields. Recorded as a genuine disagreement, not a correction. v011 is flagged contested and names s018. The same split runs through production, s019 at 16,013 million bushels against v012 at 15,344. They sit in separate series by publisher and must not be charted against each other as one line."
+  },
+  {
+   "ids": [
+    "s014",
+    "v006"
+   ],
+   "note": "KEY COLLISION, TWO DIFFERENT ENGLISH DROUGHT FACTS IN ONE FORTNIGHT. Both rows key to GB|mixed_grains|drought|food_security|2026-08-B. s014 recorded the 71% drought-area figure as of 13 August; v006 records the governance escalation of 20 August — the National Drought Group moving to weekly meetings, the COBR meeting, the River Severn Drought Order application and the simultaneous flash-flood warning — alongside an unchanged 71.3%. Different facts, so v006 was inserted under GB|mixed_grains|drought|food_security|2026-08-B#v006 and the bare key still points at s014. A human may want a finer unquantified key: a fortnight is too coarse to separate a status figure from a policy response."
+  },
+  {
+   "ids": [
+    "u005",
+    "v008"
+   ],
+   "note": "SECOND COLLISION, AND THE POD-COUNT SCHEMA GAP FOR THE SECOND RUN RUNNING. Both key to US|soybean|drought|yield|2026-08-B. u005 holds South Dakota pod counts from day one of the Crop Tour; v008 holds Nebraska's, 1,219.62 against 1,348.31 last year, from day two. Different states, different days, same key, because metric_name has no value for a soybean pod count and so every pod-count row in a fortnight collapses onto one key. v008 was inserted under US|soybean|drought|yield|2026-08-B#v008. Pod counts appear every August; this needs a schema decision, not another suffix."
+  },
+  {
+   "ids": [
+    "v016"
+   ],
+   "note": "THIRD COLLISION, AND A FORECAST RATHER THAN A MEASUREMENT. AU|mixed_grains|favourable|yield|2026-08-B was already held by a GIWA row of 14 August covering Western Australia; v016 is northern New South Wales and southern Queensland and was inserted suffixed. Note separately that v016 records a forward-looking rainfall forecast, not an observed outcome, and sits inside the capture bar only because it names regions and a named market consequence."
+  },
+  {
+   "ids": [
+    "v002"
+   ],
+   "note": "SCOPE NOTE ON THE ENGLAND RAINFALL SERIES. The Environment Agency's 'August to date' rainfall percentage is cumulative within the month, so the three August readings in GB|england|mixed_grains|rainfall_pct_normal|Environment Agency — 4, then 6, then 17 — are a running total, not three independent weekly observations. The series is unlabelled and therefore not chartable, which is fortunate: charted naively it would read as rainfall improving week on week when what it shows is a month accumulating. Flagged caveated on v002."
+  },
+  {
+   "ids": [
+    "v012",
+    "v014"
+   ],
+   "note": "UNIT RESTATEMENT, RECORDED SO IT IS NOT MISTAKEN FOR A CONVERSION. Pro Farmer states 15.344 billion and 4.572 billion bushels; the corpus stores US production in million bushels, as USDA's own s019 and s020 do, so these are written as 15344 and 4572. That is the same number in the series' existing unit, not a physical conversion of the kind forbidden between rainfall_mm and rainfall_in. Both rows are flagged caveated."
+  }
+ ]
+}

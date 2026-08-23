@@ -4,5 +4,11 @@
   "assigned": "Press",
   "example": "60% of U.S. corn, 61% of soybeans good to excellent",
   "row": "u011"
+ },
+ {
+  "domain": "profarmer.com",
+  "assigned": "Press",
+  "example": "2026 Day 2 Crop Tour Results | Nebraska",
+  "row": "v007"
  }
 ]

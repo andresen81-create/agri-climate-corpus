@@ -998,6 +998,11 @@
     "event_date": "2026-08",
     "metric_value": 6,
     "claim_id": "s010"
+   },
+   {
+    "event_date": "2026-08",
+    "metric_value": 17,
+    "claim_id": "v002"
    }
   ],
   "label": null,
@@ -1030,6 +1035,11 @@
     "event_date": "2026-08-11",
     "metric_value": 65.9,
     "claim_id": "s009"
+   },
+   {
+    "event_date": "2026-08-18",
+    "metric_value": 62.6,
+    "claim_id": "v001"
    }
   ],
   "label": "Environment Agency — England reservoir storage",
@@ -2501,6 +2511,11 @@
     "event_date": "2026-08-13",
     "metric_value": 1544,
     "claim_id": "s011"
+   },
+   {
+    "event_date": "2026-08-20",
+    "metric_value": 1562,
+    "claim_id": "v003"
    }
   ],
   "label": null,
@@ -4221,6 +4236,142 @@
     "event_date": "2026-08-16",
     "metric_value": 52,
     "claim_id": "u018"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|nebraska|maize|yield|Pro Farmer Crop Tour": {
+  "country": "US",
+  "region": "Nebraska",
+  "crop": "maize",
+  "metric_name": "yield",
+  "metric_unit": "bushels per acre",
+  "publisher": "Pro Farmer Crop Tour",
+  "readings": [
+   {
+    "event_date": "2026-08-18",
+    "metric_value": 163.61,
+    "claim_id": "v007"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|illinois|maize|yield|Pro Farmer Crop Tour": {
+  "country": "US",
+  "region": "Illinois",
+  "crop": "maize",
+  "metric_name": "yield",
+  "metric_unit": "bushels per acre",
+  "publisher": "Pro Farmer Crop Tour",
+  "readings": [
+   {
+    "event_date": "2026-08-19",
+    "metric_value": 184.19,
+    "claim_id": "v009"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|iowa|maize|yield|Pro Farmer Crop Tour": {
+  "country": "US",
+  "region": "Iowa",
+  "crop": "maize",
+  "metric_name": "yield",
+  "metric_unit": "bushels per acre",
+  "publisher": "Pro Farmer Crop Tour",
+  "readings": [
+   {
+    "event_date": "2026-08-20",
+    "metric_value": 193.98,
+    "claim_id": "v010"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states|maize|yield|Pro Farmer Crop Tour": {
+  "country": "US",
+  "region": "United States",
+  "crop": "maize",
+  "metric_name": "yield",
+  "metric_unit": "bushels per acre",
+  "publisher": "Pro Farmer Crop Tour",
+  "readings": [
+   {
+    "event_date": "2026-08-21",
+    "metric_value": 173.2,
+    "claim_id": "v011"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states|maize|production|Pro Farmer Crop Tour": {
+  "country": "US",
+  "region": "United States",
+  "crop": "maize",
+  "metric_name": "production",
+  "metric_unit": "million bushels",
+  "publisher": "Pro Farmer Crop Tour",
+  "readings": [
+   {
+    "event_date": "2026-08-21",
+    "metric_value": 15344,
+    "claim_id": "v012"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states|soybean|yield|Pro Farmer Crop Tour": {
+  "country": "US",
+  "region": "United States",
+  "crop": "soybean",
+  "metric_name": "yield",
+  "metric_unit": "bushels per acre",
+  "publisher": "Pro Farmer Crop Tour",
+  "readings": [
+   {
+    "event_date": "2026-08-21",
+    "metric_value": 53.3,
+    "claim_id": "v013"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "US|united states|soybean|production|Pro Farmer Crop Tour": {
+  "country": "US",
+  "region": "United States",
+  "crop": "soybean",
+  "metric_name": "production",
+  "metric_unit": "million bushels",
+  "publisher": "Pro Farmer Crop Tour",
+  "readings": [
+   {
+    "event_date": "2026-08-21",
+    "metric_value": 4572,
+    "claim_id": "v014"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "CA|saskatchewan|mixed_grains|harvested_area|Grain Central": {
+  "country": "CA",
+  "region": "Saskatchewan",
+  "crop": "mixed_grains",
+  "metric_name": "harvested_area",
+  "metric_unit": "% of crop area",
+  "publisher": "Grain Central",
+  "readings": [
+   {
+    "event_date": "2026-08-21",
+    "metric_value": 4,
+    "claim_id": "v015"
    }
   ],
   "label": null,
