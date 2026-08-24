@@ -1,0 +1,32 @@
+{
+ "date": "2026-08-24",
+ "row_count": 2,
+ "headline": "A one-day window turned up almost nothing new, and the two rows it did produce are the first Indian readings this corpus has taken in five runs: Odisha at 1,044.8 mm since 1 June, 26% above normal, while all-India monsoon rainfall runs about 13% below it.",
+ "key_points": [
+  "THE WINDOW WAS ONE DAY LONG AND THAT IS THE WHOLE STORY OF THE COUNT. run_state.window_end was 2026-08-23, so window_start is 23 August and window_end is today, 24 August: one day, covering a Sunday and the first five hours of a Monday. Two rows in one day is not a failed sweep. All four passes ran and all 23 manifest sources were checked; the calendar simply put nothing inside the window.",
+  "INDIA FINALLY PRODUCED ROWS, AFTER ZERO ACROSS THE PREVIOUS FOUR RUNS. Odisha has taken 1,044.8 mm since 1 June, 26% above normal, with Nabarangpur the only district in deficit, while a low-pressure area over the northwest Bay of Bengal held red warnings over Cuttack, Angul, Dhenkanal, Kalahandi and Nabarangpur and rain was forecast to 29 August. Set against the all-India 13% deficit already in the corpus at IN|mixed_grains|kharif 2026|rainfall_pct_normal|-13|down, this is a surplus state inside a deficient season — the first positive Indian reading here.",
+  "BOTH NEW ROWS ARE FLAGGED CAVEATED, AND THE REASON MATTERS. Odisha Connect is a general-news outlet, not an agricultural one, and neither article states a crop impact: the numbers are quoted verbatim and are sound, but reading them as kharif paddy signal is this run's inference, not the source's. Crop is recorded as mixed_grains on both because neither source names a crop. Neither row is 'unverified' and neither belongs in the Needs a human panel.",
+  "THE BIG US AND UK NUMBERS OF THE WEEK ALL FALL JUST OUTSIDE. USDA NASS Crop Progress for the week ending 23 August is released this afternoon US time, hours after this window closed. The NFU's £370 million lost wheat production value, its 196,300 t forage shortfall and the £34 million cost of replacing it were published 21-22 August, inside the previous run's window and not captured by it — a gap this run cannot legitimately fill and flags for a human instead. The Environment Agency's next weekly drought report is due about 28 August and AHDB's third harvest progress report is still not out.",
+  "FOURTEEN SERIES NOW HAVE MORE THAN ONE READING AND NO LABEL, INCLUDING THE ENGLAND RAINFALL SERIES WITH FIVE. Every one of them is chartable:false and invisible on Tab 2 until a human writes a label in series_labels.json. That is fourteen charts that silently do not appear, and it is the largest single backlog this monitor is carrying."
+ ],
+ "notable_numbers": [
+  {
+   "label": "Odisha seasonal rainfall",
+   "value": "1,044.8 mm",
+   "note": "1 June to 23 August, 26% above normal; Nabarangpur the only district in deficit, against an all-India deficit of about 13%",
+   "ids": [
+    "x001"
+   ]
+  },
+  {
+   "label": "Gajapati district rainfall",
+   "value": "121.6 mm",
+   "note": "by the morning of 23 August, cumulative 501.2 mm; Vamsadhara at Kashinagar 53.69 m against a 54.10 m warning level",
+   "ids": [
+    "x002"
+   ]
+  }
+ ],
+ "what_changed": "Against the 23 August summary, which covered five days and 17 rows and was dominated by the close of the Pro Farmer Crop Tour and England's fifth consecutive fall in reservoir storage, this run covers one day and 2 rows and adds nothing to either of those stories, because nothing was published on them inside the window. What did change is geography: after four runs with no Indian row at all, the corpus now holds two, and both are flood-side rather than drought-side, which is the first non-drought hazard added since the Australian rain row of 21 August. Nothing merged as corroboration this run and no existing figure was revised or contradicted.",
+ "conflicts": []
+}

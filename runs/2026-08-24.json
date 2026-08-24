@@ -1,0 +1,126 @@
+{
+ "date": "2026-08-24",
+ "run": "first and only sweep of 2026-08-24",
+ "window": {
+  "start": "2026-08-23",
+  "end": "2026-08-24",
+  "days": 1,
+  "note": "Normal case, no STEP 1B exception. run_state.window_end was 2026-08-23 and is earlier than today, so window_start is the previous window_end and window_end is today: one day. Not padded to 14. summaries/2026-08-24.json did not exist and runs/2026-08-24.json was the lowest free slot, so this is not a same-day re-run. The clock at the time of the sweep was 2026-08-24 05:11 UTC / 00:11 CDT, which is why no US Monday release could be in scope."
+ },
+ "counts": {
+  "inserted": 2,
+  "merged_as_corroboration": 0,
+  "key_collisions_suffixed": 0,
+  "rows_in_corpus_after": 348,
+  "claims_index_keys_after": 347,
+  "series_after": 251,
+  "series_new": 2,
+  "series_extended": 0,
+  "chartable_after": 5,
+  "unmapped_domains_added": 1
+ },
+ "route_note": "raw.githubusercontent.com was unreachable again: the fetch tool refused https://raw.githubusercontent.com/andresen81-create/agri-climate-corpus/main/index/run_state.json with 'URL not in provenance set' before the request left the sandbox. That is a tool-side allowlist refusal, not an HTTP response from GitHub, so there is no status code and no x-deny-reason header to report. Identical to 2026-08-10, both runs of 2026-08-16, 2026-08-18 and 2026-08-23 — five consecutive runs. Fell back to the git route as STEP 1 instructs, cloned with the token and read all eight state files from the working copy. Both load-bearing files, claims_index.json and badge_map.json, read cleanly, so the run proceeded.",
+ "script_note": "No script in the repo was run, including validate.py, per the STEP 8B prohibition. Index and shard consistency was checked directly: every corpus/<YYYY-MM>.json was rewritten by filtering all.json on the month field and then compared field-for-field against all.json.",
+ "sources_checked": [
+  "AHDB (GB Harvest Progress, Arable Market Report)",
+  "USDA NASS Crop Progress",
+  "Environment Agency dry weather reports",
+  "Buenos Aires Grain Exchange",
+  "GEOGLAM Crop Monitor",
+  "JRC MARS",
+  "WASDE",
+  "CONAB",
+  "SA Crop Estimates Committee",
+  "MPOB",
+  "FAO GIEWS",
+  "USDA FAS World Agricultural Production",
+  "ABARES Australian Crop Report",
+  "ICCO",
+  "India Ministry of Agriculture advance estimates",
+  "IMD",
+  "NEPG",
+  "GB Potatoes",
+  "ECIU",
+  "COCERAL",
+  "Munich Re",
+  "GIWA",
+  "Pro Farmer Crop Tour",
+  "Farmers Weekly, FarmingUK, NFUonline, The Scottish Farmer, Grain Central, DTN, World-Grain, PotatoPro, Potato News Today, FreshPlaza, Reuters, Barchart, Farm Progress, Down To Earth, Odisha Connect, USDA FAS GAIN"
+ ],
+ "sources_not_checked": [],
+ "sources_checked_with_nothing_in_window": {
+  "USDA NASS Crop Progress": "Weekly, released Monday afternoon US Eastern time. The report for the week ending 23 August had not been released when this run swept: local time in the US Central zone was 00:11 on 24 August. The 17 August report is already in the corpus at u011-u018. This is the single largest item the window misses and the next run will pick it up.",
+  "AHDB": "The third GB Harvest Progress report of 2026 is still not published; the second, dated 14 August, is in the corpus at s001-s008. The Arable Market Report of 17 August predates window_start. Nothing carries a date of 23 or 24 August.",
+  "Environment Agency": "The 14-20 August drought report was published 21 August and is already in the corpus at v001-v005. The next weekly report is due about 28 August. Note for the next run: the 21 August report flags 680 Severn-catchment abstraction restrictions to be requested in the week commencing 24 August and 261 voluntary Wye restrictions; those were published outside this window, so no row was taken.",
+  "WASDE / JRC MARS / GEOGLAM / USDA FAS WAP / MPOB / CONAB / FAO GIEWS": "All monthly, all published 6-14 August or earlier, all before window_start and already captured. CONAB's next grain survey is due in September.",
+  "Buenos Aires Grain Exchange": "Nothing published 23-24 August was reachable. Argentina has now produced zero rows across five consecutive runs, which is worth a human look at whether the source is reachable at all from this sandbox.",
+  "ABARES": "Nothing since 2026-06-02, now 2.8 months. Quarterly, next due September, so the calendar explains it.",
+  "ICCO / SA Crop Estimates Committee / GB Potatoes": "last_publication still null for all three. Nothing in window.",
+  "Pro Farmer Crop Tour": "The Tour closed on 21 August and its national and state numbers are in the corpus at v007-v014. One Tour figure remains uncaptured and is out of window: Minnesota corn at 199.01 bu/acre against 202.86 in 2025, published about 20-21 August. Flagged for a human rather than back-dated in.",
+  "Company pass (pass 4)": "Zero rows. Lamb Weston's Q4 FY2026, Hershey's Q2 and Barry Callebaut's outlook cut all predate the window by weeks or months; McCain, ADM, Bunge, Cargill, Louis Dreyfus, ABF, Tate & Lyle and AGCO published nothing dated 23 or 24 August. This pass is quarterly by nature and zero rows outside earnings season is the expected result.",
+  "Brazil, southern Africa, SE Asia, palm oil, West Africa cocoa": "Nothing carrying a publication date verifiably inside 23-24 August on a mapped host. The Barchart cocoa and West African weather pages state no publication date, exactly as the 23 August run found; no row taken rather than guess a date."
+ },
+ "leads_considered_and_not_taken": [
+  {
+   "item": "NFU / FarmingUK: £370m gross production value lost from the 2026 wheat harvest, 196,300 t forage shortfall, £34m to replace it, one Buckinghamshire grower £220,000 down, a Dorset dairy farm £500/day extra on fodder, £303m extra nitrogen bill, £200m extra red diesel bill",
+   "reason": "Published 21 August (nfuonline.com) and 22 August (farminguk.com), both inside the PREVIOUS run's window and missed by it, both outside this one. Not recorded. Raised in STEP 10 for a human, because the figures are strong and no future window will ever cover them."
+  },
+  {
+   "item": "The Scottish Farmer, 'Harvest 2026: Dry weather, strong yields and volatile grain markets' — US wheat 41.6 Mt, spring wheat 51% good-to-excellent, CBOT wheat +3.6%, London Nov-26 feed wheat £201.00/t, GB winter barley 6.8 t/ha and OSR 3.9 t/ha",
+   "reason": "The page body would not render through the fetch tool on three attempts, returning an empty document, so no publication date and no verbatim sentence could be confirmed. thescottishfarmer.co.uk is also unmapped in badge_map.json. The GB winter barley 6.8 t/ha and OSR 3.9 t/ha yields are not yet in the corpus and are worth a human retrieval."
+  },
+  {
+   "item": "Odisha Connect, 'Double Blow for Sweet Sellers and Consumers Ahead of Raksha Purnima', published about 23 August",
+   "reason": "Festival-demand and tax-driven price story with no weather attribution visible. Below the capture bar as forecast/market commentary rather than a weather impact."
+  },
+  {
+   "item": "Down To Earth, 'Deep depression in Bay of Bengal ... Odisha paddy farmers' — 26,000 ha of 179,000 ha damaged in Ganjam, 5,000 ha of 25,000 ha in Gajapati",
+   "reason": "Published 16 November 2023. Surfaced high in a search for late-August 2026 Odisha crop news and is exactly the misattributed-archive-page trap STEP 1B warns about. Discarded on checking the date."
+  },
+  {
+   "item": "USDA FAS GAIN, 'India: Monsoon Recovery Fails to Boost Sluggish Crop Planting', IN2026-0041, August 2026",
+   "reason": "Both the landing page and the PDF returned empty documents through the fetch tool, so neither the publication date nor any verbatim sentence could be confirmed. No row taken. This is a genuinely valuable Official-badge Indian source and it is unreadable from this sandbox — raised in STEP 10."
+  },
+  {
+   "item": "Farm Progress morning/afternoon grain market pages",
+   "reason": "Rolling pages with no stable publication date; farmprogress.com is also unmapped. No datable row could be built."
+  }
+ ],
+ "never_checked_exception_used": false,
+ "never_checked_exception_note": "Not used. Every source in source_manifest.json had last_checked 2026-08-23, one day old, so no source qualified. USDA FAS GAIN has no manifest entry and would have qualified as never checked, but its pages returned empty documents so nothing could be taken from it.",
+ "rows_inserted": [
+  {
+   "id": "x001",
+   "claim_key": "IN|mixed_grains|kharif 2026|rainfall_mm|1044.8|up",
+   "series_key": "IN|odisha|mixed_grains|rainfall_mm|Odisha Connect",
+   "badge": "Press",
+   "flag_status": "caveated"
+  },
+  {
+   "id": "x002",
+   "claim_key": "IN|mixed_grains|kharif 2026|rainfall_mm|121.6|up",
+   "series_key": "IN|gajapati, odisha|mixed_grains|rainfall_mm|Odisha Connect",
+   "badge": "Press",
+   "flag_status": "caveated"
+  }
+ ],
+ "badging": {
+  "unmapped_added": [
+   {
+    "domain": "odishaconnect.com",
+    "assigned": "Press",
+    "row": "x001"
+   }
+  ],
+  "note": "odishaconnect.com matched nothing in badge_map.json, so both rows took source_badge Press and the domain was appended to index/unmapped_domains.json. No flag_status was set for the unmapped domain, per STEP 7. badge_map.json was not edited."
+ },
+ "anomalies": [
+  "Window one day long. Two rows is expected for a one-day window and is not evidence of a failed sweep.",
+  "Fourteen series now hold more than one reading with no label in series_labels.json and are therefore chartable:false. Listed in the email with suggested labels.",
+  "Argentina: zero rows across five consecutive runs.",
+  "Two source pages returned empty documents through the fetch tool: thescottishfarmer.co.uk and fas.usda.gov (GAIN landing page and PDF). Both are recoverable by a human."
+ ],
+ "event_date_before_published_date_by_over_a_year": [],
+ "quotes_not_fully_supporting_figures": [],
+ "contradictions": []
+}

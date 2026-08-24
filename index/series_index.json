@@ -4376,5 +4376,39 @@
   ],
   "label": null,
   "chartable": false
+ },
+ "IN|odisha|mixed_grains|rainfall_mm|Odisha Connect": {
+  "country": "IN",
+  "region": "Odisha",
+  "crop": "mixed_grains",
+  "metric_name": "rainfall_mm",
+  "metric_unit": "mm",
+  "publisher": "Odisha Connect",
+  "readings": [
+   {
+    "event_date": "2026-08-23",
+    "metric_value": 1044.8,
+    "claim_id": "x001"
+   }
+  ],
+  "label": null,
+  "chartable": false
+ },
+ "IN|gajapati, odisha|mixed_grains|rainfall_mm|Odisha Connect": {
+  "country": "IN",
+  "region": "Gajapati, Odisha",
+  "crop": "mixed_grains",
+  "metric_name": "rainfall_mm",
+  "metric_unit": "mm",
+  "publisher": "Odisha Connect",
+  "readings": [
+   {
+    "event_date": "2026-08-23",
+    "metric_value": 121.6,
+    "claim_id": "x002"
+   }
+  ],
+  "label": null,
+  "chartable": false
  }
 }

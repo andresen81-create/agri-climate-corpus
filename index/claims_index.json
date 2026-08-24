@@ -1378,5 +1378,13 @@
  "US|maize|heat|yield|2026-07-A": {
   "id": "v017",
   "corroboration_count": 1
+ },
+ "IN|mixed_grains|kharif 2026|rainfall_mm|1044.8|up": {
+  "id": "x001",
+  "corroboration_count": 1
+ },
+ "IN|mixed_grains|kharif 2026|rainfall_mm|121.6|up": {
+  "id": "x002",
+  "corroboration_count": 1
  }
 }
